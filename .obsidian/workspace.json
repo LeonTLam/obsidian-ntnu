@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping/Censys.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -149,7 +147,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec7769009d82a735",
+  "active": "3e07b4fa04ec0866",
   "lastOpenFiles": [
     "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping/Censys.md",
     "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping",
