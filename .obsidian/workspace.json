@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe5bbbc4a72a8f46",
+        "id": "650d8fc2dc20e106",
         "type": "tabs",
         "children": [
           {
-            "id": "2c5c3c9527af8909",
+            "id": "95f8f1cfba514370",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
-          },
-          {
-            "id": "716e7ec56bb6960d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +150,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "716e7ec56bb6960d",
+  "active": "95f8f1cfba514370",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "README.md",
