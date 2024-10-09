@@ -11,8 +11,11 @@
             "id": "3f9274eb94a47389",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".gitignore",
+                "staged": false
+              }
             }
           }
         ]
@@ -147,12 +150,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e07b4fa04ec0866",
+  "active": "3f9274eb94a47389",
   "lastOpenFiles": [
+    "README.md",
     "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping/Censys.md",
     "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping",
     "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam",
-    "README.md",
     "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Technical Information Gathering (home exam)/BMW (30).md",
     "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009145328.png",
     "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009134141.png",
