@@ -136,6 +136,18 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "3b489ad5719bf79f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 4
