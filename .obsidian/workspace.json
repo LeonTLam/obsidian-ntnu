@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f152d814a22db726",
+    "id": "938d016ecadb9bf4",
     "type": "split",
     "children": [
       {
-        "id": "e6e498173566b5a4",
+        "id": "fe5bbbc4a72a8f46",
         "type": "tabs",
         "children": [
           {
-            "id": "3f9274eb94a47389",
+            "id": "2c5c3c9527af8909",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".gitignore",
+                "file": ".obsidian/plugins/obsidian-git/data.json",
                 "staged": false
               }
             }
@@ -24,15 +24,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0473ed70e3768361",
+    "id": "f3eb59d28889b2f3",
     "type": "split",
     "children": [
       {
-        "id": "42acf8663969b2ae",
+        "id": "a7a873161e6c8f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "ec7769009d82a735",
+            "id": "8a85d1c40391d3c8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -42,7 +42,7 @@
             }
           },
           {
-            "id": "c8b0c4ed12616136",
+            "id": "90f3391829206325",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "d44129c0f211c2dc",
+            "id": "735b180c896c0a85",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,15 +71,15 @@
     "width": 300
   },
   "right": {
-    "id": "f02f10db75a107d6",
+    "id": "528af18338c31304",
     "type": "split",
     "children": [
       {
-        "id": "e9a0faaf0079009b",
+        "id": "4f05a0692c8c2170",
         "type": "tabs",
         "children": [
           {
-            "id": "c597f3a07e6897fc",
+            "id": "d6aff1a67a9d34bc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -95,18 +95,7 @@
             }
           },
           {
-            "id": "65aba8ba9d3fc4e6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9ef33a69e8812a4a",
+            "id": "19b7065949ed4d4d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -117,7 +106,7 @@
             }
           },
           {
-            "id": "28b24b7a1b15dd05",
+            "id": "18436c9f7a128e5b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -125,7 +114,7 @@
             }
           },
           {
-            "id": "3e07b4fa04ec0866",
+            "id": "b62c5511ebee031e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -138,14 +127,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,48 +150,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f9274eb94a47389",
+  "active": "2c5c3c9527af8909",
   "lastOpenFiles": [
     "README.md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping/Censys.md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Technical Information Gathering (home exam)/BMW (30).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009145328.png",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009134141.png",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20240909142822.png",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009163044.png",
-    "Welcome.md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Technical Information Gathering (home exam)/Hydro (30).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Technical Information Gathering (home exam)/Telenor (30).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Technical Information Gathering (home exam)/Venti Pumpkin Spice Latte  (30).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Technical Information Gathering (home exam)/Vipps backoffice (30).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping (home exam)/Padawan all ports (40).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping (home exam)/Detect the version (30).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009153536.png",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009153346.png",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/OSINT (home exam)/The Pitfall (80).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009150953.png",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009145354.png",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/OSINT (home exam)/Lovely Giant Again (50).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/OSINT (home exam)/Lovely Giant (70).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009143228.png",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Images/Pasted image 20241009143142.png",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Technical Information Gathering (home exam)",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Technical Information Gathering (Home exam).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping (home exam)/Censys (30).md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/Network Mapping (home exam)",
-    "First_Semester/TTM4240 Avansert nettverkskontroll og a/Lecture Notes/Week 37 - OSPF (Open Shortest Path First).md",
-    "First_Semester/TTM4158 Pålitelig ytelsesdesign/Lecture Notes/Week 36 - Queueing Theory Basics.md",
-    "First_Semester/TTM4158 Pålitelig ytelsesdesign/Lecture Notes/Week 36 - Elementary Stochastic Processes.md",
-    "First_Semester/TTM4105 Aksess- og transportnett/Lecture Notes/Wireless Transmission Part 2.md",
-    "First_Semester/TTM4158 Pålitelig ytelsesdesign/Lecture Notes",
-    "First_Semester/TTM4105 Aksess- og transportnett/Lecture Notes",
-    "First_Semester/TTM4158 Pålitelig ytelsesdesign",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Home Exam/OSINT (home exam)",
-    "First_Semester/TTM4240 Avansert nettverkskontroll og a/Lecture Notes/Week 36 - IGP & OSPF.md",
-    "First_Semester/IIK3100 Etisk hacking og penetrasjonstest/Notes",
-    "First_Semester/TTM4240 Avansert nettverkskontroll og a/Week 36 - Links/Interior gateway protocols.md"
+    "Untitled.md"
   ]
 }
