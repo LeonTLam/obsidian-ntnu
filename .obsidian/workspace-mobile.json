@@ -117,9 +117,17 @@
             "file": "README.md"
           }
         }
+      },
+      {
+        "id": "4e544524dc9bc348",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
