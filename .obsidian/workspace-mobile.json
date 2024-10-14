@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f837b4698a7f4cb3",
+    "id": "1ea81110fa19d45b",
     "type": "split",
     "children": [
       {
-        "id": "3d8419a539fbe234",
+        "id": "749ea77f7ecb5265",
         "type": "tabs",
         "children": [
           {
-            "id": "04f90cd72b91b89e",
+            "id": "987f94c1c422c3b7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2024-10-10 02.21.51.excalidraw.md"
+                "file": "Excalidraw/1.2_Addressing.excalidraw.md"
               }
             }
           }
@@ -23,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80b76f3b58d09eda",
+    "id": "1a6480791a593e68",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d7b47853fbba134c",
+        "id": "142250eac5c44377",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -37,7 +37,7 @@
         }
       },
       {
-        "id": "889e999de28a7ccc",
+        "id": "002db201b1925a88",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -52,7 +52,7 @@
         }
       },
       {
-        "id": "a9ba846d3c2d2068",
+        "id": "46da6d763afe12db",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -63,7 +63,7 @@
         }
       },
       {
-        "id": "9aea0f70248d5295",
+        "id": "a16f9aa1673a3c7d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -74,16 +74,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7480987124741dda",
+    "id": "eb5c1cca8d185dcc",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8eab8232ee27e97e",
+        "id": "9713b17b9027558f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawing 2024-10-10 02.21.51.excalidraw.md",
+            "file": "Excalidraw/1.2_Addressing.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,29 +95,29 @@
         }
       },
       {
-        "id": "7c493ca129421915",
+        "id": "34eaebe9ab7f37f1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Drawing 2024-10-10 02.21.51.excalidraw.md",
+            "file": "Excalidraw/1.2_Addressing.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "56a2b3140142bca7",
+        "id": "4bef40b9f816fb09",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Drawing 2024-10-10 02.21.51.excalidraw.md"
+            "file": "Excalidraw/1.2_Addressing.excalidraw.md"
           }
         }
       },
       {
-        "id": "4e544524dc9bc348",
+        "id": "7c3fe706d7a35351",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -129,21 +129,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04f90cd72b91b89e",
+  "active": "142250eac5c44377",
   "lastOpenFiles": [
-    "/Drawing 2024-10-10 02.21.51.excalidraw.md",
-    "Drawing 2024-10-10 02.21.51.excalidraw.md",
-    "README.md",
-    "Untitled.md"
+    "Excalidraw/Drawing 2024-10-14 16.30.46.excalidraw.md",
+    "Excalidraw/1.2_Addressing.excalidraw.md",
+    "Excalidraw",
+    "README.md"
   ]
 }
