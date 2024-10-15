@@ -26,9 +26,19 @@
                 "file": "Excalidraw/Py_Task4.4b.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "689448200bdab658",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Py_Task3.3d.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Py_Task4.4b.excalidraw.md",
+            "file": "Excalidraw/Py_Task3.3d.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Py_Task4.4b.excalidraw.md",
+            "file": "Excalidraw/Py_Task3.3d.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Py_Task4.4b.excalidraw.md"
+            "file": "Excalidraw/Py_Task3.3d.excalidraw.md"
           }
         }
       },
@@ -150,10 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6002b2f225def05b",
+  "active": "689448200bdab658",
   "lastOpenFiles": [
-    "Excalidraw/1.2_Addressing.excalidraw.md",
     "Excalidraw/Py_Task4.4b.excalidraw.md",
+    "Excalidraw/Py_Task3.3d.excalidraw.md",
+    "Excalidraw/1.2_Addressing.excalidraw.md",
     "Excalidraw/Drawing 2024-10-14 16.30.46.excalidraw.md",
     "Excalidraw",
     "README.md"
