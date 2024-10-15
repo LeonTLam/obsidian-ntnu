@@ -1,5 +1,0 @@
-# Flag
-
-> <FLAG>
-
-# Promp
