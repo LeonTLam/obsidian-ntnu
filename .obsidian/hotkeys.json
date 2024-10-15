@@ -7,5 +7,14 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:create-TaskName (SCORE).md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
   ]
 }

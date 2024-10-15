@@ -11,3 +11,5 @@ Using the website and tool **search.censys.io** to find and monitor every server
 
 Search for hosts with search-prompt:
 > ((location.city= "Oslo") and services.software.vendor=`Ubuntu`) and (services.port=`2233` and services.port=`8069`)
+
+![[censys_solution1.png]]
