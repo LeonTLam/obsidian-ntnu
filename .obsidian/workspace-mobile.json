@@ -14,7 +14,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "1.2_Addressing.excalidraw"
             }
           }
         ]
@@ -33,7 +35,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -48,7 +52,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -59,7 +65,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -67,7 +75,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -91,7 +101,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -103,7 +115,9 @@
             "file": "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -113,7 +127,9 @@
           "type": "outline",
           "state": {
             "file": "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -121,7 +137,9 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -129,6 +147,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
