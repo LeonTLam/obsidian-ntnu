@@ -7,5 +7,23 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:create-TaskName (SCORE).md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:create-Semester_1/IIK3100_Etisk_hacking/Home_Exam/Template_Home_Exam.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
   ]
 }
