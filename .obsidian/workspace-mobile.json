@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md"
+                "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task2.4b.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "1.2_Addressing.excalidraw"
+              "title": "Py_Task2.4b.excalidraw"
             }
           }
         ]
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md",
+            "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task2.4b.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md",
+            "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task2.4b.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md"
+            "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task2.4b.excalidraw.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -160,6 +160,7 @@
   },
   "active": "1c6559cfa6e76e0a",
   "lastOpenFiles": [
+    "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md",
     "Semester_1/IIK3100_Etisk_hacking/Images/censys_solution1.png",
     "Semester_1/IIK3100_Etisk_hacking/Images/Pitfall_solution2.png",
     "Semester_1/IIK3100_Etisk_hacking/Images/Pitfall_solution1.png",
@@ -173,13 +174,11 @@
     "Semester_1/IIK3100_Etisk_hacking/Home_Exam/OSINT/Lovely Giant Again (50).md",
     "Semester_1/IIK3100_Etisk_hacking/Home_Exam/OSINT/Lovely Giant (70).md",
     "Semester_1/IIK3100_Etisk_hacking/Home_Exam/Network_Mapping/Censys (30).md",
-    "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md",
     "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task4.4e.excalidraw.md",
-    "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task4.4b.excalidraw.md",
+    "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task2.4b.excalidraw.md",
     "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task3.3d.excalidraw.md",
     "/Semester_1/IIK3100_Etisk_hacking/Images/censys_solution1.png",
     "/Semester_1/IIK3100_Etisk_hacking/Images/Pitfall_solution2.png",
-    "/Semester_1/IIK3100_Etisk_hacking/Images/Pitfall_solution1.png",
     "/Semester_1/IIK3100_Etisk_hacking/Home_Exam/Template_Home_Exam.md",
     "/Semester_1/IIK3100_Etisk_hacking/Home_Exam/OSINT/Pitfall (80).md",
     "/Semester_1/IIK3100_Etisk_hacking/Home_Exam/OSINT/Lovely Giant Again (50).md",
