@@ -14,7 +14,7 @@ Utilize Burp to intrude and interfere with responses to check multiple songid's.
 
 Instead of bruteforcing and checking thousands of songid's, recognize a pattern where all albums end with 53. 
 
-Edit payload and attack all songid's with a suffix of 53. Sort all attacks by largest to lowest content length. Scroll through the reponses until finding a html file with appropiate flag.
+Edit payload and attack all songid's with a suffix of 53. Sort all attacks by largest to lowest content length. Scroll through the responses until finding a html file with appropriate flag.
 
 # Additional Info
 
