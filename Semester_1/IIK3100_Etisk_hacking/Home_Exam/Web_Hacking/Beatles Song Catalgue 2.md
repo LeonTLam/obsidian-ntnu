@@ -20,7 +20,16 @@ This cookie can be used with **SQLMap** to test vulnerability of specific forms,
 
 ````
 sqlmap -u "http://r2d2.hackingarena.com:1819/index.php" --cookie="PHPSESSID=4h84k6rantkj5olieg85ui31q5" --forms --dbs
-
-Additional information
 ````
 
+We were then asked which form we wanted to test and we chose the form for city. The unique text form which appeared by logging in as anonymous
+
+![[Pasted image 20241024155950.png]]
+
+Furthermore, we allowed SQLMap to test the field with random values, which prompted us a message telling us that post parameter 'City' was injectable. Finally, we allowed SQLMap to exploit the SQL injection.
+
+![[Pasted image 20241024160208.png]]
+
+The bottom four databases are known to be default in a system. Therefor, we proceed with the database "BeatlesData".
+
+We now attempt to extract tables from database "BeatlesData", and yet again select the exploitable 
