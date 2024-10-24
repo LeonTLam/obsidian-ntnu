@@ -35,4 +35,14 @@ hydra -L Desktop/villages -p '' sidious.hackingarena.com -s 803 http-post-form "
 
 * -L villages.txt: Specifies file of villages
 * -p '': Specifies an the empty field for villages
-* 
+* sidious.hackingarena.com: Target web domain
+* -s 803: Web server port (non-standard port)
+* http-post-form: Use a POST form module
+* "/forgot/reminder.php:birthplace=^USER^": Specify page and form field for birthplace, replacing ^USER^ with the villages.
+* :incorrect answer: Message returned by webpage when post fails
+
+Running the command returns the attempt and hopefully a password return if succeeded.
+
+![[Pasted image 20241024141838.png]]
+
+Further steps is as mentioned above, logging in and retrieving the flag.
