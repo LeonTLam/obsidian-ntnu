@@ -14,6 +14,9 @@ Since we are working on multiple user-logins and already have access to 3 of the
 * Paul: beatlesid=15803
 * George: beatlesid=10303
 
+Immediately we can tell that the id's are prime numbers, which led me to brute force the cookie id's with all prime numbers between 11161 and 15803 using **fuff**
+
+
 # Additional Info
 
 Additional solution / info
