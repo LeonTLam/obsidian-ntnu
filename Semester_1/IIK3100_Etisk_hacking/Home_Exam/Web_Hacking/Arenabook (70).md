@@ -1,6 +1,6 @@
 # Flag
 
-> **FLAG**
+> **UiO-Hacking-Arena{Sigurd_is_a_flink_bisk}**
 
 # Prompt
 
@@ -22,9 +22,10 @@ I imported the table of villages from Wiki to Excel and adjusted the formatting 
 
 ![[Pasted image 20241024135735.png]]
 
-From Kali I used **BurpSuite** to intrude and attack the text field with the list of villages I had collected. The result is the largest length response, village called "Vinjastranda" and password "MyDogNameIsSigurd".
+From Kali I used **BurpSuite** to intrude and attack the text field with the list of villages I had collected. The result is the largest length response, village called "Vinjastranda" and password "MyDogNameIsSigurd". After logging in, I'm greeted by the flag "UiO-Hacking-Arena{Sigurd_is_a_flink_bisk}"
 
 
 # Additional Info
 
-Additional solution / info
+Alternative solution after collecting all villages of Telemark, is to use Hydra to attack the website and page "forgot password"
+
