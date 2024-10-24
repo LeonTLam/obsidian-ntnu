@@ -1,6 +1,6 @@
 # Flag
 
-> **FLAG**
+> **Hacking-Arena{Prime_days_a_week}**
 
 # Prompt
 
@@ -29,8 +29,13 @@ This allows us to check all beatlesid's with the prime numbers from a txt-file, 
 
 Lastly, we want to check the foreign prime number by using **Curl**
 
+```
+curl -b "beatlesid=17159" "http://vader.hackingarena.com:825/index.php"
+```
 
+![[Pasted image 20241024165046.png]]
 
+We have now found a flag.
 # Additional Info
 
 Additional solution / info
