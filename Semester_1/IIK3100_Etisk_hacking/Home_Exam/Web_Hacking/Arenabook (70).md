@@ -18,9 +18,12 @@ Since I don't have a password, I'll begin with "Forgot password" instead. Enteri
 
 This information can be further researched based on the facts about Sandra an her family. The fact that her whole family being born in Telemark county, tells me that I simply have to brute force every village from Telemark. ([Wikipedia](https://en.wikipedia.org/wiki/List_of_villages_in_Telemark))
 
-I imported the table of villages from Wiki to Excel and adjusted the formatting by removing symbols and unnecessary information.
+I imported the table of villages from Wiki to Excel and adjusted the formatting by removing symbols and unnecessary information. Applied it to the attack payload by "Simple list"
 
-From Kali I used **BurpSuite** to intrude and attack the text field with the list of villages I had collected.
+![[Pasted image 20241024135735.png]]
+
+From Kali I used **BurpSuite** to intrude and attack the text field with the list of villages I had collected. The result is the largest length response, village called "Vinjastranda" and password "MyDogNameIsSigurd".
+
 
 # Additional Info
 
