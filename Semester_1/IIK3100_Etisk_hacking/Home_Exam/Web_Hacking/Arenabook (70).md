@@ -8,7 +8,15 @@
 
 # Solution
 
-solution here
+Entering the website, I immediately see that I can search up an user and check out information regarding the person and their username.
+
+Inputting Sandra resulted in the username - "serdodisen" and facts regarding her current living situation, hobbies and her family.
+
+The fact that I have gotten her username, hints me towards an attempt to log onto her account (not really a nice thing to do) by pressing "sign in".
+
+Since I don't have a password, I'll begin with "Forgot password" instead. Entering the username "serdodisen" in the text field, I am further asked to enter the place of birth of her grandmother.
+
+This information can be further researched based on the facts about Sandra an her family. The fact that her whole family being born in Telemark county, tells me that I simply have to brute force every 
 
 # Additional Info
 
