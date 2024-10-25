@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Py_Task2.4b.excalidraw"
             }
+          },
+          {
+            "id": "c4a4fb2af2740b66",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Quiz1/Drawing 2024-10-25 12.42.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-25 12.42.30.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task2.4b.excalidraw.md",
+            "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Quiz1/Drawing 2024-10-25 12.42.30.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task2.4b.excalidraw.md",
+            "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Quiz1/Drawing 2024-10-25 12.42.30.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -126,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task2.4b.excalidraw.md"
+            "file": "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Quiz1/Drawing 2024-10-25 12.42.30.excalidraw.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -158,10 +171,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c6559cfa6e76e0a",
+  "active": "c4a4fb2af2740b66",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
+    "Excalidraw/Scripts",
+    "Excalidraw/Scripts/Downloaded",
     "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task2.4b.excalidraw.md",
+    "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Quiz1/Drawing 2024-10-25 12.42.30.excalidraw.md",
+    "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Quiz1",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-10-21 12.08.33.excalidraw.md",
     "Excalidraw",
     "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings/1.2_Addressing.excalidraw.md",
@@ -194,17 +213,11 @@
     "/Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/Py_Task3.3d.excalidraw.md",
     "Excalidraw/Py_Task4.4e.excalidraw.md",
     "Excalidraw/Py_Task4.4b.excalidraw.md",
-    "Excalidraw/1.2_Addressing.excalidraw.md",
     "Semester_1/IIK3100_Etisk_hacking/Home_Exam/OSINT",
     "Semester_1/IIK3100_Etisk_hacking/Home_Exam/Network_Mapping",
     "Semester_1/TTM4240_Avansert_nettverkskontroll/Drawings",
     "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings",
     "Semester_1/IIK3100_Etisk_hacking/Images",
-    "Semester_1/IIK3100_Etisk_hacking/Home_Exam",
-    "Semester_1/TTM4240_Avansert_nettverkskontroll",
-    "Semester_1/TTM4158_Pålitelig_ytelsesdesign",
-    "Semester_1/IIK3100_Etisk_hacking",
-    "Excalidraw/Py_Task3.3d.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-14 16.30.46.excalidraw.md"
+    "Semester_1/IIK3100_Etisk_hacking/Home_Exam"
   ]
 }
