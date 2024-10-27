@@ -1,6 +1,6 @@
 # Flag
 
-> **FLAG**
+> **Hacking-Arena{Everybody_in_come_on_let's_flag}}**
 
 # Prompt
 
@@ -66,6 +66,31 @@ lou:Erica
 shadow.old.5
 lou:Monica
 ```
+
+Based on the prompt and the information gathered, it is apparent that this CTF is related to the song **Mambo No. 5** by **Lou Bega**. 
+
+Lyrics:
+
+```
+A little bit of Monica in my life  
+A little bit of Erica by my side  
+A little bit of Rita's all I need  
+A little bit of Tina's what I see  
+A little bit of Sandra in the sun  
+A little bit of Mary all night long  
+A little bit of Jessica, here I am  
+A little bit of you makes me your man (ah)
+```
+
+We have gathered 5 names from the song through the files called **shadow.old** and based on the lyrics, the last name missing would then be **Jessica**. Through FileZilla, we now attempt to login with the credentials
+
+```
+lou:Jessica
+```
+
+![[Pasted image 20241027025833.png]]
+
+We retrieve and download the file called **Flag** and open it to find the flag for the CTF.
 # Additional Info
 
 Additional solution / info
