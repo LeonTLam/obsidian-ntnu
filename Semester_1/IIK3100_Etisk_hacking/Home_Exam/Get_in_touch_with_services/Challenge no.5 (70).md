@@ -23,7 +23,7 @@ Find the server on port 21214 is running on FTP, and proceed by connecting to th
 
 ![[Pasted image 20241027023818.png]]
 
-I downloaded all of the shadow files which revealed hashed login credentials which I used **CyberChef** to decode.
+I downloaded all of the shadow files which revealed hashed login credentials which I used **[dcode](https://www.dcode.fr/md5-hash)** to decode.
 
 ```
 shadow.old
@@ -45,7 +45,17 @@ shadow.old.5
 lou:$1$09084cc0cda34fd80bfa3cc0ae8fe3dc:18777:0:99999:7:::
 ```
 
+Login credentials:
 
+```
+shadow.old
+lou:Mary
+
+shadow.old.1
+lou:Sandra
+
+
+```
 # Additional Info
 
 Additional solution / info
