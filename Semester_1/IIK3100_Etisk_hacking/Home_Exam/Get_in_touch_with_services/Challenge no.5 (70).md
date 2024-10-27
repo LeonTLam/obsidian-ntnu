@@ -11,7 +11,7 @@
 
 # Solution
 
-solution here
+Run **nmap** and port scan from 21000 to 22000. 
 
 # Additional Info
 
