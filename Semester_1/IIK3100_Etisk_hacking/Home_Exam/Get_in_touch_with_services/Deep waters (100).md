@@ -19,10 +19,15 @@ nmap -sV -p4000-5000 158.39.75.16
 Attempt to access Samba share by following command:
 
 ````
-smbclient //<ip>/<share_name>
+smbclient -p <port> //<ip>/<share_name> -U <username>
+then
+password for user "joehouston"
 
+Port: 4445
 Ip address: 158.39.75.16
-Share_name: Based on the attached picture, ship that sank at given coordinations.
+Share_name: Based on the attached picture, ship that sank at given coordinations K-129.
+Username: joehouston
+Password: jennifer
 ````
 
 SMB client name 
