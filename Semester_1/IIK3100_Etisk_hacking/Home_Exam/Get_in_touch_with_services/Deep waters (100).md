@@ -30,10 +30,16 @@ Username: joehouston
 Password: jennifer
 ````
 
-SMB client name 
+When connected to SMB Share, navigate through files and retrieve a file that may lead to flag. In this case, **secretmission.txt** through command:
 
-smbclient //<ip>/<share_name> port <4445> -U <username> 
----> password: <jennifer>
+```
+get <file> <save to local dir>
+```
+
+![[Pasted image 20241029212717.png]]
+
+Opening the file, we can tell that the information within is trying to lead us to the flag, but we require more information regarding **Mr. P**
+
 
 Extract all fiiles, open txt and find surname for Mr. P.
 Google ship john shipwreck cia. find whole name for mr. P
