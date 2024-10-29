@@ -16,10 +16,9 @@ Attempt to access Samba share by following command:
 
 ````
 smbclient //<ip>/<share_name>
-```
 
-
-
+Ip address: 158.39.75.16
+Share_name: Based on the attached picture, ship that sank at given coordinations.
 ````
 
 SMB client name 
