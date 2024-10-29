@@ -1,6 +1,7 @@
 # Flag
 
-> **FLAG**
+> **Hacking-Arena{r3tri3v3_th3_submar1ne!}**
+
 
 # Prompt
 
@@ -43,11 +44,14 @@ Opening the file, we can tell that the information within is trying to lead us t
 The mysterious individual **Mr. P** also known as **John Parangosky** extracted from [wiki/Project_Azorian ](https://en.wikipedia.org/wiki/Project_Azorian)
 
 ![[Pasted image 20241029213750.png]]
-Extract all fiiles, open txt and find surname for Mr. P.
-Google ship john shipwreck cia. find whole name for mr. P
 
-use last name to find a folder, and file filename doesier.txt
+Extract file based on **secretmission.txt** guidance. 
 
+```
+get ".Parangosky/dossier.txt" <local_path>
+```
+
+Open dossier.txt and retrieve flag
 # Additional Info
 
 Additional solution / info
