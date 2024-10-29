@@ -4,7 +4,7 @@
 
 # Prompt
 
-> **PROMPT**
+> **We intercepted a document exchanged between two CIA operators. We noted the IP as 158.39.75.16 and detected some activity on a port somewhere between 4000 and 5000. Can you find the purpose of their mission?![[OperationDancing.jpg]]**
 
 # Solution
 
