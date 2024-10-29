@@ -8,11 +8,19 @@
 
 # Solution
 
-Use ip and find open port between x-x using nmap.
+Use **nmap** to scan hosts on ip **158.39.75.16** between ports **4000 - 5000**.
 
-Find active service
+![[Pasted image 20241029205725.png]]
 
-Open port 4445, Service samba.
+Attempt to access Samba share by following command:
+
+````
+smbclient //<ip>/<share_name>
+```
+
+
+
+````
 
 SMB client name 
 
