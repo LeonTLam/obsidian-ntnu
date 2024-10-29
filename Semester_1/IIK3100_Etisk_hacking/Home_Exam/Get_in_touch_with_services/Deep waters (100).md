@@ -40,7 +40,9 @@ get <file> <save to local dir>
 
 Opening the file, we can tell that the information within is trying to lead us to the flag, but we require more information regarding **Mr. P**
 
+The mysterious individual **Mr. P** also known as **John Parangosky** extracted from [wiki/Project_Azorian ](https://en.wikipedia.org/wiki/Project_Azorian)
 
+![[Pasted image 20241029213750.png]]
 Extract all fiiles, open txt and find surname for Mr. P.
 Google ship john shipwreck cia. find whole name for mr. P
 
