@@ -10,6 +10,10 @@
 
 Use **nmap** to scan hosts on ip **158.39.75.16** between ports **4000 - 5000**.
 
+```
+nmap -sV -p4000-5000 158.39.75.16
+```
+
 ![[Pasted image 20241029205725.png]]
 
 Attempt to access Samba share by following command:
