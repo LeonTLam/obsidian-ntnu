@@ -1,6 +1,6 @@
 # Flag
 
-> **Hacking-Arena{Everybody_in_come_on_let's_flag}}**
+> ****
 
 # Prompt
 
