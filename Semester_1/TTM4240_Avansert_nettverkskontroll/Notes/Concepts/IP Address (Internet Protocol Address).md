@@ -9,4 +9,17 @@ How an IP address works in a web-surfing scenario:
 
 **Two types of IP Address**
 
-1. *IPv4:* Internet Protocol version 4. Consists of 4 numbers separated by dots. Each number ranging from 0-255 in decimal numbers.
+1. *IPv4:* Internet Protocol version 4. Consists of 4 numbers separated by dots. Each number ranging from 0-255 in decimal numbers. From a computer's perspective, the numbers are only 0's and 1's. Therefore, in binary, the range (0-255) is written as (00000000 - 11111111). Each group of 4 numbers is represented by an 8-digit binary digits, so the whole IPv4 binary address can be represented by 32-bits of binary digits. There can be a total of 2^25 unique sequence of bits, in other words, IP's assigned to 4,294,967,296 devices.
+
+``` Example
+189.123.123.90
+```
+
+**Classes of IPv4 Address**
+
+| IP Class | Address Range | Max number of networks |
+| -------- | ------------- | ---------------------- |
+| Class A  |               |                        |
+|          |               |                        |
+|          |               |                        |
+|          |               |                        |
