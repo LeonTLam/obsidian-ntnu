@@ -26,4 +26,6 @@ How an IP address works in a web-surfing scenario:
 | Class E  | 240-254       | Reserved for Research and Development. |
 *0.0.0.0* is a **Non-routable** address, indicates an invalid or inapplicable END-user address.
 
-A loopback address is a distinct reserved IP range from 127.0.0.0 to 127.255.255.255, with the exception of 127.255.255.255 being the broadcast address for 127.0.0.0/8.
+A [[Loopback Address]] is a distinct reserved IP range from 127.0.0.0 to 127.255.255.255, with the exception of 127.255.255.255 being the broadcast address for 127.0.0.0/8.
+
+2. *IPv6:* Since the issue of running out of IP's on IPv4 exists, the world is gradually making its way to IPv6 addresses. 
