@@ -1,5 +1,5 @@
 Set of rules, often viewed in table format. 
-Used to determine where data packets traveling over an Internet Protocol (IP) network will be directed.
+Used to determine where data packets traveling over an Internet Protocol (IP) network will be directed. [[IP Address (Internet Protocol Address)]]
 
 ```
 **Destination**      **Subnet mask**         **Interface**

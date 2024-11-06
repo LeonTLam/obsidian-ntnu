@@ -28,4 +28,9 @@ How an IP address works in a web-surfing scenario:
 
 A [[Loopback Address]] is a distinct reserved IP range from 127.0.0.0 to 127.255.255.255, with the exception of 127.255.255.255 being the broadcast address for 127.0.0.0/8.
 
-2. *IPv6:* Since the issue of running out of IP's on IPv4 exists, the world is gradually making its way to IPv6 addresses. 
+2. *IPv6:* Since the issue of running out of IP's on IPv4 exists, the world is gradually making its way to IPv6 addresses. It is written as a group of 8 hexadecimal numbers separated with colons, a 128-bit IP address. In other word, a total of 2^128 devices can be assigned with unique addresses.
+
+```Example
+2011:0bd9:75c5:0000:0000:6b3e:0170:8394
+```
+
