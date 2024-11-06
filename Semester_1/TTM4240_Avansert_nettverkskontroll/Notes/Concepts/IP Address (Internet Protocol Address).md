@@ -17,9 +17,13 @@ How an IP address works in a web-surfing scenario:
 
 **Classes of IPv4 Address**
 
-| IP Class | Address Range | Max number of networks |
-| -------- | ------------- | ---------------------- |
-| Class A  |               |                        |
-|          |               |                        |
-|          |               |                        |
-|          |               |                        |
+| IP Class | Address Range | Max number of networks                 |
+| -------- | ------------- | -------------------------------------- |
+| Class A  | 1-126         | 126(2^7-2)                             |
+| Class B  | 128-191       | 16384                                  |
+| Class C  | 192-223       | 2097152                                |
+| Class D  | 224-239       | Reserve for multitasking               |
+| Class E  | 240-254       | Reserved for Research and Development. |
+*0.0.0.0* is a **Non-routable** address, indicates an invalid or inapplicable END-user address.
+
+A loopback address is a distinct reserved IP range from 127.0.0.0 to 127.255.255.255, with the exception of 127.255.255.255 being the broadcast address for 127.0.0.0/8.
