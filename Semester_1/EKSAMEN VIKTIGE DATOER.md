@@ -1,2 +1,0 @@
-- [ x ] Aksess og Transportnett INNLEVERING (Lab 2)
-- 
