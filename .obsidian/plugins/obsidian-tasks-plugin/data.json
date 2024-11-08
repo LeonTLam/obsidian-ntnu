@@ -1,5 +1,5 @@
 {
-  "globalQuery": "",
+  "globalQuery": "show urgency",
   "globalFilter": "#task",
   "removeGlobalFilter": true,
   "taskFormat": "tasksPluginEmoji",
