@@ -1,17 +1,44 @@
 Figure 1, high level view of generic router architecture. Four router components can be identified.
 ![[Router architecture.png]]
+### Inside a Router Architecture
 
-* **Input ports**. 
-	* Performs physical layer function of terminating an incoming physical link at a router. 
-	* Also performs link-layer functions needed to interoperate with the link layer at the other side of the incoming link..
-	* Most crucially, a lookup function performed at input port. Forwarding table is consulted to determine router output port to which an arriving packet will be forwarded via. the switching fabric.
-* **Switching fabric**.
-	* Connects router's input ports to its output ports. Completely contained within the router - network inside a router.
-* **Output ports**.
-	* Stores packets received from the switching fabric and transmits these on the outgoing link by performing link-layer and physical-layer functions.
-	* When a link is bidirectional, an output port will typically be paired with the input port for that link on the same line card.
-* **Routing processor**.
-	* Performs control-plane functions. 
-	* In traditional routers, it executes the routing protocols, maintains routing tables and attached link state information and computes the forwarding table for the router.
-	* In SDN routers, the routing processor is respons. for commun. with the remote controller in order to receive forwarding table entries computed by the remote controller.
-	* 
+- **Router Components**:
+    - **Input Ports**:
+        - Terminates incoming physical links.
+        - Performs **link-layer functions** for interoperability.
+        - Executes **lookup function** to decide on the output port via **forwarding table**.
+        - Routes control packets to the **routing processor**.
+    - **Switching Fabric**:
+        - Links input ports to output ports; operates within the router.
+        - Routes packets internally from inputs to designated outputs.
+    - **Output Ports**:
+        - Holds and transmits packets onto outgoing links.
+        - Performs necessary link-layer and physical-layer tasks.
+    - **Routing Processor**:
+        - Manages control-plane functions.
+        - Executes **routing protocols**, maintains **routing tables**.
+        - Communicates with **SDN controllers** for routing table entries.
+        - Oversees **network management**.
+
+### Input Port Processing & Forwarding
+
+- **Forwarding Table**: Maps destination addresses to output ports.
+- **Longest Prefix Matching**:
+    - Uses longest address match to decide the output port.
+- **High-Speed Lookup**:
+    - Uses **TCAM** for fast address lookup; e.g., Cisco 6500 & 7600 series handle millions of entries.
+- **Input Queueing**:
+    - Queues packets if switching fabric is overloaded.
+    - **Head-of-the-Line (HOL) Blocking**: Front packet in queue blocks others if destined for a busy output.
+
+### Switching Fabric Techniques
+
+1. **Switching via Memory**:
+    - Traditional; CPU-controlled packet routing.
+    - Slow; bandwidth limitations on reading/writing memory.
+2. **Switching via Bus**:
+    - Shared bus connects input and output ports; each packet pre-pends label for destination port.
+    - Limited by bus speed; suited for **small networks**.
+3. **Switching via Crossbar Interconnection Network**:
+    - Parallel connections allow simultaneous data transfers.
+    - Non-blocking design; used in **Cisco 12000 series**.
