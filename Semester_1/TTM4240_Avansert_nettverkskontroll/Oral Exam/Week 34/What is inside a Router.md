@@ -5,7 +5,7 @@ Figure 1, high level view of generic router architecture. Four router components
 - **Router Components**:
     - **Input Ports**:
         - Terminates incoming physical links.
-        - Performs **link-layer functions** for interoperability.
+        - Performs **link-layer functions** for interoperability ([[Network Layers]]).
         - Executes **lookup function** to decide on the output port via **forwarding table**.
         - Routes control packets to the **routing processor**.
     - **Switching Fabric**:
@@ -22,7 +22,7 @@ Figure 1, high level view of generic router architecture. Four router components
 
 ### Input Port Processing & Forwarding
 
-- **Forwarding Table**: Maps destination addresses to output ports.
+- [[Forwarding Table]]: Maps destination addresses to output ports.
 - **Longest Prefix Matching**:
     - Uses longest address match to decide the output port.
 - **High-Speed Lookup**:
@@ -42,3 +42,24 @@ Figure 1, high level view of generic router architecture. Four router components
 3. **Switching via Crossbar Interconnection Network**:
     - Parallel connections allow simultaneous data transfers.
     - Non-blocking design; used in **Cisco 12000 series**.
+([[Switching Mechanism]])
+### Output Port Processing & Queuing
+
+- **Output Queueing**:
+    - Occurs when multiple packets target the same output port.
+    - Causes packet loss if memory for queued packets is exhausted.
+- **Active Queue Management (AQM)**:
+    - **Random Early Detection (RED)**: Proactively drops packets to signal congestion.
+
+### Packet Scheduling Techniques
+
+1. **First-In-First-Out (FIFO)**:
+    - Transmits packets in arrival order.
+2. **Priority Queuing**:
+    - Assigns priority levels; transmits highest priority first.
+    - E.g., network management packets > user traffic.
+3. **Round Robin**:
+    - Alternates transmission among classes, following circular order.
+4. **Weighted Fair Queuing (WFQ)**:
+    - Assigns weights to classes for **bandwidth allocation**.
+    - Ensures proportional bandwidth for each class based on weight.
