@@ -14,7 +14,9 @@ Determine the necessary size of padding for the attached binary.
 
 gdb ./lemontree
 
-Run binary file and 
+Run binary file and attempt to crash when output equals "... , But nothing ever".
+
+
 # Additional Info
 
 Additional solution / info
