@@ -20,6 +20,11 @@ Run binary file and attempt to crash when output equals "... , But nothing ever"
 
 Padding is equal to 156, so I proceed by finding the return address of the binary file (jmp esp)
 
+Edit template.py to match padding of 156
+![[Pasted image 20241115172120.png]]
+
+![[Pasted image 20241115172244.png]]
+
 
 # Additional Info
 
