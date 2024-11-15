@@ -23,4 +23,6 @@ Utilize Burp and proxy your way to the fruits.php webpage and start intruding wi
 
 ![[Pasted image 20241115145511.png]]
 
-Sort Intrusti
+Sort Intrusion attacks by length, where Banana is the only page larger than 954 in length.
+
+![[Pasted image 20241115145616.png]]
