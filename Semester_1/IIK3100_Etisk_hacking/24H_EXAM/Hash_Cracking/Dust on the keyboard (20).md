@@ -14,7 +14,9 @@
 
 # Solution
 
-Utilize hash-identifier to discover the hash-typ
+Utilize hash-identifier to discover the hash-type to be likely MD5.
+
+![[Pasted image 20241115133719.png]]
 
 # Additional Info
 
