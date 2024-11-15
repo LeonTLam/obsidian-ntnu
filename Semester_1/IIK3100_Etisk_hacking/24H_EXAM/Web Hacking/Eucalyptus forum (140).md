@@ -19,7 +19,14 @@ sutpylacuE
 
 ![[Pasted image 20241115205845.png]]
 
-Read through the chat logs and try to 
+Read through the chat logs and try to log in as Marlow without a password. Realize you cannot change userId either. BurpSuite and proxy the website and find the cookieId:
+
+![[Pasted image 20241115210004.png]]
+
+Split the CalypId in two parts, the first one being:
+
+QmFtYm9v - Base64
+1731702874 - UNIX Timestamp
 
 # Additional Info
 
