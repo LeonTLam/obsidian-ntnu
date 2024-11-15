@@ -1,6 +1,6 @@
 # Flag
 
-> **FLAG**
+> skarddalseggi
 
 # Prompt
 
@@ -18,6 +18,11 @@ Utilize hash-identifier to discover the hash-type to be likely MD5.
 
 ![[Pasted image 20241115133719.png]]
 
+Utilize hash-cat to crack the STRONG password (like from length 8 upwards)
+
+hashcat -m 0 -a 3 "53ba4c338b0578878240cff683fa9a1d" -1 adegiklrs ?1?1?1?1?1?1?1?1?1?1?1?1?1?1?1 -increment
+
+This will attempt cracking the hash with combinations from 1 letter upwards, where it ended on a string-value at length 13.
 # Additional Info
 
 Additional solution / info
