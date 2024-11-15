@@ -19,7 +19,8 @@ Logging in redirects us to the page in the figure below. Where we can immediatel
 
 ![[Pasted image 20241115144827.png]]
 
+Utilize Burp and proxy your way to the fruits.php webpage and start intruding with a list of fruits at the URL.
 
-# Additional Info
+![[Pasted image 20241115145511.png]]
 
-Additional solution / info
+Sort Intrusti
