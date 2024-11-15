@@ -10,8 +10,7 @@
 
 # Solution
 
-solution here
-
+Determine the necessary size of padding for the attached binary.
 # Additional Info
 
 Additional solution / info
