@@ -32,11 +32,22 @@ Lastly for sqlmap, output content from table users to retrieve password and user
 
 From here on, go back to the website and inspect the source code for the instructions to creating passwords. Use the structure and crack the hash(es) using hash-cat with following structure:
 
-Lowercase
-Uppercase
-Digits
-Minimum length of 6
+Lowercase - ?l
+Uppercase - ?u
+Digits - ?d
+Minimum length of 6 - --increment-min 6 & -i ?1?1?1?1?1?1?1?1?1?1?1?1 (6-12 length)
 
+![[Pasted image 20241115184444.png]]
+
+Next step is to log into the website with login information:
+Name=yellowfish
+Password=32uSOp
+
+![[Pasted image 20241115184734.png]]
+
+Use burp suite to find the cookieId and use ffuf to bruteforce userIds from 1 to 10000 (filter out size = 29):
+
+ffuf -u http://koala.hackingarena.no:802/profile.php?userid=FUZZ -H "Cookie: CalypId=AAABBBCCCDDD1731694671" -w "/home/kali/Desktop/userid.txt" -fs 29
 
 # Additional Info
 
