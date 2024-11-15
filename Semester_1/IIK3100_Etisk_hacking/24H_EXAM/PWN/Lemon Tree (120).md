@@ -11,6 +11,10 @@
 # Solution
 
 Determine the necessary size of padding for the attached binary.
+
+gdb ./lemontree
+
+Run binary file and 
 # Additional Info
 
 Additional solution / info
