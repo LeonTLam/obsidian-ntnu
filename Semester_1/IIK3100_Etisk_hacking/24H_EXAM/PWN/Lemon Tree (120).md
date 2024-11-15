@@ -16,7 +16,7 @@ gdb ./lemontree
 
 Run binary file and attempt to crash when output equals "... , But nothing ever".
 
-Padding
+Padding is equal to 156, so I proceed by finding 
 
 
 # Additional Info
