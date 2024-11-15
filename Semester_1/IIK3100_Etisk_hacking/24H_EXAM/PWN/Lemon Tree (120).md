@@ -16,6 +16,8 @@ gdb ./lemontree
 
 Run binary file and attempt to crash when output equals "... , But nothing ever".
 
+![[Pasted image 20241115171527.png]]
+
 Padding is equal to 156, so I proceed by finding the return address of the binary file (jmp esp)
 
 
