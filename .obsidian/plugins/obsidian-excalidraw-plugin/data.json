@@ -40,7 +40,7 @@
   "defaultMode": "normal",
   "defaultPenMode": "mobile",
   "penModeDoubleTapEraser": true,
-  "penModeSingleFingerPanning": true,
+  "penModeSingleFingerPanning": false,
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": true,
