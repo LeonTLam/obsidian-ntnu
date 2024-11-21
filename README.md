@@ -1,12 +1,2 @@
-# Folder structure
-* **Semester** **{num}**
-	* **Subject**
-		* **Images**/**Drawings**
-		* **Notes**
-		* **Labs**
-	* **Subject**
-		* **Images**/**Drawings**
-		* **Notes**
-		* **Labs**
-
-# Today
+Excalidrawings stored within "Semester {num}/Cource-code/Drawings"
+File named "Task{labnum/exernum}.{tasknum}{taskletter}"

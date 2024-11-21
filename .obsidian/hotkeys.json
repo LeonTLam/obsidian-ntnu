@@ -25,13 +25,5 @@
       ],
       "key": "1"
     }
-  ],
-  "obsidian-tasks-plugin:toggle-done": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
   ]
 }
