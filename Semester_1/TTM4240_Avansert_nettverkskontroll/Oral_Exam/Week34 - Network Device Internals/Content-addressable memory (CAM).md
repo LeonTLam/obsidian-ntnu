@@ -6,7 +6,7 @@
 
 Routers forwarding incoming packets by using a address lookup function. Examine packet's destination address and chooses accordingly which outport port to send the packet.
 
-The router's list of destination addresses and corresponding outport is called a [[routing table]].
+The router's list of destination addresses and corresponding outport is called a [[Routing Table]].
 
 | Line No. | Address (Binary) | Output Port |
 | -------- | ---------------- | ----------- |
