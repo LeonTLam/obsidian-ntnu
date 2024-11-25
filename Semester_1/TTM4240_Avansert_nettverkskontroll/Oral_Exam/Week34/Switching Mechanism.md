@@ -1,0 +1,37 @@
+- **Switching via Memory**:
+    - **Function**:
+        - Earliest form of switching; uses **CPU** to directly control routing.
+        - **Input port** sends packet to **CPU memory**, which then forwards it to the output port.
+    - **Limitations**:
+        - Bandwidth limitation due to memory read/write constraints.
+        - **Single packet** transfer at a time (one read/write operation).
+        - **Throughput** limited to **B/2**, where B is memory bandwidth.
+    - **Modern Application**:
+        - Some routers (e.g., Cisco’s Catalyst 8500 series) still use memory-based switching with improvements, like line-card processing.
+
+- **Switching via Bus**:
+    - **Process**:
+        - Input port tags each packet with an **internal label** indicating the output port.
+        - Packets are placed on a **shared bus**; only the target output port picks the packet.
+        - **Bus speed** dictates switching rate, with a one-packet-at-a-time limitation.
+    - **Suitability**:
+        - Works well for **small or local networks** where high throughput isn’t critical.
+        - Used in **Cisco 6500 series**, which operates over a 32-Gbps backplane bus.
+    - **Limitations**:
+        - Limited by the **bus speed**; cannot support high traffic volumes typical of larger networks.
+
+- **Switching via Crossbar Interconnection Network**:
+    - **Function**:
+        - More advanced, high-capacity switching method.
+        - Uses **2N buses** that interconnect **N input and N output ports**.
+        - **Crosspoints** at bus intersections allow multiple simultaneous connections.
+    - **Benefits**:
+        - **Parallel Packet Transfer**: Can handle multiple packets if they target different output ports.
+        - **Non-Blocking**: Avoids blocking unless packets from two inputs target the same output port.
+    - **Applications**:
+        - Ideal for **high-traffic routers** in large-scale networks.
+        - Used in **Cisco 12000 series** for extensive throughput.
+    - **Advanced Models**:
+        - **Multi-Stage Interconnection**: Allows multiple packets to reach the same output port by splitting paths across different stages.
+        - Used in **Cisco CRS routers** with a three-stage non-blocking design.
+
