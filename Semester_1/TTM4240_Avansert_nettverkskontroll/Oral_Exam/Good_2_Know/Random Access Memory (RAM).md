@@ -1,0 +1,1 @@
+Hardware that provides temporary storage, so that data is quickly available to the device's processing unit. It is in other words faster to read and write from the RAM than secondary storage, such as HDDs, SSDs, and etc.
