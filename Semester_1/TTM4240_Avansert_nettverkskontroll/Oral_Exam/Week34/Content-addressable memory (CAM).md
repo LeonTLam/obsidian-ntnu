@@ -8,4 +8,6 @@ Routers forwarding incoming packets by using a address lookup function. Examine 
 
 The router's list of destination addresses and corresponding outport is called a routing table.
 
--|
+| Line No. | Address (Binary) | Output Port |
+| -------- | ---------------- | ----------- |
+|          |                  |             |
