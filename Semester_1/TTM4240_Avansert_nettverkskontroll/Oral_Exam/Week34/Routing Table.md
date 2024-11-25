@@ -20,4 +20,9 @@ Routing is the process of selecting the most ideal path to a network and routers
 
 ## Dynamic Routing
 
-* Devices automatically build and maintain 
+* Devices automatically build and maintain routing tables using routing protocols to exchange information about surrounding network topology. 
+* Let's devices listen to network and respond to occurrences such as device failures and network congestion
+* Consumes more bandwidth and overhead because routers share dynamic routes with each other
+* Routers can dynamically choose better paths if there are changes in the routing infrastructure or network topology.
+* Easier and simpler to configure on large networks.
+* Lets routers load balance between multiple links.
