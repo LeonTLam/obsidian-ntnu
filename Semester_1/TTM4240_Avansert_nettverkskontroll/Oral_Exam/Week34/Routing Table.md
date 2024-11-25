@@ -5,4 +5,19 @@ The routing table stores source and destination IP addresses in from of prefixes
 
 Routing tables are typically updated dynamically through network routing protocols, but can be added manually as static entries.
 
-Routing parameters that determine complexity are entry size, table size, search rate and table update rate.
+# Methods of building and maintaining a Routing Table
+
+Routing is the process of selecting the most ideal path to a network and routers, to determine the best route. There are two methods:
+
+## Static Routing
+
+* Manually created, managed and updated static routing table entries
+* Do not change unless edited manually by network admin
+* Provides granular level of control, each route is manually configured for full connectivity
+* For large networks, it becomes practically impossible to add every manual entry
+* Saves bandwidth and overhead because routers do not share static routes
+* In a static env. the routers don't have the option to automatically switch to a better route
+
+## Dynamic Routing
+
+* Devices automatically build and maintain 
