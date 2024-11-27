@@ -39,3 +39,11 @@ Class A has 3 octets for the host portion of the address. Inefficient use of add
 
 ![[Address_Classes.png]]
 
+## Private IP Addressing
+
+The **Internet Assigned Numbers Authority** (IANA) has reserved a number of IPv4 network ranges as private. These network addresses are routed in the public internet as defined in RFC 1918.
+
+These network ranges (RFC 1918) are reserved for organizations that want to build an internal network infrastructure based on TCP/IP but either do not have or do not want to use public IP space.
+
+**RFC 1918** space includes following three blocks of IP address space:
+* 10.0.0.0 - 10.255.255.255 (10.0.0.0/8), allows greatest flexibility with the equivalent of 255 Class B
