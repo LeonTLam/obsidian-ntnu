@@ -19,3 +19,14 @@ The 32 binary bits are:
 * Divided into a network portion and host portion
 * Broken into four octets (1 octet = 8 octet). Each octet can be converted to binary
 
+```
+The IP: 10.10.16.1
+
+Breakdown (4 octets):
+* 10
+* 10
+* 16
+* 1
+```
+
+# IP 
