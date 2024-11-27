@@ -59,5 +59,31 @@ Subnetting allows one to create multiple logical networks that exist within a si
 Each data link on a network must have a unique network address, with every host on that link being a member of the same network. If you break down a major network (Class A, B or C) into multiple subnets, you would have a network of interconnected subnetworks. Each data link on this network would then have a unique network/subnetwork ID.
 
 ``` Example
-192.168.5.0 255.255.255.224 
+192.168.5.0 255.255.255.224 (range 0 to 31)
+192.168.5.32 255.255.255.224 (range 32 to 63)
+192.168.5.63 255.255.255.224 (range 64 to 95)
+...
+192.168.5.224 255.255.255.224 (range 224 to 255)
+```
+
+## Variable Length Subnet Masks (VLSMs)
+
+VLSMs allows you to use different masks for each subnet, this uses address space efficiently. For private address space, it is rarely necessary to shrink below /24 subnets as space is plentiful.
+
+VLSMs is useful to:
+* Create a larger subnet of more than 255 host addresses.
+* Create very small subnets for WAN links
+* Configure loopback addresses
+
+``` VLSM Example
+Given the 192.168.5.0/24 network and requirements below. Develop a subnetting scheme with the use of VLSM:
+
+* netA must support 330 hosts
+* netB must support 6 hosts for a p-to-p WAN link supporting Hot Standby Router Protocol (HSRP)
+* netC must support 2 hosts for a T1 circuit to a remote site
+* netD must support a single address for a router loopback
+
+First step is to determine what mask allows the required number of hosts.
+
+* netA requires 
 ```
