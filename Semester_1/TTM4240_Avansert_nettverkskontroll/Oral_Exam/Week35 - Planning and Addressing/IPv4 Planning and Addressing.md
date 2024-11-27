@@ -47,3 +47,7 @@ These network ranges (RFC 1918) are reserved for organizations that want to buil
 
 **RFC 1918** space includes following three blocks of IP address space:
 * 10.0.0.0 - 10.255.255.255 (10.0.0.0/8), allows greatest flexibility with the equivalent of 255 Class B
+* 172.16.0.0 - 172.31.255.255 (172.16.0.0/12) allows for 16 Class B address spaces
+* 192.168.0.0 - 192.168.255.255 (192.168.0.0/16) allows for one Class B address space
+
+By mutually understanding these ranges as private an non-routable in the internet, multiple organisations can utilize these ranges internally without causing conflict with public internet addresses
