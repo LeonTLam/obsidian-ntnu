@@ -15,4 +15,7 @@ By following recommended IP address management standards, you can avoid:
 
 IP version 4 addresses are **32 bits** in length and communicated in dotted decimals.
 
-The 
+The 32 binary bits are:
+* Divided into a network portion and host portion
+* Broken into four octets (1 octet = 8 octet). Each octet can be converted to binary
+
