@@ -29,4 +29,13 @@ Breakdown (4 octets):
 * 1
 ```
 
-# IP 
+## IP Address Classes
+
+**Class A**: First octet is the network portion
+**Class B**: First two octets are the network portion
+**Class C**: First 3 are the network portion
+
+Class A has 3 octets for the host portion of the address. Inefficient use of address space, since available Layer 2 technologies cannot easily support this many hosts on a single subnet.
+
+![[Address_Classes.png]]
+
