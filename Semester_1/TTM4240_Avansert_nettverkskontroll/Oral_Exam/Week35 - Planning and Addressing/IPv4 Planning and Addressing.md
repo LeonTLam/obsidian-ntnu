@@ -85,5 +85,15 @@ Given the 192.168.5.0/24 network and requirements below. Develop a subnetting sc
 
 First step is to determine what mask allows the required number of hosts.
 
-* netA requires 
+* netA requires a /23 subnet mask, giving space for 512 addresses
+* netB requires a /29 subnet mask, giving space for 6 addresses, 1 for network ID and 1 for broadcast ID
+* netC requires a /30 subnet mask, giving space for 2 addresses, --**--
+* netD requires simply a /32 subnet mask, since we are working with a router loopback (no need for network ID and Broadcast ID)
+
+Furthermore, we now assign the subnets to the network 192.168.5.0/24 and begin with the largest subnet.
+
+* netA 192.168.5.0/23 (range from 5.0 to 6.255)
+* netB 192.168.7.0/29 (range from 0 to 7)
+* netC 192.168.7.8/30 (range from 8 to 11)
+* netD 192.168.7.12/32 (range at 12)
 ```
