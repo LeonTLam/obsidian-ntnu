@@ -97,3 +97,11 @@ Furthermore, we now assign the subnets to the network 192.168.5.0/24 and begin w
 * netC 192.168.7.8/30 (range from 8 to 11)
 * netD 192.168.7.12/32 (range at 12)
 ```
+
+## Summarization
+
+Summarizing IP addresses ensure that no entries for child routes are outputted. A normal routing table and routing advertisement would have sent out i.e. seven routes. With summarization, all seven routes are summarized back to the HQ as a single route. 
+
+This is quite useful for networks that are planned to scale and especially networks with contiguous IP spaces.
+
+#
