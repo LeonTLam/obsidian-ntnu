@@ -156,4 +156,7 @@ There is no incorrect private subnet to allocate, but some choices provide more 
 
 * 192.168.0.0 range is used by many companies and network equipment vendors. This address range has a lower number of host addresses available, which may become an issue as an organization grows or when a merger occurs with another company using the same range.
 * If you have the luxury, consider the 10.0.0.0 range to allow for more flexibility.
-* In many cases, organizations may have multiple different address RFC 
+* In many cases, organizations may have multiple different address RFC 1918 spaces in their network. To simplify configuration and troubleshooting, it is easier to work with one RFC 1918 space and use summarization. Using multiple IP ranges from different address spaces is not a problem if the addressing plan is well documented.
+* Whatever address space is selected or inherited, there may be an advantage to start somewhere other than beginning of the range when choosing network numbering. When merging with another company using same IP addressing space, it is advisable to not start at the beginning of the range, to decrease the change of address conflicts.
+
+### Procedure 3 - Allocate IP Space
