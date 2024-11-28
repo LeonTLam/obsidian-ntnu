@@ -104,4 +104,8 @@ Summarizing IP addresses ensure that no entries for child routes are outputted. 
 
 This is quite useful for networks that are planned to scale and especially networks with contiguous IP spaces.
 
-#
+## IP Multicast
+
+Bandwidth conservation technology that reduces traffic and server loads by allowing a single stream of information on the network to be received by multiple users (thousands i.e.)
+
+IANA has reserved the range of 239.0.0.0/8 as Administratively Scoped addresses for use in private mutlicast domains..
