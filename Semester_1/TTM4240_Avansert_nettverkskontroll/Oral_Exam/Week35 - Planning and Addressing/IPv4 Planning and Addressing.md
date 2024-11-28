@@ -144,4 +144,16 @@ Within each subnet range, the plan should account for:
 * Create simple identification of a device showing location, device type and purpose
 * Improve inventory management by providing a simpler method to identify network devices
 
-**STEP 3**: Identify DHCP ranges
+**STEP 3**: Identify DHCP ranges and add them to DNS, inc. the location of the users. 
+
+**STEP 4:** Document all standards that you develop and reference them on all network engineering plan documents to help ensure consistent deployment.
+
+### Procedure 2 - Plan Range
+
+There is no incorrect private subnet to allocate, but some choices provide more flexibility than others.
+
+**STEP 1:** Determine which address space to use by evaluating all of the user and server requirements. Consider the following examples.
+
+* 192.168.0.0 range is used by many companies and network equipment vendors. This address range has a lower number of host addresses available, which may become an issue as an organization grows or when a merger occurs with another company using the same range.
+* If you have the luxury, consider the 10.0.0.0 range to allow for more flexibility.
+* In many cases, organizations may have multiple different address RFC 
