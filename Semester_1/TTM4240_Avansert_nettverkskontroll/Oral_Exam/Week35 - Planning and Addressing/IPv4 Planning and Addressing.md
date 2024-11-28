@@ -109,3 +109,19 @@ This is quite useful for networks that are planned to scale and especially netwo
 Bandwidth conservation technology that reduces traffic and server loads by allowing a single stream of information on the network to be received by multiple users (thousands i.e.)
 
 IANA has reserved the range of 239.0.0.0/8 as Administratively Scoped addresses for use in private mutlicast domains..
+
+## Process of Creating an Addressing Plan
+
+```
+1. Define Addressing Standards
+2. Plan Range
+3. Allocate IP space
+4. Document plan
+```
+
+Within each subnet range, the plan should account for:
+* Subnet sizes
+* Subnet assignment
+* Static address assignments for network devices
+* Dynamic address assignments
+
