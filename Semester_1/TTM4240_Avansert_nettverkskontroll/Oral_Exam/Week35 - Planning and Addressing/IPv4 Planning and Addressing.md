@@ -133,4 +133,15 @@ Within each subnet range, the plan should account for:
 * Routers, gateways and Hot Standby Router Protocol (HSRP) virtual addresses within a subnet are assigned the first available addresses within the range.
 * Printers and other fixed address assignments.
 * Dynamic address ranges for Dynamic Host Control Protocol (DHCP). Example, all user subnets may be /24 subnets with 253 available address assignments for end hosts.
-* 
+* Routers may be assigned the .2 and .3 addresses, and HSRP address assigned the .1 address.
+* Printers may be assigned the .5 through .9 addresses.
+* DHCP may range from .10 through .250 addresses.
+
+**STEP 2**: Define a consistent, structured naming convention and DNS for devices.
+
+* Create a consistent access point to routers for all network management information related to a device
+* Reduce the opportunity for duplicate IP addresses
+* Create simple identification of a device showing location, device type and purpose
+* Improve inventory management by providing a simpler method to identify network devices
+
+**STEP 3**: Identify DHCP ranges
