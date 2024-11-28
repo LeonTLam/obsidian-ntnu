@@ -125,3 +125,12 @@ Within each subnet range, the plan should account for:
 * Static address assignments for network devices
 * Dynamic address assignments
 
+### Procedure 1 - Define Addressing Standards
+
+**STEP 1**: Create standards for IP address assignments within each subnet range. May include:
+
+* VLANs can be created to match the third octet of the IP subnet plus 100. Example, IP x.x.71.x is assigned VLAN 171
+* Routers, gateways and Hot Standby Router Protocol (HSRP) virtual addresses within a subnet are assigned the first available addresses within the range.
+* Printers and other fixed address assignments.
+* Dynamic address ranges for Dynamic Host Control Protocol (DHCP). Example, all user subnets may be /24 subnets with 253 available address assignments for end hosts.
+* 
