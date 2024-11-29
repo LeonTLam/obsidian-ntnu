@@ -20,4 +20,9 @@ It is impractical to record all zeroes, leading zeroes can be dropped for each g
 2001:db8:0:0:0:0:0:1
 ```
 
-One
+One, and only one, series of zeroes and colons may also be abbreviated as two colons.
+
+```Abbreviated
+2001:db8::1
+```
+
