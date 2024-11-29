@@ -82,6 +82,6 @@ With IPv6 protocol, there so many available addresses that we can create one or 
 
 ## Recommendation
 
-Applying the use type first makes it much easier to implement a 
+Applying the use type first makes it much easier to implement a security policy. Most firewall policies are based on the type of use and not one the location of the network. 
 
 
