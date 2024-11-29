@@ -47,3 +47,15 @@ contains all addresses from
 to
 2001:0db8:1234:ffff:ffff:ffff:ffff:ffff
 ```
+
+# /64 Subnets
+
+IPv6 does not have a fixed structure like Class A/B/C, however they should be /64. Very small subnets, such as p-to-p link, use the same size IPv6 address block as very large subnets.
+
+# Assigning Address Blocks
+
+Original recommendation for assigning IPv6 address space to end users was as follows:
+
+* /48 (65 536 subnets) in general case, except for very large subscribers
+* /64 (single subnet) when it known that one and only one subnet is needed
+* /128 (a single)
