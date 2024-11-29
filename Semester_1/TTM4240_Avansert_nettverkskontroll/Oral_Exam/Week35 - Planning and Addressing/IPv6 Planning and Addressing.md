@@ -39,3 +39,11 @@ Contains all addresses from
 to
 2001:0db8:ffff:ffff:ffff:ffff:ffff:ffff
 ```
+
+```Through
+2001:db8:1234::/64
+contains all addresses from
+2001:0db8:1234:0000:0000:0000:0000:0000
+to
+2001:0db8:1234:ffff:ffff:ffff:ffff:ffff
+```
