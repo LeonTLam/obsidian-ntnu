@@ -62,4 +62,26 @@ Original recommendation for assigning IPv6 address space to end users was as fol
 
 It is recommended against giving out single addresses. /48 is much more than a home user needs, but a /64 only allows for a single subnet, which may be limiting. In the future, a /56 or /60 may be more appropriate for consumers. 
 
-# Basic 
+# Basic Structure of the Address Plan
+
+With IPv6 protocol, there so many available addresses that we can create one or more primary subnets. We can for example assign:
+
+* Per use type
+* Then by location
+* remaining bits to another purpose
+
+```Example
+	2001:db8:1234: |L|L|L|L|T|T|T|T|B|B|B|B|B|B|B|B|::/64
+```
+
+* 4 bits are assigned to a location (L)
+* 4 bits assigned to a use type (T)
+* Remaining 8 bits (B)
+
+16 locations can be addressed, with each location having 16 allocatable use types. 8 bits left to a number of maximum 256 different subnets for each location and use type combination.
+
+## Recommendation
+
+Applying the use type first makes it much easier to implement a 
+
+
