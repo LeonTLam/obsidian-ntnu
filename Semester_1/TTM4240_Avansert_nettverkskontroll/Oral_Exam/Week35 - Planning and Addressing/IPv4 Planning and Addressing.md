@@ -160,3 +160,13 @@ There is no incorrect private subnet to allocate, but some choices provide more 
 * Whatever address space is selected or inherited, there may be an advantage to start somewhere other than beginning of the range when choosing network numbering. When merging with another company using same IP addressing space, it is advisable to not start at the beginning of the range, to decrease the change of address conflicts.
 
 ### Procedure 3 - Allocate IP Space
+
+Clearly define the size of the IP space with public addresses as it is available only in finite amount.
+Keep in mind:
+
+* Private addresses are not constrained
+* For ease of use, /24 mask should be used as a minimum for user subnets
+* End devices always grow in number, no need to set a low number limit of private addresses
+* WAN connections require smaller IP spaces
+
+**REMEMBER** to reserve a subnet for physical security, facilities, all production networks in the demilitarized zone (DMZ), Remote Access (VPN), Network Management, and Loopback addresses
