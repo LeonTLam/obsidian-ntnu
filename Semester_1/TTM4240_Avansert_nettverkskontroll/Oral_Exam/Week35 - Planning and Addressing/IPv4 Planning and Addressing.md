@@ -169,4 +169,6 @@ Keep in mind:
 * End devices always grow in number, no need to set a low number limit of private addresses
 * WAN connections require smaller IP spaces
 
-**REMEMBER** to reserve a subnet for physical security, facilities, all production networks in the demilitarized zone (DMZ), Remote Access (VPN), Network Management, and Loopback addresses
+**REMEMBER** to reserve a subnet for physical security, facilities, all production networks in the demilitarized zone (DMZ), Remote Access (VPN), Network Management, and Loopback addresses.
+
+Loopback addresses can be assigned a /24 mask or up to a single /32. 
