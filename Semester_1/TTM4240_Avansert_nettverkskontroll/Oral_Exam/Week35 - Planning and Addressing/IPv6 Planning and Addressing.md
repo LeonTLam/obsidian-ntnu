@@ -26,3 +26,16 @@ One, and only one, series of zeroes and colons may also be abbreviated as two co
 2001:db8::1
 ```
 
+## Prefixes: Grouping Addresses
+
+```Example
+2001:db8::/32
+```
+
+Contains all addresses from
+
+```Through
+2001:0db8:0000:0000:0000:0000:0000:0000
+to
+2001:0db8:ffff:ffff:ffff:ffff:ffff:ffff
+```
