@@ -58,4 +58,8 @@ Original recommendation for assigning IPv6 address space to end users was as fol
 
 * /48 (65 536 subnets) in general case, except for very large subscribers
 * /64 (single subnet) when it known that one and only one subnet is needed
-* /128 (a single)
+* /128 (a single address) when it is absolutely known that one and only one device is connecting
+
+It is recommended against giving out single addresses. /48 is much more than a home user needs, but a /64 only allows for a single subnet, which may be limiting. In the future, a /56 or /60 may be more appropriate for consumers. 
+
+# Basic 
