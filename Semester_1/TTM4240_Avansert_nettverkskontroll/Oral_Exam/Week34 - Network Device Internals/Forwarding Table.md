@@ -13,4 +13,10 @@
     - **On-Chip Memory and DRAM**:
         - **SRAM** (as a cache for **DRAM**) allows faster access for high-speed forwarding tasks.
 
-Hosts do not have complete knowledge of aall possible destination addresses. M
+Hosts do not have complete knowledge of all possible destination addresses. Most hosts have only two entries in their forwarding table:
+
+* An entry for the local network
+* Default entry for a directly-connected router
+
+The host sends all nonlocal datagrams to the local router for delivery. 
+A host can forwards datagrams successfully even if it only has partial forwarding information because it can rely on a router.
