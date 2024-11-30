@@ -1,0 +1,1 @@
+<p style="text-align:center;">A set of routers under a single technical administration, using an interior gateway protocol and common metrics to route packets within the AS, and using an exterior gateway protocol to route packets to other ASes</p>
