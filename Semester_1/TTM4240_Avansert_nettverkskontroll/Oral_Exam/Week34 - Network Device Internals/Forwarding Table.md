@@ -12,3 +12,5 @@
         - Used in devices like **Cisco Catalyst 6500 & 7600 Series** for massive, high-speed forwarding tables.
     - **On-Chip Memory and DRAM**:
         - **SRAM** (as a cache for **DRAM**) allows faster access for high-speed forwarding tasks.
+
+Hosts do not have complete knowledge of aall possible destination addresses. M
