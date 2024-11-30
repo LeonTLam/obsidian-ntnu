@@ -20,3 +20,11 @@ Hosts do not have complete knowledge of all possible destination addresses. Most
 
 The host sends all nonlocal datagrams to the local router for delivery. 
 A host can forwards datagrams successfully even if it only has partial forwarding information because it can rely on a router.
+
+```Example
+In a star-shaped topology, it would become an ussie when the central intersection fails because no equipment is fast enough to serve as a central switch which all traffic passes.
+
+Having all information on all possible destinations in all routers is impractical because it will require large voluems of information to be changed, when a new change occurs in the system.
+```
+
+Therefore, we seek a solution that allows groups to manage local routers autonomously, adding new network interconnections and routes without changing the forwarding information in distant routers.
