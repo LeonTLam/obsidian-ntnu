@@ -3,3 +3,4 @@
 * [ ] Routing Protocol og RP-initialization (packets)
 * [ ] Fordeler og ulemper
 * [ ] AS
+* [ ] 
