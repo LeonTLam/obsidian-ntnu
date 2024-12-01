@@ -18,5 +18,7 @@ Distance-vector protocol, each routers must receive new information, update its 
 In a network with N routers in a linear topology, N steps are required. Then, N must be limited to guarantee rapid distribution.
 ```
 
-**Overhead**: Each router that participates in a routing protocol must send messages. The larger participation means more routing traffic. If routing messages contain list of possible destina
-|
+**Overhead**: Each router that participates in a routing protocol must send messages. The larger participation means more routing traffic. If routing messages contain list of possible destinations, size of each message grows as the number of routers and networks increase. Ensure that size of routing traffic is a small percentage of total traffic, size of routing messages must be limited. 
+
+It is not advisable to determine size of a network solely on routing architecture, instead they must implement traffic monitoring and listen passively to a network to determine the amount of routers that should participate in a single routing protocol.
+
