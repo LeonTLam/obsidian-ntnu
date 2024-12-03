@@ -13,4 +13,16 @@ A single router or two for redundancy, can be made as a route reflector. This wa
 
 ## Benefits
 
-Reduce IBGP 
+* Reduce IBGP mesh challenge
+* Does not affect packet forwarding
+* Can co-exist with normal BGP speakers
+* Can simply add more reflectors for redundancy
+* Easy to migrate
+
+## Downsides
+
+* May impose complexity if there is a single point of failure, requiring backup solutions
+* Modern routers can already handle many TCP connections, requires you to have a very large network before route reflectors are necessary.
+
+# Confederation
+
