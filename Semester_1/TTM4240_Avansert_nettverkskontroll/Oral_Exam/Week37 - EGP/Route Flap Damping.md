@@ -14,3 +14,14 @@ Damping will aim to reduce the scope of route flap propagation
 * History can predict future behaviors
 * Suppress oscillating routes 
 * Advertise stable routes
+
+## Operation
+
+* Add penalty (1000) for each flap
+	* Change in attribute gets penalty of 500
+* Exponenttially decay penalty
+	* Half life determines decay rate
+* Penalty above suppress-limit
+	* do not advertise route to BGP peers
+* Penalty decayed below reuse-limit
+	* Re-advertise route to BGP peers and penalty reset to zero when it is half of reuse-limit (at some point in time)
