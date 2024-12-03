@@ -30,4 +30,30 @@ clear ip bgp x.x.x.x in
 ```
 Tells peer to resend full BGP announcement, rebuilds local BGP table.
 
-# Preferabilit
+# Soft-Reconf VS Route Refresh
+
+Use Route Refresh Capability if supported, can be found out with command:
+
+```Command
+show ip bgp neighbor
+```
+
+Uses much less memory, by utilizing the peer as **cache**
+
+Otherwise, utilize **Soft-reconfiguration**
+
+# Peer Groups
+
+*Without peer-groups*, BGP would need to update changes for each BGP neighbor.
+If you have a large IBGP mesh in your topology, this would require a lot of resources, to recalculate essentially the same update message.
+
+This can be avoided by applying peer groups and grouping BGP neighbors to groups, so that updates will remain the same and applied only once per group.
+
+This will:
+* Simplify configuration
+* Makes configuration less prone to error
+* Makes conf. more readable
+* Lower router CPU load
+* Builds iBGP meshes quicker
+* Allows for individual inbound policies for members
+* Can be used for eBGP neighbors too
