@@ -31,3 +31,5 @@ Difference is that IBGP cannot advertise learned prefixes for eBGP to another IB
 If a pair of routers within the AS using IBGP goes down, the BGP session will continue as one of the routers can use an indirect path through a directly connected IBGP routers in the AS.
 
 If IBGP is connected through loopback interfaces, the BGP session will keep itself alive and reroute traffic through a link that is not down.
+
+ingore
