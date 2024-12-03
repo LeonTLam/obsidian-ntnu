@@ -18,3 +18,11 @@ Not all challenges are technical.
 
 **Security**
 * Filter configuration management
+
+# IP hijacking
+
+A party advertises incorrect routing information, convincing routers across the globe to send traffic on geographically absurd paths.
+
+China in 2010 did exactly this and routed about 15% of the internet's traffic through servers located in China. The incident affected traffic to and from even confidential data of the US.
+
+## Longest Prefix 
