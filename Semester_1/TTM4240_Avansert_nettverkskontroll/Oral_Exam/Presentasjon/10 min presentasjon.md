@@ -16,4 +16,4 @@
 			* reducing the load from large routing tables, by using labels within the MPLS domain
 			* Define explicit routes for prioritized traffic using LSPs, instead of BGP's "Shortest AS path".
 			* Optimize traffic latency, bandwidth or reliability.
-			* Multiple LSPs between endpoints 
+			* Multiple LSPs between endpoints, allows for more even distribution of traffic, unlike BGP's single "best-path selection"
