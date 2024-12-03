@@ -32,4 +32,4 @@ If a pair of routers within the AS using IBGP goes down, the BGP session will co
 
 If IBGP is connected through loopback interfaces, the BGP session will keep itself alive and reroute traffic through a link that is not down.
 
-ingore
+# BGP Messaging Types
