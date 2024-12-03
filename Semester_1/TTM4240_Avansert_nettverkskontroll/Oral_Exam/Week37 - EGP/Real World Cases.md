@@ -25,4 +25,15 @@ A party advertises incorrect routing information, convincing routers across the 
 
 China in 2010 did exactly this and routed about 15% of the internet's traffic through servers located in China. The incident affected traffic to and from even confidential data of the US.
 
-## Longest Prefix 
+## Longest Prefix Wins
+
+A better prefix can be misused to reroute traffic through itself. 
+
+## What one can do
+
+For public peering, **filter** EBGP routes inbound and outbound
+* Block own address space inbound
+* Block RFC 1918 private space both inbound and outbound
+* Block well-known not used addresses both inbound and outbound
+
+Use **prefix-lists** for route-filtering when possible
