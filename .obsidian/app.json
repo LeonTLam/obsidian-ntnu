@@ -3,6 +3,11 @@
   "userIgnoreFilters": [
     "Excalidraw/",
     "Semester_1/Abakusrevy_nettside/",
-    "Semester_1/IIK3100_Etisk_hacking/"
-  ]
+    "Semester_1/IIK3100_Etisk_hacking/",
+    "Excalidraw/Scripts/",
+    "Semester_1/TTM4240_Avansert_nettverkskontroll/",
+    "Semester_1/TTM4158_Pålitelig_ytelsesdesign/Drawings/",
+    "README"
+  ],
+  "promptDelete": false
 }
