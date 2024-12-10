@@ -5,9 +5,9 @@
 # Topics
 
 * Radio as communication medium
-* Frequency band, [[Modulation]], Multiplexing, Antennas, Coverage, Propagation ...
+* Frequency band, [[Modulation]], [[Multiplexing]], Antennas, Coverage, Propagation ...
 * Approaches to address the [[The Nyquist Theory|wireless channel impairments]] 
-* Medium Access Control  
+* [[Medium Access Control (MAC)]]
 * Wireless [[Local Area Network (LAN)]] & Wireless Personal Networks 
 * Cellular networks 
 * Fixed communication medium (characteristics, availability) 
