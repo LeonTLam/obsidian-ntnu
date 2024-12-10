@@ -28,3 +28,7 @@ Modulation is divided into:
 * Phase modulation (PM)
 
 ![[Modulation.png]]
+
+# Demodulation
+
+*Extracting the original information-bearing signal from a carrier wave*
