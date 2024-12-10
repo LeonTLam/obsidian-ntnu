@@ -16,7 +16,7 @@
 
 # Basic Concepts
 
-**Home access**: DSL, Cable, FTTH (Fiber to the Home
+**Home access**: DSL, Cable, [[Fiber Optics|FTTH]] (Fiber to the Home)
 **Enterprise access**: Ethernet
 **Enterprise and Home access**: WiFI
 **Wide-area wireless access**: 4G, 5G
