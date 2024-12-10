@@ -4,7 +4,7 @@
 
 # Topics
 
-* Radio as communication medium
+* [[Radio Frequency (RF)|Radio]] as communication medium
 * Frequency band, [[Modulation]], [[Multiplexing]], Antennas, Coverage, Propagation ...
 * Approaches to address the [[The Nyquist Theory|wireless channel impairments]] 
 * [[Medium Access Control (MAC)]]
