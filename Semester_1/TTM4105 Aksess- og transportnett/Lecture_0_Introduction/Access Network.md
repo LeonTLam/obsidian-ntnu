@@ -1,6 +1,6 @@
 # Definition
 
-**Access networks** are the communication networks that connect [[end-user devices]] to a [[Wide Area Network (WAN)]].
+**Access networks** are the communication networks that connect [[End-User Devices]] to a [[Wide Area Network (WAN)]].
 
 # Topics
 
