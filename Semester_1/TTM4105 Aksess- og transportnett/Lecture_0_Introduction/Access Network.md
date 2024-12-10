@@ -13,3 +13,11 @@
 * Fixed communication medium (characteristics, availability) 
 * Fiber based access and its applications, active/passive FTTH 
 * Optical network components
+
+# Basic Concepts
+
+**Home access**: DSL, Cable, FTTH (Fiber to the Home
+**Enterprise access**: Ethernet
+**Enterprise and Home access**: WiFI
+**Wide-area wireles
+
