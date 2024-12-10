@@ -31,3 +31,10 @@
 	* Transmitted information is vulnerable
 * Resource and spectrum utilization
 	* Spectrum for wireless communications is becoming increasingly scarce, motivates the exploration of new spectrum bands
+
+## What is a signal?
+
+*An electrical or electromagnetic quantity (current, voltage, radio wave, micro wave, etc.) that carries data or information form one system to another*
+
+More about [[Analog vs Digital Signal|Signals]]
+
