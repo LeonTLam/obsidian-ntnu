@@ -19,4 +19,11 @@ $$s(t+t)=s(t)$$
 # Sine Wave Parameters
 
 $$s=A\times\sin(2\pi f t + \phi)$$
-$$f
+$f - \text{frequency}$
+$t - \text{given time}$
+$A - \text{amplitude}$
+$\phi - \text{phase shift}$
+
+Phase is a measure of the relative position in time within a single period of a signal.
+
+

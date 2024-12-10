@@ -38,3 +38,6 @@
 
 More about [[Analog vs Digital Signal|Signals]]
 
+# Radio Frequency
+
+**Radio frequency (RF)** is the oscillation rate of an alternating electric current or voltage or of a magnetic, electric or electromagnetic field or mechanical system in the freq. range from around 20 kHz to around 300 GHz
