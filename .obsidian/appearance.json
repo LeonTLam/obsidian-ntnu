@@ -1,4 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Obsidianite"
+  "cssTheme": "Obsidianite",
+  "enabledCssSnippets": [
+    "center_latex"
+  ]
 }

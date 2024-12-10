@@ -12,6 +12,11 @@ Where signal intensity maintains a constant level for some period of time, then 
 
 # Periodic Signal
 
-Analog or digital signal pattern that repeats over time:
+Analog or digital signal pattern that repeats over time, where T is the period of the signal:
 
-$s(t+t) =$
+$$s(t+t)=s(t)$$
+
+# Sine Wave Parameters
+
+$$s=A\times\sin(2\pi f t + \phi)$$
+$$f
