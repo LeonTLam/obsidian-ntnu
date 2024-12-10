@@ -19,5 +19,15 @@
 **Home access**: DSL, Cable, FTTH (Fiber to the Home
 **Enterprise access**: Ethernet
 **Enterprise and Home access**: WiFI
-**Wide-area wireles
+**Wide-area wireless access**: 4G, 5G
 
+## Main Challenges in Wireless Networks
+
+* Attenuation or Signal Loss
+	* The farther the signal travels, the more they lose their strength
+* Shared medium
+	* Requires mechanism to coordinate medium access
+* Security
+	* Transmitted information is vulnerable
+* Resource and spectrum utilization
+	* Spectrum for wireless communications is becoming increasingly scarce, motivates the exploration of new spectrum bands
