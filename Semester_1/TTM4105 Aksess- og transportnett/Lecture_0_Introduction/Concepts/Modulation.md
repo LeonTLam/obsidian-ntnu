@@ -10,10 +10,12 @@ By superimposing a message on to a high frequency signal known as a [[carrier wa
 * Antenna length
 * Interference
 
-# More
+## More
 
 Input signal can be analog or digital -> Analog and Digital modulation
 
 Baseband signal and carrier signal
 
 In the modulation process, a parameter of the carrier wave (such as amplitude, frequency or phase) is varied in accordance with the modulating signal.
+
+# Analog Modulation 
