@@ -19,3 +19,12 @@ Baseband signal and carrier signal
 In the modulation process, a parameter of the carrier wave (such as amplitude, frequency or phase) is varied in accordance with the modulating signal.
 
 # Analog Modulation 
+
+Shifts the analog baseband signal to a passband signal that can be transferred on a wireless medium.
+
+Modulation is divided into:
+* Amplitude modulation (AM)
+* Frequency modulation (FM)
+* Phase modulation (PM)
+
+![[Modulation.png]]
