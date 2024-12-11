@@ -29,3 +29,8 @@ A range of frequencies.
 Not humanly perceivable, therefore spectrum analysers are used to analyse spectrum.
 
 A spectrum analyser detects the kind of signal (power, modulation are present at WHAT frequencies).
+
+# Frequencies For Radio Transmission
+
+* Low Frequency  (LF - Submarines):
+	* Can penetrate water, follows earth's surface, propagate long distances
