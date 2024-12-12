@@ -30,3 +30,22 @@ $$B = 900 \text{ Hz} - 100 \text{ Hz} = 800 \text{ Hz}$$
 $$(SNR)_{dB} = 10\log_{10}\frac{\text{signal power}}{\text{noise power}}$$
 **SNR shows signal quality**
 * A low SNR means low quality signal, may require further signal processing to recover original signal.
+
+# Nyquist Bandwidth
+
+**Noiseless channel**
+$$C = 2B\times \log_2 M$$
+* C = bit rates (bps)
+* B = Bandwidth (Hz)
+* M = number of discrete signal or voltage levels to represent the data
+
+```Example
+Consider noiseless channel of 3 kHz, transmitting signal of 2 levels. Find the bit rate.
+```
+
+$$2\times 3\text{ kHz}\times \log_2 2 = 6 \text{kHz} \times 1$$
+
+```Example
+What is the bit rate for transmitting signal of 4 levels?
+```
+$$2\times6 $$
