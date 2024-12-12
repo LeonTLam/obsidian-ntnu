@@ -43,3 +43,17 @@ A spectrum analyser detects the kind of signal (power, modulation are present at
 	* Small antennas and large bandwidth available
 * EHF (infra red and direct transmission)
 	* very short wavelength and transmission distance.
+
+# Bands
+
+*Specific ranges of frequencies in which signals are used for a specific purpose.*
+
+```Example
+AM broadcast band (500 - 1700 KHz) and,
+FM broadcast band (88 - 108 MHz)
+```
+
+**Unlicensed** bands:
+* Known as industrial, Scientific, and Medical bands (ISM)
+* Used for WLANs, WPANs, IoT,...
+
