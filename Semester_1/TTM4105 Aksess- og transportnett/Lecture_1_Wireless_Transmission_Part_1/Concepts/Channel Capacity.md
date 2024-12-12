@@ -28,3 +28,5 @@ $$B = 900 \text{ Hz} - 100 \text{ Hz} = 800 \text{ Hz}$$
 
 **Signal-to-noise ratio**
 $$(SNR)_{dB} = 10\log_{10}\frac{\text{signal power}}{\text{noise power}}$$
+**SNR shows signal quality**
+* A low SNR means low quality signal, may require further signal processing to recover original signal.
