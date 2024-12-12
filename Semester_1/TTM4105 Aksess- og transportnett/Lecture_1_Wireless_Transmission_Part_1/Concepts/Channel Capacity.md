@@ -73,5 +73,5 @@ What is the channel capacity?
 ```
 
 $$B = f_{high}-f_{low} = 4 \text{ MHz} - 3 \text{ MHz} = 1 \text{ MHz}$$
-$$SNR_{dB} = 24 \text{ dB} = 10\log_{10}(\text{SNR})$$
-$$C = 1 \text{ MHz}\times\log_2 (1+\text{SNR}) = $$
+$$SNR_{dB} = 24 \text{ dB} = 10\log_{10}(\text{SNR}), \text{SNR} = 251$$
+$$C = 1 \text{ MHz}\times\log_2 (1+\text{251}) = 1\times8=8 \text{ Mbps}$$
