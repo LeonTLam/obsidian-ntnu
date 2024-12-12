@@ -22,3 +22,9 @@ $$B = f_{high} - f_{low}$$
 $$B = 900 \text{ Hz} - 100 \text{ Hz} = 800 \text{ Hz}$$
 
 # Signal-to-Noise Ratio (SNR)
+
+*Ratio of the power in a signal to the power contained in the noise that's present at a particular point in the transmission
+	Typically measured at the receiver*
+
+**Signal-to-noise ratio**
+$$(SNR)_{dB} = 10\log_{10}\frac{\text{signal power}}{\text{noise power}}$$
