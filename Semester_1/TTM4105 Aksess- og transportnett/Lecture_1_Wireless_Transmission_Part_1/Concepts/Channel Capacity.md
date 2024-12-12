@@ -49,3 +49,28 @@ $$2\times 3\text{ kHz}\times \log_2 2 = 6 \text{ kHz} \times 1$$
 What is the bit rate for transmitting signal of 4 levels?
 ```
 $$2\times6 \text{ kHz }\times \log_2 4 = 6 \text{ kHz} \times 2 = 12 \text{ kbps} = 12000 \text{ bps}$$
+
+# Wireless Channel Capacity - Shannon Formula
+
+* Noisy Channel
+$$C=B\log_2(1+\text{SNR})$$
+* C = bit rates (bps)
+* B = Bandwidth (Hz)
+* SNR = Signal-to-noise ratio (in linear scale)
+
+* Represents the theoretical maximum that can be achieved
+	* Formula assumes white noise only (thermal noise)
+
+```Example
+Extremely noisy channel, SNR=0
+C = B*log_2(1+0) = 0 -> no theoretical capacity, therefor cannot receive data.
+```
+
+```Example
+Spectrum of a channel between 3 MHz and 4 MHz,
+SNR_dB = 24 dB.
+What is the channel capacity?
+```
+
+$$B = f_{high}-f_{low}$$
+$
