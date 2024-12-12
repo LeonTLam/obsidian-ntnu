@@ -72,5 +72,6 @@ SNR_dB = 24 dB.
 What is the channel capacity?
 ```
 
-$$B = f_{high}-f_{low}$$
-$
+$$B = f_{high}-f_{low} = 4 \text{ MHz} - 3 \text{ MHz} = 1 \text{ MHz}$$
+$$SNR_{dB} = 24 \text{ dB} = 10\log_{10}(\text{SNR})$$
+$$C = 1 \text{ MHz}\times\log_2 (1+\text{SNR}) = $$
