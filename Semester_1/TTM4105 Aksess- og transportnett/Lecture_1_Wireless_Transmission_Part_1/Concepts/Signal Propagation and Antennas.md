@@ -24,6 +24,21 @@
 
 * Interference range
 	* Signal not detected
-	* 
+	* Signal adds to background noise.
 
+# Antennas
 
+*An antenna is an electrical conductor or system of conductors*
+* Transmission - radiates electromagnetic energy into space 
+* Reception - collects electromagnetic energy from space
+
+* In two-way communication, the same antenna be used for transmission and reception
+
+* Isotropic radiator: equal radiation in all directions
+	* Is a theoretical reference to an antenna (not possible in practice)
+
+## Antenna examples - Dipoles
+
+**REAL antennas are NOT isotropic radiators
+
+Used for both transmission and reception of electromagnetic waves.
