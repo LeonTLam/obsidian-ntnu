@@ -43,9 +43,9 @@ $$C = 2B\times \log_2 M$$
 Consider noiseless channel of 3 kHz, transmitting signal of 2 levels. Find the bit rate.
 ```
 
-$$2\times 3\text{ kHz}\times \log_2 2 = 6 \text{kHz} \times 1$$
+$$2\times 3\text{ kHz}\times \log_2 2 = 6 \text{ kHz} \times 1$$
 
 ```Example
 What is the bit rate for transmitting signal of 4 levels?
 ```
-$$2\times6 $$
+$$2\times6 \text{ kHz }\times \log_2 4 = 6 \text{ kHz} \times 2 = 12 \text{ kbps} = 12000 \text{ bps}$$
