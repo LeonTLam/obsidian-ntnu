@@ -34,3 +34,12 @@ A spectrum analyser detects the kind of signal (power, modulation are present at
 
 * Low Frequency  (LF - Submarines):
 	* Can penetrate water, follows earth's surface, propagate long distances
+* Middle and High Frequency (AM and FM radio):
+	* Enabled by reflection at the ionosphere
+	* Transmit power up to 500kW
+* VeryHF and UltraHF (analog/digital tv, DAB, GSM)
+	* Small antennas, low transmit power
+* SHP (Directed microwave and fixed saatellite)
+	* Small antennas and large bandwidth available
+* EHF (infra red and direct transmission)
+	* very short wavelength and transmission distance.
