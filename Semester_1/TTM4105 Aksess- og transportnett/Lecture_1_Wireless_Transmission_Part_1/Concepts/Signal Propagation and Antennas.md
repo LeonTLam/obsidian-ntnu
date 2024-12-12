@@ -42,3 +42,13 @@
 **REAL antennas are NOT isotropic radiators
 
 Used for both transmission and reception of electromagnetic waves.
+
+The same physical structure supports both transmission and reception.
+
+**The total length of the dipole is typically half the wavelength of the signal it is designed to transmit or receive.**
+
+$$L = \frac{\lambda}{2}$$
+```Example
+If the wavelength is 3 meters, the dipole antenna should be 1.5 meters long
+```
+
