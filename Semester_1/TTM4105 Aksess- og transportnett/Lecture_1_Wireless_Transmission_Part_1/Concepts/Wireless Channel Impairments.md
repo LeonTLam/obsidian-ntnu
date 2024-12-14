@@ -100,4 +100,15 @@ $$70\text{ms} >> 10\micro \text{s}, \text{thus slow fading} $$
 
 ## Flat Fading vs. Frequency-Selective Fading
 
- **Flat Fading**, occurs when the bandwidth 
+ **Flat Fading**, occurs when the bandwidth of the *transmitted* signal is much smaller than the coherence bandwidth of the channel.
+ $$B_{signal}<<B_{coherence}$$
+ This means all frequency components of the signal experience same level of fading
+
+```Example
+A transmitted signal with a bandwidth of 10 kHz transmitted through a channel with a coherence bandwidth of 150 kHz
+```
+* Coherent bandwidth is larger than 10x of signal bandwidth
+* We have flat-fading or narrowband fading
+
+______________________
+**Frequency-Selc
