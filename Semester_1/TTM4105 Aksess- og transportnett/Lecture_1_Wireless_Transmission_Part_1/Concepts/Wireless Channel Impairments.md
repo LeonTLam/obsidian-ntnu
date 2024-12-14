@@ -100,3 +100,4 @@ $$70\text{ms} >> 10\micro \text{s}, \text{thus slow fading} $$
 
 ## Flat Fading vs. Frequency-Selective Fading
 
+ **Flat Fading**, occurs when the bandwidth 
