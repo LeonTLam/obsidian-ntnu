@@ -73,3 +73,6 @@ A higher **frequency** has a bigger LOSS at a longer **distance**, than a lower 
 	* one or more delayed copies of a pulse may arrive at the same time as the primary pulse for a subsequent bit.
 
 # Fading
+
+* A signal out of transmitter radiates into wide direction
+* Radiated signals take different paths and arrive at receiver at different timings and with different signal strength (amplitude)
