@@ -58,4 +58,9 @@ A higher **frequency** has a bigger LOSS at a longer **distance**, than a lower 
 
 * In addition to the attenuation, the power of the received signal is also influenced by:
 	* Shadowing
-	* Reflection: Smooth 
+	* Reflection: Smooth surface > $\lambda$
+	* Refraction: depending on the density of the medium
+	* Scattering: Object > $\lambda$
+	* Diffraction: Object with large dimensions relative to $\lambda$ and sharp irregularities (edges), causing secondary waves.
+
+![[Signal_propagation.png]]
