@@ -74,5 +74,22 @@ A higher **frequency** has a bigger LOSS at a longer **distance**, than a lower 
 
 # Fading
 
+*Deterioration of the signal quality*
+
 * A signal out of transmitter radiates into wide direction
-* Radiated signals take different paths and arrive at receiver at different timings and with different signal strength (amplitude)
+* Radiated signals take different paths and arrive at receiver at different timings and with different signal strength (amplitude)(multipath)
+* Signal coming into receiver is the composite of all the components
+
+## Fast Fading vs Slow Fading
+
+* Rapid fluctuations of signal caused by movement (**Doppler Spread**)
+* Time-domain
+* Coherence time $T_C$ = How long a channel remains relatively constant
+
+* If **Coherence Time $T_c$** >> bit time $T_b$ ,
+	* slow fading/long term fading
+* Otherwise fast fading / short term fading
+
+```Example
+Suppose a pedestrian is moving through an urban env. that has a wireless channel with a coherence time of /=
+```
