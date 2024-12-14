@@ -111,4 +111,13 @@ A transmitted signal with a bandwidth of 10 kHz transmitted through a channel wi
 * We have flat-fading or narrowband fading
 
 ______________________
-**Frequency-Selc
+**Frequency-Selective Fading**, occurs when the bandwidth of the transmitted signal is larger than the coherence bandwidth.
+$$B_{signal}>B_{coherence}$$
+Different frequency components of the signal experience different levels of fading.
+
+```Example
+A transmitted signal with a bandwidth of 1 MHz transmitted through a channel with a coherence bandwidth of 100 kHz
+```
+* Coherent bandwidth of 100 kHz is not larger than 10 x 1 MHz
+* We have frequency-selective fading
+
