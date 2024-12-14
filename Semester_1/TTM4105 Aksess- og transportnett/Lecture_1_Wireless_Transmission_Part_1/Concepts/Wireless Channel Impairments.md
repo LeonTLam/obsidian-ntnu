@@ -97,3 +97,6 @@ Suppose a pedestrian is moving through an urban env. that has a wireless channel
 $$\text{Bit Time } T_b= \frac{1}{100\text{ kbps}}= 10 \micro\text{s}$$
 $$T_b = \frac{1}{R_b}= \frac{1}{100 000}\text{seconds}=10\micro \text{s}$$
 $$70\text{ms} >> 10\micro \text{s}, \text{thus slow fading} $$
+
+## Flat Fading vs. Frequency-Selective Fading
+
