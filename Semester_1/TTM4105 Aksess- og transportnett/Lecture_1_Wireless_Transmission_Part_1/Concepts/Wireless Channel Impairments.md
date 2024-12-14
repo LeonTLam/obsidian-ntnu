@@ -22,7 +22,7 @@
 
 # Free Space Loss - Ideal Isotropic Antenna
 
-**Free Space Loss**l, ideal isotropic antenna through the following formula:
+**Free Space Loss**, ideal isotropic antenna through the following formula:
 
 $$\frac{P_t}{P_r}=\frac{(4\pi d)^2}{\lambda ^2}=\frac{(4\pi f d)^2}{c^2}$$
 * P_t = Signal power at transmitting antenna
@@ -34,3 +34,28 @@ $$\frac{P_t}{P_r}=\frac{(4\pi d)^2}{\lambda ^2}=\frac{(4\pi f d)^2}{c^2}$$
 **In dB**: 
 $$L_{dB}= 10\log \frac{P_t}{P_r}$$
 
+# Free Space Loss - Other Atennas
+
+For other antennas, the gain of the antenna is considered:
+
+$$\frac{P_t}{P_r}=\frac{(4\pi)^2(d)^2}{G_rG_t\lambda^2}$$
+* G_t = Gain of transmitting antenna
+* G_R = Gain of receiving antenna
+
+```Definition
+Antenna Gain: Power output, in a particular direction, compared to that produced in any direction by an isotropic antenna (theoritcal perfect antenna)
+
+For isotropic antenna, gain G = 1
+```
+
+# Path Loss vs Frequency
+
+The loss due to **frequency** increases the stronger the Hertz rate becomes, but also increases by the **distance**.
+
+A higher **frequency** has a bigger LOSS at a longer **distance**, than a lower frequency at the same distance
+
+# Signal Propagation
+
+* In addition to the attenuation, the power of the received signal is also influenced by:
+	* Shadowing
+	* Reflection: Smooth 
