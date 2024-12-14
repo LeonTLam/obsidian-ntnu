@@ -91,5 +91,8 @@ A higher **frequency** has a bigger LOSS at a longer **distance**, than a lower 
 * Otherwise fast fading / short term fading
 
 ```Example
-Suppose a pedestrian is moving through an urban env. that has a wireless channel with a coherence time of /=
+Suppose a pedestrian is moving through an urban env. that has a wireless channel with a coherence time of 70 ms. The bit rate of the signal is 100 kbps. Do we have a fast fading or a slow fading
 ```
+
+$$\text{Bit Time } T_b= \frac{1}{100\text{ kbps}}= 10 \micro\text{s}$$
+$$T_b = \frac{1}{R_b}= \frac{1}{100 000}\text{seconds}=10\micro \text{s}$$
