@@ -24,4 +24,23 @@ Given a transmitted signal, we can recover the original signal through demodulat
 
 ## Course of Action
 
-**Digital data (101101001)** -> [Digital Modulation] -> **Analog baseband signal** + **Radio carrier wave** THROUGH **analog modulation** = Shifted baseband signal
+From Digital Data to Translated baseband signal
+**Digital data (101101001)** -> [Digital Modulation] -> **Analog baseband signal** + **Radio carrier wave** THROUGH **analog modulation** = Shifted baseband signal (at radio transmitter)
+
+From translated baseband signal to digital data
+**Transmitted signal** -> **[Digital demodulation]** + **radio carrier wave** -> Analog baseband signal -> [**Synchronization decision**] -> **Digital data** (at radio receiver)
+
+*Modulation is the superposition of a low-freq. signal on a high-freq. carrier wave i.e. baseband signal is translated (shifted) from low freq. to high freq.*
+
+# Digital Modulation
+
+* Amplitude Shift Keying (ASK):
+	* One binary digit represented by presence of carrier, at constant amplitude, other binary digit represented by absence of carrier.
+	* **Easy to implement, low bandwidth requirement**
+* Frequency Shift Keying (FSK):
+	* Information data controls the freq. of the carrier
+	* **Requires larger bandwidth**
+* Phase Shift Keying (PSK):
+	* Information data controls the phase of the carrier 
+	* **more complex**
+![[Pasted image 20241215202950.png]]
