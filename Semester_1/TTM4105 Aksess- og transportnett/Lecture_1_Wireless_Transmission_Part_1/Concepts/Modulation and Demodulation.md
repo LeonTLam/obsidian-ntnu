@@ -43,4 +43,4 @@ From translated baseband signal to digital data
 * Phase Shift Keying (PSK):
 	* Information data controls the phase of the carrier 
 	* **more complex**
-![[Pasted image 20241215202950.png]]
+![[ASK, FSK, PSK.png]]
