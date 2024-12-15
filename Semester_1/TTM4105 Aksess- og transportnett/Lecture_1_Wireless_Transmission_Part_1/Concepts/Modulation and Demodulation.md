@@ -15,4 +15,4 @@ Digital signals cannot be directly transmitted in the radio medium
 1. To generate a modulated signal suited and compatible to the characteristics of the transmission channel
 	1. Shift information signal to the carrier frequency
 	*Information signal modulates (changes) the carrier signal*
-2. 
+2. Reduction
