@@ -64,6 +64,23 @@
 * Each channel is assigned the whole spectrum
 	* Each with a unique code. Bits are coded before transmission
 
+## CDM - Advantages
+
+* Bandwidth efficient
+* No freq. coordination and synchronization needed
+* Good protection against interference and tapping
+
+## CDM - Disadvantages
+
+* More complex signal regeneration
+* Power control required
+
+# Orthogonal FDM (OFDM)
+
+* System bandwidth is divided into set of overlapping yet orthogonal sub-bands (subcarriers)
+
+* Also known as multicarrier modulation
+* Data is distributed over multiple carriers at precise freq.
 
 
 
