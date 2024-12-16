@@ -28,4 +28,17 @@ Addition of a data segment content
 
 * Sender: **Checksum creation**
 	* Calculate checksum of data and adds to checksum field
-* 
+* Receiver **Checksum validation**
+	* Computes checksum of received segment
+	* If computed = checksum field value, accepted
+	* Otherwise, rejected
+
+Data unit is divided into n-bit segments.
+All segments are added, then the 1's complement is found with the first segment.
+
+At the receiver, the sum of data plus checksum is performed. 
+If all 1's, data is accepted
+
+## Checksum - Disadvantage
+
+If bits in same position but with opposite values are changed through transmission, sum will not change and receiver will not detect errors.
