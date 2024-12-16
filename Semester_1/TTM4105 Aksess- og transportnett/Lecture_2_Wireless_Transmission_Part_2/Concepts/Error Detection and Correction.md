@@ -60,4 +60,29 @@ CRC is generated at sender and verified at receiver
 * Generally does not provide any way to locate/correct errors
 
 * Parity Check
-	* Extremely simple, can be fooled by certain types of er
+	* Extremely simple, can be fooled by certain types of errors (two bits in error)
+	* Useful for small frame sizes (where typical error is single bit)
+* Checksum
+	* Simple
+	* More powerful than parity check (lower prob. of undetected errors)
+* CRC
+	* Most complicated and most powerful (Extremely low prob. of undetected errors for longer CRC checks)
+	* IEEE 802 specifies a CRC-32 check
+
+# Error Correction
+
+* Error correction in two ways (may):
+	* Request re-transmit of entire information (**Backward Error Correction**)
+	* Receiver applies error-correction algorithms (**Forward Error Correction**)
+
+* Problems with re-transmission
+	* Not suitable for multimedia transmission
+	* Not available at non bi-directional links (HDTV)
+	* Reoccurring at link with high bit error rate
+	* Bad QOS at a link with high latency (satellite)
+
+# Forward Error Correction (FEC)
+
+**Advantages**
+* Saves bandwidth required for retransmission
+* Does not r
