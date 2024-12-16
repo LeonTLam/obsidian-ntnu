@@ -1,0 +1,1 @@
+Diversity techniques are used to **improve the system performance over a fading channel**

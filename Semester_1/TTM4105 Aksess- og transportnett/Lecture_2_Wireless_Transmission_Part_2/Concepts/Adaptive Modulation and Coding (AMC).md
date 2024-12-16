@@ -13,4 +13,8 @@ When conditions change, sender switches to a different modulation-coding combina
 
 # AMC - Challenges
 
-If 
+If the channel changes faster than expected, AMC will perform poorly. AMC will not be able to adapt quickly to the quality of the channel.
+
+Error in the channel estimate will result in wrong choice of data rate and coding for error correction.
+
+AMC requires high complexity
