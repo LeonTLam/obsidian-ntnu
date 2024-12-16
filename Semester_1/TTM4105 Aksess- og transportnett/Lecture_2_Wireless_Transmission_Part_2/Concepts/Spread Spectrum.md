@@ -37,9 +37,35 @@ Communication technique that spreads a signal over a wider frequency band than n
 
 * Uses pseudo random chipping sequence to encode user data with **XOR** operation
 
+**User data**: 10
+**Chipping Sequence**: 1011
+**Resulting Signal**: 01001011
+
 | A   | B   | A XOR B |
 | --- | --- | ------- |
 | 0   | 0   | 0       |
 | 0   | 1   | 1       |
 | 1   | 0   | 1       |
 | 1   | 1   | 0       |
+## Advantages
+
+* Reduces effect of frequency-selective fading
+
+* In Cellular networks, it is possible to reuse same frequency bit with different chipping sequences.
+
+## Disadvantages
+
+* Requires precise power control
+	* Signals that arrive simultaneously, should reach receiver at about same power level.
+
+# Frequency Hopping Spread Spectrum (FHSS)
+
+* Signal is broadcast over seemingly random series of radio frequencies
+
+* Signals hops from freq. to freq. at fixed intervals.
+
+* **Slow frequency hopping**: Multiple symbols are transmitted in one frequency hop
+
+* **Fast frequency hopping**: Multiple hops are required to transmit one symbol
+
+* Used in Bluetooth
