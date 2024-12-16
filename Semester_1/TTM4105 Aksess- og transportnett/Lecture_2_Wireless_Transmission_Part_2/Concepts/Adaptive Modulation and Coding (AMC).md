@@ -10,3 +10,7 @@ The goal of AMC is efficient utilization of resources through:
 In case of a **good-quality** channel, we choose modulation and coding combination that gives a high throughput
 
 When conditions change, sender switches to a different modulation-coding combination.
+
+# AMC - Challenges
+
+If 
