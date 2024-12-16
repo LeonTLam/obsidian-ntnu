@@ -53,3 +53,27 @@ Each symbol represents 1 bit
 Phase is shown as an angle and amplitude as distance from the origin
 
 In PSK the amplitude is constant, all points lie on one circle.
+
+```
+Relationship between number of available symbols (M), and the number of bits that can be represented by a symbol (n), is: M = 2^n
+```
+
+# Quadrature Phase Shift Keying (QPSK)
+
+Each symbol represents two bits.
+4 phase shifts are used
+
+```
+Increasing the number of bits a symbol can represent, means that a higher data rates can be achieved.
+```
+
+# Higher Order PSK
+
+We can keep increasing the number of states.
+Example. 8PSK has 8 possible states.
+	8 states means each symbol consists of 3 bits ($2^3=8$)
+
+Higher order PSK (16PSK, ...) is possible, but less common.
+	16 states means each symbol consist of 4 bits ($2^4=16$)
+
+If higher data rates are needed,
