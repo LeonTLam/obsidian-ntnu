@@ -85,4 +85,22 @@ CRC is generated at sender and verified at receiver
 
 **Advantages**
 * Saves bandwidth required for retransmission
-* Does not r
+* Does not require handshaking between source and destination
+**Limitations**
+* Too many errors requires frames to be retransmitted
+
+## FEC - Codebook
+
+* Codebook is a mapping from k-bit data sequences to n-bit codewords with n > k
+* Code rate $r = \frac{k}{n}<1$
+* (n,k) code
+
+* Both transmitted and receiver know the codebook
+* Transmitter takes data blocks, maps them to codewords and transmits the codeword
+* Receiver receives codewords (with pot. one or more errors)a nd maps them back to data blocks
+
+## FEC - Hamming Distance
+
+Hamming distance between n-bit codewords v1 and v2 is defined as
+
+$$d($$
