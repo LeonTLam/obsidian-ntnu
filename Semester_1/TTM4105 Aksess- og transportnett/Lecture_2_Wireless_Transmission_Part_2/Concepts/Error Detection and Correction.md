@@ -103,4 +103,20 @@ CRC is generated at sender and verified at receiver
 
 Hamming distance between n-bit codewords v1 and v2 is defined as
 
-$$d($$
+$$d(v_1,v_2) = \sum^{n-1}_{l=0}XOR(v_1(l),v_2(l))$$
+Simply number of bits in which v1 and v2 are different
+
+```Example
+v1 = 011011
+v2 = 110001
+Hamming distance d(v1,v2) = 3
+```
+
+## Redundancy vs Hamming Distance
+
+We want hamming distance to be large and redundancy to be small
+
+**Redundancy** = $\frac{n-k}{k}$
+n - length of codeword
+k - length of data block
+
