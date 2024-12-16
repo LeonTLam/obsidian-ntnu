@@ -10,6 +10,10 @@
 * Doppler spread
 	Signal distortion that is caused by the movement of mobile unit
 
+* Methods can be used to overcome these impai:
+	* Adaptive Modulation and Coding
+	* Diversity Techniques
+	* Data Encoding
 # Attenuation
 
 * Strength of signal falls off with distance
