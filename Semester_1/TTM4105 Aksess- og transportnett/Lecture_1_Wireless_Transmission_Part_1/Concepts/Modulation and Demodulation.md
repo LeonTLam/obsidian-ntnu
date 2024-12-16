@@ -76,4 +76,21 @@ Example. 8PSK has 8 possible states.
 Higher order PSK (16PSK, ...) is possible, but less common.
 	16 states means each symbol consist of 4 bits ($2^4=16$)
 
-If higher data rates are needed,
+If higher data rates are needed, more complex modulation (ex. QAM) is used.
+
+# Quadrature Amplitude Modulation (QAM)
+
+Combines amplitude and phase modulation.
+
+Example: 16-QAM (4 bits = 1 symbol)
+	$16 = 2^4, n=4$
+	Symbols 0011 and 0001 have the same phase $\phi$, but different amplitude $a$.
+	Symbols 0000 and 1000 have different phase, but same amplitude
+
+Bit error rate increases with $n$
+
+
+# Which Modulation to Choose?
+
+* Moving from BPSK -> 64QAM, increases data rate
+	* Works for users that are close to the sender
