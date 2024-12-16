@@ -69,3 +69,26 @@ Communication technique that spreads a signal over a wider frequency band than n
 * **Fast frequency hopping**: Multiple hops are required to transmit one symbol
 
 * Used in Bluetooth
+
+- **User Data:** `101011`
+- **Frequency Pool (MHz):** `900, 901, 902, 903`
+- **Hopping Pattern:** `[902, 900, 903, 901]`, SLOW
+- **Hop Duration:** 2 bits per hop.
+
+**Transmission**
+1. 902 MHz, transmit **10**
+2. 900 MHz, transmit **10**
+3. 903 MHz, transmit **11**
+
+## Advantages
+
+* Simple implementation
+* Limits frequency selective fading and interference to short period
+* Uses only small portion of spectrum at any time
+* If interference affects one freq., only data for that time slot is lost, not entire message.
+* Different users share same frequency pool, with unique hopping patterns, avoiding collision
+
+## Disadvantages
+
+* Less robust than DSSS
+* Easier to detect
