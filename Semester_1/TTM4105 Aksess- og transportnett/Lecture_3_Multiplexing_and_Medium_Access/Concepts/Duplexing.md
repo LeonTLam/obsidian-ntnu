@@ -35,4 +35,10 @@
 	* Forward band (From BS to mobile)
 	* Reverse band (Mobile to BS)
 * Duplexer filters out any interference between two bands
-* Most c
+* Most cellular systems are based on FDD
+
+# Time Division Duplexing (TDD)
+
+* Downlink and uplink data transmitted on the same carrier freq. at different times
+	* Uses time to provide both forward and reverse links
+* Each duplex channel has both a forward
