@@ -2,6 +2,8 @@
 
 * [[Adaptive Modulation and Coding (AMC)]]
 * [[Diversity Techniques]]
-	* Multiple Input Multiple Output (MIMO) antennas
+	* [[Diversity Techniques#Multiple Input Multiple Output (MIMO) antenna|Multiple Input Multiple Output (MIMO) ]]
 * [[Spread Spectrum]]
-* Error Detection and Correction
+	* [[Spread Spectrum#Direct Sequency Spread Spectrum (DSSS)|Direct Sequency Spread Spectrum (DSSS)]]
+	* [[Spread Spectrum#Frequency Hopping Spread Spectrum (FHSS)|Frequency Hopping Spread Spectrum (FHSS)]]
+* [[Error Detection and Correction]]
