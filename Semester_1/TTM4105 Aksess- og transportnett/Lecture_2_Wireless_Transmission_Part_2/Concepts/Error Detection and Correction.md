@@ -120,3 +120,8 @@ We want hamming distance to be large and redundancy to be small
 n - length of codeword
 k - length of data block
 
+## Minimum Distance Decoding
+
+When an invalid codeword is received, receiver should choose valid codeword with **minimum hamming distance** to be the invalid codeword.
+
+In the case where the lowest minimum hamming distance is the same for two codewords, and there are no other codes closer to the invalid codeword. We must conclude that the codeword cannot be decoded.

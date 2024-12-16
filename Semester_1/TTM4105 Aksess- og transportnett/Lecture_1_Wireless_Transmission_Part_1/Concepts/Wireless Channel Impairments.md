@@ -13,7 +13,7 @@
 * Methods can be used to overcome these impairments:
 	* [[Adaptive Modulation and Coding (AMC)]]
 	* [[Diversity Techniques]]
-	* [[Data Encoding]]
+	* Data Encoding
 # Attenuation
 
 * Strength of signal falls off with distance
