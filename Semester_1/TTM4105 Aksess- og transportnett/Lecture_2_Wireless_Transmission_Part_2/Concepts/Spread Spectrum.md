@@ -1,0 +1,15 @@
+*Narrowband Signal -> can be wiped up by frequency-dependent fading*
+
+**Approach:** Spread the narrowband signals into broadband signal using a special code
+
+```Explanation
+Communication technique that spreads a signal over a wider frequency band than necessary for transmission. Makes signal more resitant to interference, noice and eavesdropping.
+```
+
+**Process**:
+* Input signal is encoded to a channel and modulated with a specific spreading.
+* At the receiver, the signal is demodulated and according spreading captured to decode as output signal.
+
+**Components**:
+* Channel Encoder: Adds redundancy to data for error detection and correction
+* Spreading Code Generator: Produces a pseudorandom code that spreads data signal over a wider bandwidth

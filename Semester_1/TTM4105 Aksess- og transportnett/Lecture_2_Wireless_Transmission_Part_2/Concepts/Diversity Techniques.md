@@ -25,4 +25,4 @@ Boosts data rates by sending the data payload in separate streams through spatia
 
 **Beamforming**: Emit same signal from all antennas focused in the direction of the receiver, to maximize signal power at receiver antenna.
 
-**4G LTE and 5G
+**4G LTE and 5G networks** heavily rely on enhanced MIMO technology (Massive MIMO)
