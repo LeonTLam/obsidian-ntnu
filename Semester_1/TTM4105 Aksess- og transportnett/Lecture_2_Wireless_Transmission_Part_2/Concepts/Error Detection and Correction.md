@@ -42,3 +42,22 @@ If all 1's, data is accepted
 ## Checksum - Disadvantage
 
 If bits in same position but with opposite values are changed through transmission, sum will not change and receiver will not detect errors.
+
+# Cyclic Redundancy Check (CRC)
+
+Error detection method based on binary division
+
+Divisor known for both sender and receiver
+
+CRC is generated at sender and verified at receiver
+
+* Sender performs binary division of augmented dataword and appends a remainder
+
+* Receiver divides received data by the divisor, if result of division is all 0's at remainder, no transmission error
+
+# Error Detection
+
+* Generally does not provide any way to locate/correct errors
+
+* Parity Check
+	* Extremely simple, can be fooled by certain types of er
