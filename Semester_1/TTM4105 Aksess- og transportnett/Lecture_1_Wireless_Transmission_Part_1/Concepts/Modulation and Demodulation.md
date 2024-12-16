@@ -44,3 +44,12 @@ From translated baseband signal to digital data
 	* Information data controls the phase of the carrier 
 	* **more complex**
 ![[ASK, FSK, PSK.png]]
+
+# Binary Phase Shift Keying (BPSK)
+
+Most basic form of Phase Shift Keying 
+Each symbol represents 1 bit
+
+Phase is shown as an angle and amplitude as distance from the origin
+
+In PSK the amplitude is constant, all points lie on one circle.
