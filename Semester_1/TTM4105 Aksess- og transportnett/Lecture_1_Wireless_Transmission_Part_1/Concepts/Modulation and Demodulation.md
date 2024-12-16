@@ -94,3 +94,10 @@ Bit error rate increases with $n$
 
 * Moving from BPSK -> 64QAM, increases data rate
 	* Works for users that are close to the sender
+* If in noisy env., demodulation will become very difficult.
+	* Thus, should choose lower QAM and then QPSK and BPSK
+	* If BPSK does not work, we can conclude that there is no coverage.
+
+**Priority based on distance to sender (right is closest to sender)**
+**BPSK | QPSK | 16QAM | 64QAM | SENDER**
+
