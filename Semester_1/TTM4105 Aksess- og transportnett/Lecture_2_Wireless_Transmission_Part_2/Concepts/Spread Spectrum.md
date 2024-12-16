@@ -34,3 +34,12 @@ Communication technique that spreads a signal over a wider frequency band than n
 * Frequency Hopping (FHSS)
 
 # Direct Sequency Spread Spectrum (DSSS)
+
+* Uses pseudo random chipping sequence to encode user data with **XOR** operation
+
+| A   | B   | A XOR B |
+| --- | --- | ------- |
+| 0   | 0   | 0       |
+| 0   | 1   | 1       |
+| 1   | 0   | 1       |
+| 1   | 1   | 0       |
