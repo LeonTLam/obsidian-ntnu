@@ -14,8 +14,18 @@
     },
     {
       "id": "0wPF1sxkD7kuDef2vXjrU",
-      "name": "",
-      "value": "#ffffff"
+      "name": "Creative",
+      "value": "#f759b5"
+    },
+    {
+      "id": "i1I6au8T914JzYurZnhm7",
+      "name": "Current",
+      "value": "#00eeff"
+    },
+    {
+      "id": "_LkKIZVMkTnXYCitLWJQJ",
+      "name": "README",
+      "value": "#b0b0b0"
     }
   ],
   "fileColors": [
@@ -34,6 +44,18 @@
     {
       "path": "02_Archive",
       "color": "vm2tdY2YfMY59tbg2LtRa"
+    },
+    {
+      "path": "03_Creative_Projects",
+      "color": "0wPF1sxkD7kuDef2vXjrU"
+    },
+    {
+      "path": "01_Current_Semester",
+      "color": "i1I6au8T914JzYurZnhm7"
+    },
+    {
+      "path": "README.md",
+      "color": "_LkKIZVMkTnXYCitLWJQJ"
     }
   ]
 }
