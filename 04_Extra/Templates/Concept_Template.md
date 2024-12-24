@@ -1,4 +1,11 @@
-# {{concept_name}}
+# <% tp.file.title %>
+<%
+const hasTitle = !tp.file.title.startsWith("New_Concept");
+let title;
+if (!hasTitle) {
+	title =
+}
+%>
 
 ## Definition:
 - Brief definition or description.

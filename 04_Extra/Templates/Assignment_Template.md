@@ -1,6 +1,6 @@
 # Assignments for {{course_name}}
 
-## Assignment Name: {{assignment_title}}
+## Assignment Name: <% tp.file.title %>
 
 ### Details:
 - **Assigned Date:** YYYY-MM-DD
