@@ -3,7 +3,7 @@ const hasTitle = !tp.file.title.startsWith("Untitl");
 let title;
 if (!hasTitle) {
 	title = await tp.system.prompt("Give the concept a Title");
-	await tp.file.rename(tp.date.now(title);
+	await tp.file.rename(title);
 } else {
 	title = tp.file.title;
 }
@@ -29,26 +29,18 @@ _%>
 #### **Exam Details**
 
 - **Title**: [Enter Exam Title]
-- **Course**: <% course %>
+- **Course**: **<% course %>**
 - **Due Date**: [Enter Due Date]
 - **Description**: [Provide a brief description of the exam, including its purpose, format, and any important details.]
 
 ---
 
-#### **Progress with Tasks**
+#### **Progress**
 
-tasks
-- [ ] Review notes from lectures
-  due:: [Task-specific due date, if any]
+- [ ] Review notes from lectures 🔽 
+- [ ] Practice past exams 🔼 
+- [ ] Create a summary of key topics 🔼 
 
-- [ ] Practice past exams
-  due:: [Task-specific due date, if any]
-
-- [ ] Create a summary of key topics
-  due:: [Task-specific due date, if any]
-
-
-(Add more tasks as needed.)
 
 ---
 
@@ -58,7 +50,6 @@ Topic 1: [Enter topic name, e.g., "Networking Protocols"]
 
 Topic 2: [Enter topic name, e.g., "Cybersecurity Threats"]
 
-(Add more topics as needed.)
 
 ---
 

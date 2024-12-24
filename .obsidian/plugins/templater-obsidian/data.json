@@ -31,7 +31,8 @@
   "enabled_templates_hotkeys": [
     "04_Extra/Templates/Daily_Note_Template.md",
     "04_Extra/Templates/Concept_Template.md",
-    "04_Extra/Templates/Assignment_Template.md"
+    "04_Extra/Templates/Assignment_Template.md",
+    "04_Extra/Templates/Exam_Template.md"
   ],
   "startup_templates": []
 }

@@ -49,5 +49,14 @@
       ],
       "key": "D"
     }
-  ]
+  ],
+  "templater-obsidian:create-04_Extra/Templates/Exam_Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:insert-templater": []
 }
