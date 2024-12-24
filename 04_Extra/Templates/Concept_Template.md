@@ -7,10 +7,25 @@ if (!hasTitle) {
 } else {
 	title = tp.file.title;
 }
-
-let course;
-
 _%>
+
+<%*
+// Define the parent folder containing courses
+const parentFolder = "01_Current_Semester";
+
+// Fetch the list of course folders
+const courses = app.vault.getAbstractFileByPath(parentFolder).children.map(folder => folder.name);
+
+// Prompt the user to select a course
+const selectedCourse = await tp.system.suggester(courses, courses);
+
+// Save the selected course to a variable or use it
+let course = selectedCourse;
+
+// Output the selected course or use it in your script
+await tp.file.move("/01_Current_Semester/" + course + "/Concepts/" + tp.file.title)
+%>
+
 # <% await tp.file.title %>
 ## Definition:
 - Brief definition or description.

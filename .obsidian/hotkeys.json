@@ -25,5 +25,29 @@
       ],
       "key": "1"
     }
+  ],
+  "templater-obsidian:create-04_Extra/Templates/Assignment_Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:create-04_Extra/Templates/Concept_Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:create-04_Extra/Templates/Daily_Note_Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
   ]
 }
