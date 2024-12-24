@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⭐",
+      "LiPlus",
+      "➕",
       "⚠"
     ],
     "recentlyUsedIconsSize": 5,
@@ -36,5 +39,6 @@
   "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Baseband Signal.md": "⚠",
   "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Multiplexing.md": "⚠",
   "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Medium Access Control (MAC).md": "⚠",
-  "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Fiber Optics.md": "⚠"
+  "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Fiber Optics.md": "⚠",
+  "Extra": "⭐"
 }
