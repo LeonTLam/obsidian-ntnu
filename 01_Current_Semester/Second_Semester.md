@@ -5,7 +5,18 @@
 ### Courses:
 
 - [Course 1 Name](./Course_1_Name/)
-
+```button
+name Create Daily Note
+type template
+action Daily_Note_Template
+```
+^button-v
+```button
+name Create Assignment Note
+type template
+action Assignment_Template
+```
+^button-2m9n
 
 
 - [Course 2 Name](./Course_2_Name/)
