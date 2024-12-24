@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "04_Extra/Templates",
   "templates_pairs": [
     [
       "",
@@ -28,10 +28,6 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    "Semester_1/IIK3100_Etisk_hacking/Home_Exam/Template_Home_Exam.md"
-  ],
-  "startup_templates": [
-    ""
-  ]
+  "enabled_templates_hotkeys": [],
+  "startup_templates": []
 }
