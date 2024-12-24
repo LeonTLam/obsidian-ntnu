@@ -19,8 +19,8 @@
     },
     {
       "id": "i1I6au8T914JzYurZnhm7",
-      "name": "Current",
-      "value": "#2a00fa"
+      "name": "CurrentSem",
+      "value": "#002e42"
     },
     {
       "id": "_LkKIZVMkTnXYCitLWJQJ",
@@ -46,6 +46,11 @@
       "id": "JLcNzPSO_YPGyPy8fB0Ki",
       "name": "Course4",
       "value": "#d4f1f4"
+    },
+    {
+      "id": "nhvyYxPlc5fS_jFOwzp5h",
+      "name": "SemOverview",
+      "value": "#e5fcff"
     }
   ],
   "fileColors": [
@@ -92,6 +97,10 @@
     {
       "path": "01_Current_Semester",
       "color": "i1I6au8T914JzYurZnhm7"
+    },
+    {
+      "path": "01_Current_Semester/Second_Semester.md",
+      "color": "nhvyYxPlc5fS_jFOwzp5h"
     }
   ]
 }

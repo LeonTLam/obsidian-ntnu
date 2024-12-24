@@ -1,19 +1,17 @@
 # Semester Overview
 
-## Semester: {{semester_name}}
+## Semester: 🌸 Spring
 
 ### Courses:
 
 - [Course 1 Name](./Course_1_Name/)
-
-
 - [Course 2 Name](./Course_2_Name/)
 - [Course 3 Name](./Course_2_Name/)
 - [Course 4 Name](./Course_2_Name/)
 
 ### Deadlines:
 #### Course 1
-- [ ] Assignment 1 🔼 📅 2024-12-24
+- [ ] [[Assignment_1]] 🔼 📅 2024-12-24
 - [ ] Exam 1 📅 2024-12-24 ⏫ 
 
 #### Course 2
