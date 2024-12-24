@@ -1,5 +1,3 @@
-# Semester Overview
-
 ## Semester: 🌸 Spring
 
 ### Courses:
