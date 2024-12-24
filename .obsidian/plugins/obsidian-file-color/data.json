@@ -20,12 +20,32 @@
     {
       "id": "i1I6au8T914JzYurZnhm7",
       "name": "Current",
-      "value": "#00eeff"
+      "value": "#2a00fa"
     },
     {
       "id": "_LkKIZVMkTnXYCitLWJQJ",
       "name": "README",
       "value": "#b0b0b0"
+    },
+    {
+      "id": "duv6UX4WZtjDNWLaiG8EP",
+      "name": "Course1",
+      "value": "#05445e"
+    },
+    {
+      "id": "YM6YV_Z9ryRt6FbmeL2Ei",
+      "name": "Course2",
+      "value": "#189ab4"
+    },
+    {
+      "id": "2b_SIk1tPmC7Egs25vUg3",
+      "name": "Course3",
+      "value": "#75e6da"
+    },
+    {
+      "id": "JLcNzPSO_YPGyPy8fB0Ki",
+      "name": "Course4",
+      "value": "#d4f1f4"
     }
   ],
   "fileColors": [
@@ -50,12 +70,28 @@
       "color": "0wPF1sxkD7kuDef2vXjrU"
     },
     {
-      "path": "01_Current_Semester",
-      "color": "i1I6au8T914JzYurZnhm7"
-    },
-    {
       "path": "README.md",
       "color": "_LkKIZVMkTnXYCitLWJQJ"
+    },
+    {
+      "path": "01_Current_Semester/Course_1",
+      "color": "duv6UX4WZtjDNWLaiG8EP"
+    },
+    {
+      "path": "01_Current_Semester/Course_2",
+      "color": "YM6YV_Z9ryRt6FbmeL2Ei"
+    },
+    {
+      "path": "01_Current_Semester/Course_3",
+      "color": "2b_SIk1tPmC7Egs25vUg3"
+    },
+    {
+      "path": "01_Current_Semester/Course_4",
+      "color": "JLcNzPSO_YPGyPy8fB0Ki"
+    },
+    {
+      "path": "01_Current_Semester",
+      "color": "i1I6au8T914JzYurZnhm7"
     }
   ]
 }
