@@ -21,7 +21,7 @@ const selectedCourse = await tp.system.suggester(courses, courses);
 let course = selectedCourse;
 
 // Output the selected course or use it in your script
-await tp.file.move("/01_Current_Semester/" + course + "/Notes/" + tp.date.now("DD-MMM-YYYY")+"_"+title)
+await tp.file.move("/01_Current_Semester/" + course + "/Notes/" + title)
 
 _%>
 # <% tp.date.now("DD-MMM-YYYY") %> Daily Note
@@ -32,10 +32,6 @@ _%>
 
 ## Key Points
 - Summary of key discussions.
-
-## Tasks
-- [ ] Review today’s content.
-- [ ] Prepare questions for next lecture.
 
 ## Notes
 - Additional notes or reminders.
