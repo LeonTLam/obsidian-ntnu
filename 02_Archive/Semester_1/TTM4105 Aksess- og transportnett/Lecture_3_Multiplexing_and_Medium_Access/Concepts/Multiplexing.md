@@ -1,5 +1,5 @@
 **Introduction to Multiplexing can be found here**
-[[Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Multiplexing|Multiplexing Introduction]]
+[[02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Multiplexing|Multiplexing Introduction]]
 
 # Space Division Multiplexing (SDM)
 

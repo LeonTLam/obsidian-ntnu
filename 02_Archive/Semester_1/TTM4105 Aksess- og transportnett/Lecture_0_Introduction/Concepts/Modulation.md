@@ -2,7 +2,7 @@
 
 Process of encoding information from a message source in a way that is suitable for transmission. Achieved by altering the characteristics of a wave.
 
-By superimposing a message on to a high frequency signal known as a [[carrier wave]], video, voice and other data can be transmitted.
+By superimposing a message on to a high frequency signal known as a [[Carrier Wave]], video, voice and other data can be transmitted.
 
 # Use-case
 

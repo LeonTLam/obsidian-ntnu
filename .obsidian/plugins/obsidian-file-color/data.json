@@ -9,14 +9,31 @@
     },
     {
       "id": "vm2tdY2YfMY59tbg2LtRa",
+      "name": "Archive",
+      "value": "#c800ff"
+    },
+    {
+      "id": "0wPF1sxkD7kuDef2vXjrU",
       "name": "",
       "value": "#ffffff"
     }
   ],
   "fileColors": [
     {
-      "path": "Extra",
+      "path": "04_Extra",
       "color": "__s1gWe0EtfdBtvXS_R5s"
+    },
+    {
+      "path": "04_Extra/Templates",
+      "color": "__s1gWe0EtfdBtvXS_R5s"
+    },
+    {
+      "path": "04_Extra/Excalidraw",
+      "color": "__s1gWe0EtfdBtvXS_R5s"
+    },
+    {
+      "path": "02_Archive",
+      "color": "vm2tdY2YfMY59tbg2LtRa"
     }
   ]
 }

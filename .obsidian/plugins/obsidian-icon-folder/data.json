@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⭐",
-      "LiPlus",
-      "➕",
-      "⚠"
+      "🧠",
+      "🗄",
+      "🖌",
+      "LiLayoutTemplate",
+      "⭐"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,12 +34,19 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Modulation.md": "⚠",
-  "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/The Nyquist Theory.md": "⚠",
-  "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Carrier Wave.md": "⚠",
-  "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Baseband Signal.md": "⚠",
-  "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Multiplexing.md": "⚠",
-  "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Medium Access Control (MAC).md": "⚠",
-  "Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Fiber Optics.md": "⚠",
-  "Extra": "⭐"
+  "04_Extra": "⭐",
+  "04_Extra/Templates": {
+    "iconName": "LiLayoutTemplate",
+    "iconColor": "#f7cf02"
+  },
+  "04_Extra/Excalidraw": "🖌",
+  "02_Archive": "🗄",
+  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Baseband Signal.md": "⚠",
+  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Carrier Wave.md": "⚠",
+  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Medium Access Control (MAC).md": "⚠",
+  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Fiber Optics.md": "⚠",
+  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Modulation.md": "⚠",
+  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Multiplexing.md": "⚠",
+  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/The Nyquist Theory.md": "⚠",
+  "03_Creative_Projects": "🧠"
 }
