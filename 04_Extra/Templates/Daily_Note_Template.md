@@ -3,7 +3,7 @@ const hasTitle = !tp.file.title.startsWith("Untitl");
 let title;
 if (!hasTitle) {
 	title = await tp.system.prompt("Give the concept a Title");
-	await tp.file.rename(title);
+	await tp.file.rename(tp.date.now(title);
 } else {
 	title = tp.file.title;
 }
@@ -21,7 +21,7 @@ const selectedCourse = await tp.system.suggester(courses, courses);
 let course = selectedCourse;
 
 // Output the selected course or use it in your script
-await tp.file.move("/01_Current_Semester/" + course + "/Concepts/" + title)
+await tp.file.move("/01_Current_Semester/" + course + "/Notes/" + tp.date.now("DD-MMM-YYYY")+"_"+title)
 
 _%>
 # <% tp.date.now("DD-MMM-YYYY") %> Daily Note
