@@ -3,7 +3,12 @@
 ## Semester: {{semester_name}}
 
 ### Courses:
+
 - [Course 1 Name](./Course_1_Name/)
+  - [Create Daily Note](obsidian://new?name=Daily_Note_{{date}}&template=Daily_Note_Template&folder=01_Current_Semester/Course_1_Name/Daily_Notes)
+  - [Create Concept Note](obsidian://new?name=Concept_{{concept_name}}&template=Concept_Template&folder=01_Current_Semester/Course_1_Name)
+  - [Create Assignment Note](obsidian://new?name=Assignment_{{assignment_title}}&template=Assignment_Template&folder=01_Current_Semester/Course_1_Name)
+
 - [Course 2 Name](./Course_2_Name/)
 - [Course 3 Name](./Course_2_Name/)
 - [Course 4 Name](./Course_2_Name/)
