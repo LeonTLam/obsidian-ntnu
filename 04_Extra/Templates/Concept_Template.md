@@ -1,12 +1,14 @@
-# <% tp.file.title %>
-<%
-const hasTitle = !tp.file.title.startsWith("New_Concept");
+<%*
+const hasTitle = !tp.file.title.startsWith("Untitled");
 let title;
 if (!hasTitle) {
-	title =
+	title = await tp.system.prompt("Give the concept a Title");
+	await tp.file.rename(title);
+} else {
+	title = tp.file.title;
 }
-%>
-
+_%>
+# <% await tp.file.title %>
 ## Definition:
 - Brief definition or description.
 
