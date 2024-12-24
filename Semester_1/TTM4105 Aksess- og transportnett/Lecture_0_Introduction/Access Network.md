@@ -5,7 +5,7 @@
 # Topics
 
 * [[Radio Frequency (RF)|Radio]] as communication medium
-* Frequency band, [[Modulation]], [[Multiplexing]], Antennas, Coverage, Propagation ...
+* Frequency band, [[Modulation]], [[Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Multiplexing]], Antennas, Coverage, Propagation ...
 * Approaches to address the [[The Nyquist Theory|wireless channel impairments]] 
 * [[Medium Access Control (MAC)]]
 * Wireless [[Local Area Network (LAN)]] & Wireless Personal Networks 

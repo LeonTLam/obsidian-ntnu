@@ -3,5 +3,6 @@
   "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
     "center_latex"
-  ]
+  ],
+  "accentColor": ""
 }
