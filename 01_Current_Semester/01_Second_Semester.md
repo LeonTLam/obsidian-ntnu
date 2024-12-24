@@ -10,7 +10,7 @@
 
 ### Deadlines:
 #### Course 1
-- [ ] Assignment 1 📅 2024-12-24 🔼 
+- [ ] Assignment 1 🔼 📅 2024-12-24
 - [ ] Exam 1 📅 2024-12-24 ⏫ 
 
 #### Course 2

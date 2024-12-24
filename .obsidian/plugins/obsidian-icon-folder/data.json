@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📚",
       "🗒",
       "LiSchool",
       "🧠",
-      "🗄",
-      "🖌"
+      "🗄"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,6 @@
     "iconName": "LiSchool",
     "iconColor": "#00e1ff"
   },
-  "README.md": "🗒"
+  "README.md": "🗒",
+  "01_Current_Semester/01_Second_Semester.md": "📚"
 }
