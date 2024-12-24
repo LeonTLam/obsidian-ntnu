@@ -7,6 +7,9 @@ if (!hasTitle) {
 } else {
 	title = tp.file.title;
 }
+
+let course;
+
 _%>
 # <% await tp.file.title %>
 ## Definition:
