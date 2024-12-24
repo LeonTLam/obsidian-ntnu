@@ -1,5 +1,5 @@
 <%*
-const hasTitle = !tp.file.title.startsWith("Untitled");
+const hasTitle = !tp.file.title.startsWith("Untitl");
 let title;
 if (!hasTitle) {
 	title = await tp.system.prompt("Give the concept a Title");
@@ -7,9 +7,7 @@ if (!hasTitle) {
 } else {
 	title = tp.file.title;
 }
-_%>
 
-<%*
 // Define the parent folder containing courses
 const parentFolder = "01_Current_Semester";
 
@@ -23,10 +21,10 @@ const selectedCourse = await tp.system.suggester(courses, courses);
 let course = selectedCourse;
 
 // Output the selected course or use it in your script
-await tp.file.move("/01_Current_Semester/" + course + "/Concepts/" + tp.file.title)
-%>
+await tp.file.move("/01_Current_Semester/" + course + "/Concepts/" + title)
 
-# <% await tp.file.title %>
+_%>
+
 ## Definition:
 - Brief definition or description.
 
@@ -38,6 +36,3 @@ await tp.file.move("/01_Current_Semester/" + course + "/Concepts/" + tp.file.tit
 1. Example 1.
 2. Example 2.
 
-## References:
-- [Source 1](link)
-- [Source 2](link)

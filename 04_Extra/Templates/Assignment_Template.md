@@ -3,7 +3,7 @@
 ## Assignment Name: <% tp.file.title %>
 
 ### Details:
-- **Assigned Date:** YYYY-MM-DD
+
 - **Due Date:** YYYY-MM-DD
 - **Description:**
   - Brief description of the assignment.
