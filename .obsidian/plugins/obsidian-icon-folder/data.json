@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiStore",
       "LiListTodo",
       "LiMapPin",
       "LiShieldAlert",
-      "LiBackpack",
-      "LiStar"
+      "LiBackpack"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,5 +80,9 @@
   "03_Creative_Projects/Escape_From_Tarkov/Quests": {
     "iconName": "LiListTodo",
     "iconColor": "#00bd26"
+  },
+  "03_Creative_Projects/Escape_From_Tarkov/Traders": {
+    "iconName": "LiStore",
+    "iconColor": "#009419"
   }
 }
