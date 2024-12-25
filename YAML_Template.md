@@ -6,23 +6,22 @@ Status: []
 
 ### MAPs
 Tags:
-* #Map_name
+
 * #Map 
 
 * Cover (image)
 ### Traders
 Tags:
-* #Trader_name
+
 * #Trader
 
 * Cover (image)
 
 ### Quests
 Tags:
-* #Quest
-* #Map_name(s)
-* #Trader_name 
-
+* #Quest 
+* Trader
+* Location
 * Items (list of items required)
 * Status
 
