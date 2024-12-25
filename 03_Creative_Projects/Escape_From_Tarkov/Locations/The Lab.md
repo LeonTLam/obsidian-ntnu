@@ -32,7 +32,9 @@ Enemies:
 
 | Tech -> First -> Second |
 | ----------------------- |
-|                         |
+| ![[Labs_Tech_e.png]]    |
+| ![[Laps_First_e.png]]   |
+| ![[Labs_Sec_e.png]]     |
 
 ## POIs
 
