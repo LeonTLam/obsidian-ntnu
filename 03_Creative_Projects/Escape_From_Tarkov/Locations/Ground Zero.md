@@ -23,11 +23,11 @@ Enemies:
 
 # Spawns
 
-IMAGE of SPAWNS
+![[gzero_s.png]]
 
 # Extractions
 
-IMAGE of EXTRACTIONS
+![[gzero_e.png]]
 
 Conditions to Extractions
 
