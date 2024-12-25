@@ -288,4 +288,11 @@ Players:
   - 9-10
   - 9-12
   - 12-16
+  - 10-14
+  - 10-12
+  - 7-8
+Enemies:
+  - Scavs
+  - Cultists
+  - Scav Raiders
 ---

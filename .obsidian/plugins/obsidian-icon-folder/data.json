@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMapPin",
       "LiShieldAlert",
       "LiBackpack",
       "LiStar",
-      "LiArchive",
-      "LiPaintbrush"
+      "LiArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,5 +72,9 @@
   "03_Creative_Projects/Escape_From_Tarkov": {
     "iconName": "LiShieldAlert",
     "iconColor": "#32a966"
+  },
+  "03_Creative_Projects/Escape_From_Tarkov/Locations": {
+    "iconName": "LiMapPin",
+    "iconColor": "#0cad01"
   }
 }

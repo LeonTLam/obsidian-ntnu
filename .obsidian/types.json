@@ -29,6 +29,7 @@
     "Quests": "multitext",
     "Bosses": "multitext",
     "Duration": "multitext",
-    "Players": "multitext"
+    "Players": "multitext",
+    "Enemies": "multitext"
   }
 }
