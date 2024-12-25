@@ -19,19 +19,10 @@ if (!hasTitle) {
 	title = tp.file.title;
 }
 
-const parentFolder = "03_Current_Semester/Escape_From_Tarkov";
-
-// Fetch the list of course folders
-const courses = app.vault.getAbstractFileByPath(parentFolder).children.map(folder => folder.name);
-
-// Prompt the user to select a course
-const selectedCourse = await tp.system.suggester(courses, courses);
-
-// Save the selected course to a variable or use it
-let course = selectedCourse;
+const parentFolder = "03_Creative_Projects/Escape_From_Tarkov/";
 
 // Output the selected course or use it in your script
-await tp.file.move("/01_Current_Semester/" + course + "/Assignments/" + title)
+await tp.file.move(parentFolder + title)
 _%>
 
 # Map
