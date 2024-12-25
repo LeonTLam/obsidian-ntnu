@@ -12,6 +12,16 @@ Maps:
   - Lighthouse
   - Reserve
   - Shoreline
-Bosses: Reshala
+Bosses: 
+  - Reshala
+  - Killa
+  - Gluhar
+  - Sanitar
+  - Shturman
+  - Tagilla
+  - Knight
+  - Big Pipe
+  - Bird Eye
+  - Zryachiy
 Quests: Debut
 ---
