@@ -40,3 +40,7 @@ from "03_Creative_Projects/Escape_From_Tarkov/Quests"
 where Trader = this.Trader
 sort this.LvlReq asc
 ```
+
+# Items for Sale
+
+|
