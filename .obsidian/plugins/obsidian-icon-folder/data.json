@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNewspaper",
       "🧰",
       "📚",
       "🗒",
-      "LiSchool",
-      "🧠"
+      "LiSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,9 @@
   },
   "README.md": "🗒",
   "01_Current_Semester/Second_Semester.md": "📚",
-  "04_Extra/YAML": "🧰"
+  "04_Extra/YAML": "🧰",
+  "03_Creative_Projects/Revy_Nettside": {
+    "iconName": "LiNewspaper",
+    "iconColor": "#ff7aed"
+  }
 }

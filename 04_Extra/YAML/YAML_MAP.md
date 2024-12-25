@@ -12,6 +12,7 @@ Maps:
   - "[[Lighthouse]]"
   - "[[Reserve]]"
   - "[[Shoreline]]"
+  - "Anywhere"
 Bosses:
   - "[[Reshala]]"
   - "[[Killa]]"
