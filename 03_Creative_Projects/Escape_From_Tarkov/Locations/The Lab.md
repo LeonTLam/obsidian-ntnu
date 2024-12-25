@@ -30,16 +30,19 @@ Enemies:
 | ![[Labs_Sec_s.png]]     |
 # Extractions
 
-| Tech -> First -> Second    | Exf.                                                                                                                               |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Labs_Tech_e.png\|500]]  | North: **Main Elevator<br><br>East: **Sewage Conduit**<br><br>South: **Medical Block Entrance**<br><br>West: **Ventilation Shaft** |
-| ![[Laps_First_e.png\|500]] | North West: **Parking Gate**<br><br>South West: **Transit [[Streets of Tarkov]]**<br><br>East: **Hangar Gate**                     |
-| ![[Labs_Sec_e.png\|500]]   | South: **Cargo Elevator**                                                                                                          |
+| Tech -> First -> Second    | Exf.                                                                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| ![[Labs_Tech_e.png\|500]]  | North: **Main Elevator**<br><br>East: **Sewage Conduit**<br><br>South: **Medical Block Entrance**<br><br>West: **Ventilation Shaft** |
+| ![[Laps_First_e.png\|500]] | North West: **Parking Gate**<br><br>South West: **Transit [[Streets of Tarkov]]**<br><br>East: **Hangar Gate**                       |
+| ![[Labs_Sec_e.png\|500]]   | South: **Cargo Elevator**                                                                                                            |
 
-| Name           | Availability | Single-use | Requirements |
-| -------------- | ------------ | ---------- | ------------ |
-| Cargo Elevator | ✅            | ✅          |              |
-|                |              |            |              |
+| **Tech Floor**             | Availability | Single-use | Requirements         |
+| -------------------------- | ------------ | ---------- | -------------------- |
+| **Cargo Elevator**         | ✅            | ✅          | Power in basement G1 |
+| **Sewage Conduit**         | ✅            | ❌          | Sink water level     |
+| **Medical Block Entrance** | ✅            | ❌          | Power in basement G6 |
+| **Ventilation Shaft**      | ✅            | ❌          | No **[[Backpack]]**  |
+| **First Floor**            |              |            |                      |
 ## POIs
 
 Point of Interest
