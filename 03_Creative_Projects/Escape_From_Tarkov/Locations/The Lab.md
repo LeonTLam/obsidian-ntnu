@@ -15,7 +15,9 @@ Enemies:
 
 # Map
 
-Image of Map
+| Technical Level | First Level | Second Level |
+| --------------- | ----------- | ------------ |
+|                 |             |              |
 
 ## Spawns
 
