@@ -17,6 +17,6 @@ Item:
 
 Desc:: - Find Sanitar's workplace in [[The Lab]]
 Desc:: - Obtain information about Sanitar's work (Blue flash drive)
-Desc:: - Hand over 
+Desc:: - Hand over Flash drive marked with blue tape to [[Peacekeeper]]
 ## Location
 
