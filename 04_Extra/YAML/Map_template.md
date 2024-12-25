@@ -23,6 +23,14 @@ Image of Map
 
 ## Spawns
 
+IMAGE of SPAWNS
+
+## Extractions
+
+IMAGE of EXTRACTIONS
+
+Conditions to Extractions
+
 ## POIs
 
 
