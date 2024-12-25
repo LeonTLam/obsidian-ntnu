@@ -1,6 +1,6 @@
 ---
 tags: 
-testProp: true
+Status: []
 ---
 ## Tags to be used
 
@@ -30,4 +30,6 @@ Tags:
 
 Tags:
 * #Quest_Item
-*  #
+*  # gear / item (see wiki)
+
+*  # type (secure container etc)(list)
