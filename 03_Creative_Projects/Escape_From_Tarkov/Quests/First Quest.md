@@ -5,7 +5,7 @@ Kappa: true
 Maps:
   - "[[Factory]]"
 Trader:
-  - "[[Jaegar]]"
+  - "[[Fence]]"
 Status:
   - 🛑 Not Started
 LvlReq:

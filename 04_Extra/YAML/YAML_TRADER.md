@@ -57,7 +57,8 @@ Currencies:
   - Euros (€)
   - Dollars ($)
   - GP coin
-Quests:
+Quests: 
+Cover:
 ---
 
 ```dataview
