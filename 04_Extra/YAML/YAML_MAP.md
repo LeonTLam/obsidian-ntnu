@@ -296,3 +296,4 @@ Enemies:
   - Cultists
   - Scav Raiders
 ---
+## Quests

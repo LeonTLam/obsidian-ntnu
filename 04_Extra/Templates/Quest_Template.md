@@ -29,7 +29,7 @@ _%>
 
 # Quest
 
-* Task1
-* Task2
+Desc:: - First Task
+Desc:: - Second Task
 ## Location
 

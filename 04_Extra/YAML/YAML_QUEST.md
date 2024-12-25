@@ -54,9 +54,4 @@ Desc:
 Enemies: 
 Bosses:
 ---
-# Quest
-
-* Task1
-* Task2
-## Location
 
