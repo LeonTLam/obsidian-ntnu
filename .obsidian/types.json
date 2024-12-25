@@ -25,6 +25,8 @@
     "excalidraw-open-md": "checkbox",
     "testProp": "checkbox",
     "Status": "multitext",
-    "Maps": "multitext"
+    "Maps": "multitext",
+    "Quests": "multitext",
+    "Bosses": "multitext"
   }
 }

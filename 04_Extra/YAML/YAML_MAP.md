@@ -12,4 +12,6 @@ Maps:
   - Lighthouse
   - Reserve
   - Shoreline
+Bosses: Reshala
+Quests: Debut
 ---
