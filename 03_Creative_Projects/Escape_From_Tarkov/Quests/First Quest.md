@@ -11,12 +11,11 @@ Status:
 LvlReq:
   - "1"
 Item: 
-Desc: 
 Enemies: 
 Bosses:
 ---
 # Quest
 
->[!info]
+Desc:: Test Something
 ## Location
 
