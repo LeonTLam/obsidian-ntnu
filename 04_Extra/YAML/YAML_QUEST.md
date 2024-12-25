@@ -3,7 +3,7 @@ tags:
   - Quest
 Kappa: true
 Maps: 
-Trader: []
+Trader: 
 Status:
   - 🛑 Not Started
   - ➡️ In Progress
@@ -50,7 +50,7 @@ LvlReq:
   - "45"
   - "48"
 Item: 
-Desc: Test
+Desc: 
 Enemies: 
 Bosses:
 ---
