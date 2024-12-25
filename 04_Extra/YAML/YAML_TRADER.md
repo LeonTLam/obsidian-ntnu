@@ -12,12 +12,20 @@ Trader:
   - Jaegar
   - Ref
 Wares:
-  - Post-Soviet Bloc Weapons
   - Gear
   - Magazines
   - Ammo
   - Grenades
   - Mods
+  - Storage Containers
+  - Maps
+  - Keys
+  - Anything
+  - Euros (€)
+  - Dollars ($)
+  - Weapons
+  - Keycards
+  - Special Equipment
 Buys:
   - Body Armor
   - Weapons
@@ -37,6 +45,8 @@ Buys:
   - Special Equipment
   - Paracord
   - Fabric
+  - Backpacks
+  - Tactical Rigs
 Services:
   - Insurance
   - Repairs
@@ -47,4 +57,5 @@ Currencies:
   - Euros (€)
   - Dollars ($)
   - GP coin
+Quests:
 ---
