@@ -86,6 +86,31 @@
       "id": "ar7kiC45jTMgPz4tng5_v",
       "name": "Creative4",
       "value": "#d8f3e4"
+    },
+    {
+      "id": "wTVbaMfnrOrmnZnVbR0Yv",
+      "name": "Extra",
+      "value": "#b69e00"
+    },
+    {
+      "id": "D6u4N0sKRsyL4cZkB0dhy",
+      "name": "Extra1",
+      "value": "#ffdd00"
+    },
+    {
+      "id": "tRcYsAQTKL1O1pv4oQARJ",
+      "name": "Extra2",
+      "value": "#ffe749"
+    },
+    {
+      "id": "lgLdGKG1CbVO67-vwD2QR",
+      "name": "Extra3",
+      "value": "#fff092"
+    },
+    {
+      "id": "i4ua4eY9e-6fuQDZ6RTXi",
+      "name": "Extra4",
+      "value": "#fffadb"
     }
   ],
   "fileColors": [
@@ -143,7 +168,27 @@
     },
     {
       "path": "03_Creative_Projects/Revy_Nettside",
+      "color": "37gf-K7t8sPqwKykkt5xS"
+    },
+    {
+      "path": "03_Creative_Projects/Escape_From_Tarkov",
       "color": "cduX_95JGgHXxP_GzBoHG"
+    },
+    {
+      "path": "04_Extra",
+      "color": "wTVbaMfnrOrmnZnVbR0Yv"
+    },
+    {
+      "path": "04_Extra/Excalidraw",
+      "color": "D6u4N0sKRsyL4cZkB0dhy"
+    },
+    {
+      "path": "04_Extra/Templates",
+      "color": "tRcYsAQTKL1O1pv4oQARJ"
+    },
+    {
+      "path": "04_Extra/YAML",
+      "color": "lgLdGKG1CbVO67-vwD2QR"
     }
   ]
 }

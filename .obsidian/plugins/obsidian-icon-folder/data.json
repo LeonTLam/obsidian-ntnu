@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiShieldAlert",
       "LiBackpack",
       "LiStar",
       "LiArchive",
-      "LiPaintbrush",
-      "LiNewspaper"
+      "LiPaintbrush"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "04_Extra": "LiStar",
+  "04_Extra": {
+    "iconName": "LiStar",
+    "iconColor": "#eeff00"
+  },
   "04_Extra/Templates": {
     "iconName": "LiLayoutTemplate",
     "iconColor": "#f7cf02"
@@ -64,7 +67,10 @@
   "04_Extra/YAML": "🧰",
   "03_Creative_Projects/Revy_Nettside": {
     "iconName": "LiNewspaper",
-    "iconColor": "#3ed07d"
+    "iconColor": "#3ac576"
   },
-  "03_Creative_Projects/Escape_From_Tarkov": "LiBackpack"
+  "03_Creative_Projects/Escape_From_Tarkov": {
+    "iconName": "LiShieldAlert",
+    "iconColor": "#32a966"
+  }
 }
