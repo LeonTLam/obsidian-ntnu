@@ -3,19 +3,9 @@
   "colorBackground": true,
   "palette": [
     {
-      "id": "__s1gWe0EtfdBtvXS_R5s",
-      "name": "Extra",
-      "value": "#ffd500"
-    },
-    {
       "id": "vm2tdY2YfMY59tbg2LtRa",
       "name": "Archive0",
       "value": "#2d052e"
-    },
-    {
-      "id": "0wPF1sxkD7kuDef2vXjrU",
-      "name": "Creative",
-      "value": "#f759b5"
     },
     {
       "id": "i1I6au8T914JzYurZnhm7",
@@ -71,28 +61,37 @@
       "id": "q16jXxEDIthWvUBbC57Sp",
       "name": "Archive4",
       "value": "#f9d1fa"
+    },
+    {
+      "id": "SAmTzaBlcfCrVvQzbMIBa",
+      "name": "Creative",
+      "value": "#0c2718"
+    },
+    {
+      "id": "cduX_95JGgHXxP_GzBoHG",
+      "name": "Creative1",
+      "value": "#237647"
+    },
+    {
+      "id": "37gf-K7t8sPqwKykkt5xS",
+      "name": "Creative2",
+      "value": "#3ac576"
+    },
+    {
+      "id": "XttZeoEljqCqN5bj_XBHm",
+      "name": "Creative3",
+      "value": "#89dcad"
+    },
+    {
+      "id": "ar7kiC45jTMgPz4tng5_v",
+      "name": "Creative4",
+      "value": "#d8f3e4"
     }
   ],
   "fileColors": [
     {
-      "path": "04_Extra",
-      "color": "__s1gWe0EtfdBtvXS_R5s"
-    },
-    {
-      "path": "04_Extra/Templates",
-      "color": "__s1gWe0EtfdBtvXS_R5s"
-    },
-    {
-      "path": "04_Extra/Excalidraw",
-      "color": "__s1gWe0EtfdBtvXS_R5s"
-    },
-    {
       "path": "02_Archive",
       "color": "vm2tdY2YfMY59tbg2LtRa"
-    },
-    {
-      "path": "03_Creative_Projects",
-      "color": "0wPF1sxkD7kuDef2vXjrU"
     },
     {
       "path": "README.md",
@@ -125,6 +124,26 @@
     {
       "path": "02_Archive/Semester_1",
       "color": "_UmBRc64HKTblfYmzMLVw"
+    },
+    {
+      "path": "02_Archive/Semester_2",
+      "color": "brIOIbhYn4Qpb9pNZEuSI"
+    },
+    {
+      "path": "02_Archive/Semester_3",
+      "color": "qa15kGjLgC5sCa8dO2ypZ"
+    },
+    {
+      "path": "02_Archive/Semester_4",
+      "color": "q16jXxEDIthWvUBbC57Sp"
+    },
+    {
+      "path": "03_Creative_Projects",
+      "color": "SAmTzaBlcfCrVvQzbMIBa"
+    },
+    {
+      "path": "03_Creative_Projects/Revy_Nettside",
+      "color": "cduX_95JGgHXxP_GzBoHG"
     }
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBackpack",
       "LiStar",
       "LiArchive",
       "LiPaintbrush",
-      "LiNewspaper",
-      "🧰"
+      "LiNewspaper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,7 +51,10 @@
   "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Modulation.md": "⚠",
   "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Multiplexing.md": "⚠",
   "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/The Nyquist Theory.md": "⚠",
-  "03_Creative_Projects": "LiPaintbrush",
+  "03_Creative_Projects": {
+    "iconName": "LiPaintbrush",
+    "iconColor": "#3cbe74"
+  },
   "01_Current_Semester": {
     "iconName": "LiSchool",
     "iconColor": "#00e1ff"
@@ -61,6 +64,7 @@
   "04_Extra/YAML": "🧰",
   "03_Creative_Projects/Revy_Nettside": {
     "iconName": "LiNewspaper",
-    "iconColor": "#ff7aed"
-  }
+    "iconColor": "#3ed07d"
+  },
+  "03_Creative_Projects/Escape_From_Tarkov": "LiBackpack"
 }
