@@ -36,8 +36,8 @@ table
     Maps as "Map", 
     Trader as "Trader", 
     Desc as "Description", 
-    Status as "Status", 
+    Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
-from "03_Creative_Projects/Quests/"
+from "03_Creative_Projects/Escape_From_Tarkov/Quests"
 sort file.name asc
 ```
