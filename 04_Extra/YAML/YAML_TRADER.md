@@ -70,5 +70,18 @@ sort file.name asc
 
 ```
 
+```dataview
+table 
+    Maps as "Map", 
+    Trader as "Trader", 
+    Desc as "Description", 
+    Kappa as "Status (Completion)", 
+    "Lvl. Req." as "Level Requirement"
+from #Quest
+where exists(Maps) and exists(Trader) and exists(Desc)
+sort file.name asc
+
+```
+
 
 
