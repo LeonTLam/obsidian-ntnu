@@ -40,5 +40,5 @@ table
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
 where Trader = this.Trader
-sort file.name asc
+sort this.LvlReq asc
 ```

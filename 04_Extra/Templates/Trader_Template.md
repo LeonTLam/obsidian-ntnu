@@ -31,9 +31,9 @@ table
     Maps as "Map", 
     Trader as "Trader", 
     Desc as "Description", 
-    Kappa as "Status", 
+    Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
-from "03_Creative_Projects/Quests/"
-where contains(tags, "#Quest")
-sort file.name asc
+from "03_Creative_Projects/Escape_From_Tarkov/Quests"
+where Trader = this.Trader
+sort this.LvlReq asc
 ```

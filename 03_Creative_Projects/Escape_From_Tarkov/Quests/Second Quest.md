@@ -9,14 +9,17 @@ Trader:
 Status:
   - 🛑 Not Started
 LvlReq:
-  - "1"
+  - "4"
 Item: 
-Enemies: 
+Desc: 
+Enemies:
+  - Cultists
 Bosses:
+  - "[[Big Pipe]]"
 ---
 # Quest
 
-Desc:: Test Something
-Desc:: Task 2
+* Task1
+* Task2
 ## Location
 

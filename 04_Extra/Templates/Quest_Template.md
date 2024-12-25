@@ -8,7 +8,6 @@ Status:
   - 🛑 Not Started
 LvlReq: 
 Item: 
-Desc: 
 Enemies: 
 Bosses:
 ---
