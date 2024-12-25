@@ -1,0 +1,22 @@
+---
+tags:
+  - Quest
+Kappa: true
+Maps:
+  - "[[The Lab]]"
+Trader:
+  - "[[Peacekeeper]]"
+Status:
+  - 🛑 Not Started
+LvlReq:
+  - "23"
+Item:
+  - Flash drive marked with blue tape
+---
+# Quest
+
+Desc:: - Find Sanitar's workplace in [[The Lab]]
+Desc:: - Obtain information about Sanitar's work (Blue flash drive)
+Desc:: - Hand over 
+## Location
+
