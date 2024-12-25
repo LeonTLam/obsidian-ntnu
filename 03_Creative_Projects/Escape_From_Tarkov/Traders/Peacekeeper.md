@@ -3,11 +3,21 @@ tags:
   - Trader
 Trader:
   - "[[Peacekeeper]]"
-Wares: 
+Wares:
+  - Weapons
+  - Gear
+  - Magazines
+  - Ammo
+  - Grenades
+  - Mods
+  - Storage Containers
+  - Dollars ($)
 Buys: 
 Services: 
-Currencies: 
+Currencies:
+  - Dollars ($)
 Quests:
+  - "[[TerraGroup Employee]]"
 ---
 # Quests
 
