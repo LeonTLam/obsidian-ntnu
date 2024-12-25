@@ -6,9 +6,17 @@ testProp: true
 
 ### MAPs
 
-* #Map
+* #Map_name
+* #Map 
 ### Traders
 
+* #Trader_name
 * #Trader
+* #Cover (image)
 
 ### Quests
+
+* #Quest
+* #Map_name(s)
+* #Trader_name 
+* #Status
