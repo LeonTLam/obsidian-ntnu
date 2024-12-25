@@ -4,7 +4,9 @@
     "03_Creative_Projects/Revy_Nettside/",
     "04_Extra/Excalidraw/",
     "04_Extra/YAML/",
-    "04_Extra/Templates/"
+    "04_Extra/Templates/",
+    "/.*\\.(excalidraw|EXCALIDRAW)/",
+    "/.*\\.(png|PNG)/"
   ],
   "promptDelete": false
 }
