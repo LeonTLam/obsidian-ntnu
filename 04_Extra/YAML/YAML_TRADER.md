@@ -75,7 +75,7 @@ table
     Maps as "Map", 
     Trader as "Trader", 
     Desc as "Description", 
-    Kappa as "Status (Completion)", 
+    Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from #Quest
 sort file.name asc
