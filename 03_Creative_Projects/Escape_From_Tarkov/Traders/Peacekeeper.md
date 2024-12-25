@@ -43,4 +43,6 @@ sort this.LvlReq asc
 
 # Items for Sale
 
-|
+| Loyalty Level 1                  | Loyalty Level 2 ---->             | Loyalty Level 3                   | Loyalty Level 4                   |
+| -------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
+| ![[Peacekeeper1Stock.webp\|300]] | ![[Peacekeeper2Stock.webp\|300]]] | ![[Peacekeeper3Stock.webp\|300]]] | ![[Peacekeeper4Stock.webp\|300]]] |
