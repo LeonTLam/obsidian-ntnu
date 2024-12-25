@@ -30,6 +30,7 @@
     "Bosses": "multitext",
     "Duration": "multitext",
     "Players": "multitext",
-    "Enemies": "multitext"
+    "Enemies": "multitext",
+    "Trader": "multitext"
   }
 }
