@@ -30,11 +30,11 @@ Enemies:
 | ![[Labs_Sec_s.png]]     |
 # Extractions
 
-| Tech -> First -> Second |
-| ----------------------- |
-| ![[Labs_Tech_e.png]]    |
-| ![[Laps_First_e.png]]   |
-| ![[Labs_Sec_e.png]]     |
+| Tech -> First -> Second    | Exf.                                                                                                                               |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Labs_Tech_e.png\|500]]  | North: **Main Elevator<br><br>East: **Sewage Conduit**<br><br>South: **Medical Block Entrance**<br><br>West: **Ventilation Shaft** |
+| ![[Laps_First_e.png\|500]] | North West: **Parking Gate**<br><br>South West: **Transit [[Streets of Tarkov]]**<br><br>East: **Hangar Gate**                     |
+| ![[Labs_Sec_e.png\|500]]   |                                                                                                                                    |
 
 ## POIs
 
