@@ -50,7 +50,9 @@ Lvl. Req.:
   - "45"
   - "48"
 Item: 
-Desc:
+Desc: 
+Enemies: 
+Bosses:
 ---
 # Quest
 
