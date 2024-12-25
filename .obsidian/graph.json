@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:01_Current_Semester  ",
+      "color": {
+        "a": 1,
+        "rgb": 2051071
+      }
+    },
+    {
+      "query": "path:02_Archive  ",
+      "color": {
+        "a": 1,
+        "rgb": 9044157
+      }
+    },
+    {
+      "query": "path:03_Creative_Projects/Escape_From_Tarkov  ",
+      "color": {
+        "a": 1,
+        "rgb": 353027
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5358520956986158,
+  "scale": 0.9930228507746507,
   "close": false
 }

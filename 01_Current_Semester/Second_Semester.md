@@ -2,14 +2,14 @@
 
 ### Courses:
 
-- [Course 1 Name](./Course_1_Name/)
-- [Course 2 Name](./Course_2_Name/)
-- [Course 3 Name](./Course_2_Name/)
-- [Course 4 Name](./Course_2_Name/)
+- [Course 1 Name]
+- [Course 2 Name]
+- [Course 3 Name]
+- [Course 4 Name]
 
 ### Deadlines:
 #### Course 1
-- [ ] [[Assignment_1]] 🔼 📅 2024-12-24
+- [ ] [[TestAssignment]] 🔼 📅 2024-12-24
 - [ ] Exam 1 📅 2024-12-24 ⏫ 
 
 #### Course 2
