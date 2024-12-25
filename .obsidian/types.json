@@ -31,6 +31,10 @@
     "Duration": "multitext",
     "Players": "multitext",
     "Enemies": "multitext",
-    "Trader": "multitext"
+    "Trader": "multitext",
+    "Wares": "multitext",
+    "Buys": "multitext",
+    "Services": "multitext",
+    "Currencies": "multitext"
   }
 }
