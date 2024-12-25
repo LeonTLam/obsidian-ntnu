@@ -2,17 +2,9 @@
 tags:
   - Map
 Maps:
-  - The Lab
-  - Ground Zero
-  - Streets of Tarkov
-  - Interchange
-  - Customs
-  - Factory
-  - Woods
-  - Lighthouse
-  - Reserve
-  - Shoreline
-Bosses: 
+  - "[[The Lab]]"
+  - "[[Ground Zero]]"
+Bosses:
   - Reshala
   - Killa
   - Gluhar
@@ -23,5 +15,256 @@ Bosses:
   - Big Pipe
   - Bird Eye
   - Zryachiy
-Quests: Debut
+Quests:
+  - Burning Rubber
+  - Debut
+  - First in Line
+  - Luxurious Life
+  - Saving the Mole
+  - Shooting Cans
+  - Shortage
+  - Acquaintance
+  - Background Check
+  - Claustrophobia
+  - Every Hunter Knows This
+  - Gunsmith - Part 1
+  - Introduction
+  - Rough Tarkov
+  - The Huntsman Path - Controller
+  - The Huntsman Path - Evil Watchman
+  - The Huntsman Path - Forest Cleaning
+  - The Huntsman Path - Justice
+  - The Huntsman Path - Outcasts
+  - The Huntsman Path - Secured Perimeter
+  - The Huntsman Path - Trophy
+  - The Survivalist Path - Combat Medic
+  - The Survivalist Path - Eagle-Owl
+  - The Survivalist Path - Junkie
+  - The Survivalist Path - Thrifty
+  - The Survivalist Path - Tough Guy
+  - The Survivalist Path - Unprotected but Dangerous
+  - The Survivalist Path - Wounded Beast
+  - The Survivalist Path - Zhivchik
+  - The Tarkov Shooter - Part 1
+  - The Tarkov Shooter - Part 2
+  - The Tarkov Shooter - Part 3
+  - The Tarkov Shooter - Part 4
+  - The Tarkov Shooter - Part 5
+  - The Tarkov Shooter - Part 6
+  - The Tarkov Shooter - Part 7
+  - The Tarkov Shooter - Part 8
+  - Shootout Picnic
+  - Sanitary Standards - Part 1
+  - BP Depot
+  - Delivery from the Past
+  - Gunsmith - Part 2
+  - Search Mission
+  - Supplier
+  - The Delicious Sausage
+  - Bad Rep Evidence
+  - Operation Aquarius - Part 1
+  - Operation Aquarius - Part 2
+  - Gunsmith - Part 3
+  - The Extortionist
+  - Golden Swag
+  - Painkiller
+  - Sanitary Standards - Part 2
+  - Stirrup
+  - What’s on the Flash Drive?
+  - Friend From the West - Part 1
+  - Friend From the West - Part 2
+  - Ice Cream Cones
+  - Car Repair
+  - Chemical - Part 1
+  - Chemical - Part 2
+  - Fishing Gear
+  - General Wares
+  - Gunsmith - Part 4
+  - Gunsmith - Part 5
+  - Pharmacist
+  - Polikhim Hobo
+  - Possessor
+  - Postman Pat - Part 1
+  - Postman Pat - Part 2
+  - Scrap Metal
+  - The Bunker - Part 1
+  - Tigr Safari
+  - Big Customer (choice)
+  - Chemical - Part 3
+  - Chemical - Part 4 (choice)
+  - Eagle Eye
+  - Humanitarian Supplies
+  - Out of Curiosity (choice)
+  - All is Revealed
+  - Bad Habit
+  - Black Swan
+  - Broadcast - Part 1
+  - Capacity Check
+  - Cargo X - Part 1
+  - Cargo X - Part 2
+  - Cargo X - Part 3
+  - Cargo X - Part 4
+  - Exit Here
+  - Farming - Part 1
+  - Farming - Part 2
+  - Forklift Certified
+  - Insider
+  - Insomnia
+  - Scout
+  - Signal - Part 1
+  - Signal - Part 2
+  - Spa Tour - Part 1
+  - Spa Tour - Part 2
+  - Spa Tour - Part 3
+  - Spa Tour - Part 4
+  - Spa Tour - Part 5
+  - Spa Tour - Part 6
+  - Spa Tour - Part 7
+  - The Cult - Part 1
+  - The Cult - Part 2
+  - The Huntsman Path - Factory Chief
+  - The Walls Have Eyes
+  - Kind of Sabotage (choice)
+  - Supply Plans (choice)
+  - The Huntsman Path - Woods Keeper
+  - A Shooter Born in Heaven
+  - Back Door
+  - Classified Technologies
+  - Farming - Part 3
+  - Farming - Part 4
+  - Gunsmith - Part 6
+  - Revision - Lighthouse
+  - Revision - Reserve
+  - Surplus Goods
+  - Wet Job - Part 1
+  - Wet Job - Part 2
+  - Wet Job - Part 3
+  - Wet Job - Part 4
+  - Wet Job - Part 5
+  - Wet Job - Part 6
+  - A Fuel Matter
+  - A Healthy Alternative (choice)
+  - Big Sale
+  - Database - Part 1
+  - Database - Part 2
+  - Disease History
+  - Dragnet
+  - Dressed to Kill
+  - Gratitude
+  - Gunsmith - Part 7
+  - Inventory Check
+  - Make ULTRA Great Again
+  - Only Business
+  - Overpopulation
+  - Safe Corridor
+  - Shaking up the Teller
+  - Signal - Part 3
+  - Signal - Part 4
+  - The Blood of War - Part 1
+  - The Bunker - Part 2
+  - Corporate Secrets
+  - Gunsmith - Part 8
+  - No Place for Renegades
+  - Seaside Vacation
+  - The Punisher - Part 1
+  - Easy Job - Part 1
+  - Easy Job - Part 2
+  - Reconnaissance
+  - Setup
+  - The Punisher - Part 2
+  - Documents
+  - Gunsmith - Part 9
+  - The Punisher - Part 3
+  - Courtesy Visit
+  - Grenadier
+  - Gunsmith - Part 10
+  - Health Care Privacy - Part 1
+  - Health Care Privacy - Part 2
+  - Health Care Privacy - Part 3
+  - Health Care Privacy - Part 4
+  - Health Care Privacy - Part 5
+  - Health Care Privacy - Part 6
+  - Long Road
+  - Pest Control
+  - Reserve
+  - Shady Business
+  - The Hermit
+  - The Huntsman Path - Eraser - Part 1
+  - The Huntsman Path - Eraser - Part 2
+  - The Punisher - Part 4
+  - The Punisher - Part 5
+  - Anesthesia
+  - Colleagues - Part 1
+  - Colleagues - Part 2
+  - Rigged Game
+  - Samples
+  - The Punisher - Part 6
+  - Chemistry Closet
+  - Colleagues - Part 3 (choice)
+  - Gunsmith - Part 11
+  - The Huntsman Path - Sadist (choice)
+  - Vitamins - Part 1
+  - Vitamins - Part 2
+  - Gunsmith - Part 12
+  - TerraGroup Employee
+  - Informed Means Armed
+  - Minibus
+  - Ambulance
+  - Charisma Brings Success
+  - Energy Crisis
+  - Gunsmith - Part 13
+  - Lend-Lease - Part 1
+  - Regulated Materials
+  - Sew it Good - Part 1
+  - Sew it Good - Part 2
+  - Sew it Good - Part 3
+  - Sew it Good - Part 4
+  - The Blood of War - Part 2
+  - Drug Trafficking
+  - Lost Contact
+  - No Fuss Needed
+  - The Key to Success
+  - Chumming
+  - Gunsmith - Part 14
+  - Living High is Not a Crime - Part 1
+  - Fishing Place
+  - Nostalgia
+  - Gunsmith - Part 15
+  - Hot Delivery
+  - Scavenger
+  - Athlete
+  - Fertilizers
+  - Gunsmith - Part 16
+  - Lend-Lease - Part 2
+  - Living High is Not a Crime - Part 2
+  - Missing Cargo
+  - One Less Loose End (choice)
+  - Peacekeeping Mission
+  - Sales Night
+  - Test Drive - Part 1
+  - Test Drive - Part 2
+  - Test Drive - Part 3
+  - Test Drive - Part 4
+  - Test Drive - Part 5
+  - The Blood of War - Part 3
+  - Gunsmith - Part 17
+  - The Huntsman Path - Sellout
+  - Gunsmith - Part 18
+  - Hunting Trip
+  - Decontamination Service
+  - Flint
+  - Import
+  - Perfect Mediator
+  - Private Clinic
+  - Psycho Sniper
+  - Stray Dogs
+  - Gunsmith - Part 19
+  - Gunsmith - Part 20
+  - Gunsmith - Part 21
+  - Gunsmith - Part 22
+  - Supervisor
+  - The Guide
+  - Intimidator
+  - Collector
+  - Crisis
 ---
