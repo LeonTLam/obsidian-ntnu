@@ -36,13 +36,18 @@ Enemies:
 | ![[Laps_First_e.png\|500]] | North West: **Parking Gate**<br><br>South West: **Transit [[Streets of Tarkov]]**<br><br>East: **Hangar Gate**                       |
 | ![[Labs_Sec_e.png\|500]]   | South: **Cargo Elevator**                                                                                                            |
 
-| **Tech Floor**             | Availability | Single-use | Requirements         |
-| -------------------------- | ------------ | ---------- | -------------------- |
-| **Cargo Elevator**         | ✅            | ✅          | Power in basement G1 |
-| **Sewage Conduit**         | ✅            | ❌          | Sink water level     |
-| **Medical Block Entrance** | ✅            | ❌          | Power in basement G6 |
-| **Ventilation Shaft**      | ✅            | ❌          | No **[[Backpack]]**  |
-| **First Floor**            |              |            |                      |
+| **Tech Floor**                    | Availability     | Single-use | Requirements                  |
+| --------------------------------- | ---------------- | ---------- | ----------------------------- |
+| **Cargo Elevator**                | ✅                | ✅          | Power in basement G1          |
+| **Sewage Conduit**                | ✅                | ❌          | Sink water level              |
+| **Medical Block Entrance**        | ✅                | ❌          | Power in basement G6          |
+| **Ventilation Shaft**             | ✅                | ❌          | No **[[Backpack]]**           |
+|                                   | **First Floor**  |            |                               |
+| **Parking Gate**                  | ❌                | ❌          | Open gate in Y21              |
+| **Transit [[Streets of Tarkov]]** | ✅                | ❌          | Avail. 1 min after raid start |
+| **Hangar Gate**                   | ❌                | ❌          | Open gate in B24              |
+|                                   | **Second Floor** |            |                               |
+| **Cargo Elevator**                |                  |            |                               |
 ## POIs
 
 Point of Interest
