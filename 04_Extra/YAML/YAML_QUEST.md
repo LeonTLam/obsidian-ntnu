@@ -52,3 +52,9 @@ Lvl. Req.:
 Item: 
 Desc:
 ---
+# Quest
+
+* Task1
+* Task2
+## Location
+
