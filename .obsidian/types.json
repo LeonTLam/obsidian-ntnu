@@ -27,6 +27,8 @@
     "Status": "multitext",
     "Maps": "multitext",
     "Quests": "multitext",
-    "Bosses": "multitext"
+    "Bosses": "multitext",
+    "Duration": "multitext",
+    "Players": "multitext"
   }
 }

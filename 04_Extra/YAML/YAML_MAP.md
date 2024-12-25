@@ -12,7 +12,7 @@ Maps:
   - "[[Lighthouse]]"
   - "[[Reserve]]"
   - "[[Shoreline]]"
-  - "Anywhere"
+  - Anywhere
 Bosses:
   - "[[Reshala]]"
   - "[[Killa]]"
@@ -276,4 +276,16 @@ Quests:
   - "[[Intimidator]]"
   - "[[Collector]]"
   - "[[Crisis]]"
+Duration:
+  - 20 Min
+  - 25 Min
+  - 35 Min
+  - 40 Min
+  - 45 Min
+  - 50 Min
+Players:
+  - 8-10
+  - 9-10
+  - 9-12
+  - 12-16
 ---
