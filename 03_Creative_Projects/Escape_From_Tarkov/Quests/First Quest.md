@@ -16,7 +16,7 @@ Bosses:
 ---
 # Quest
 
-Desc:: Test Something
+Desc:: Task 1
 Desc:: Task 2
 ## Location
 
