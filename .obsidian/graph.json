@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:",
+      "query": "path:01_Current_Semester  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 67511
+      }
+    },
+    {
+      "query": "path:02_Archive  ",
+      "color": {
+        "a": 1,
+        "rgb": 5505131
+      }
+    },
+    {
+      "query": "path:03_Creative_Projects/Escape_From_Tarkov  ",
+      "color": {
+        "a": 1,
+        "rgb": 2321922
       }
     }
   ],

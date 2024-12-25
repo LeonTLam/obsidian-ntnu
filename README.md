@@ -30,9 +30,6 @@ This document provides an overview of the organization and structure of your Obs
     - Provides a historical record of past academic work.
 - **Content:**
     - Semester folders (e.g., `Semester_1`, `Semester_2`).
-    - Each semester folder contains:
-        - `Semester_Overview.md`: Summary of courses and deadlines.
-        - Course folders structured like those in the Current Semester.
 
 ### **3. Creative Projects**
 
