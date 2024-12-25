@@ -2,10 +2,11 @@
 tags:
   - Trader
 Trader:
-Wares:
-Buys:
-Services:
-Currencies:
+  - "[[Peacekeeper]]"
+Wares: 
+Buys: 
+Services: 
+Currencies: 
 Quests:
 ---
 # Quests
@@ -13,7 +14,6 @@ Quests:
 ```dataview
 table 
     Maps as "Map", 
-    Trader as "Trader", 
     Desc as "Description", 
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
