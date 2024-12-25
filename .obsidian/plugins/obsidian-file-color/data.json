@@ -9,8 +9,8 @@
     },
     {
       "id": "vm2tdY2YfMY59tbg2LtRa",
-      "name": "Archive",
-      "value": "#c800ff"
+      "name": "Archive0",
+      "value": "#2d052e"
     },
     {
       "id": "0wPF1sxkD7kuDef2vXjrU",
@@ -51,6 +51,26 @@
       "id": "nhvyYxPlc5fS_jFOwzp5h",
       "name": "SemOverview",
       "value": "#e5fcff"
+    },
+    {
+      "id": "_UmBRc64HKTblfYmzMLVw",
+      "name": "Archive1",
+      "value": "#880e8b"
+    },
+    {
+      "id": "brIOIbhYn4Qpb9pNZEuSI",
+      "name": "Archive2",
+      "value": "#e318e7"
+    },
+    {
+      "id": "qa15kGjLgC5sCa8dO2ypZ",
+      "name": "Archive3",
+      "value": "#ee74f1"
+    },
+    {
+      "id": "q16jXxEDIthWvUBbC57Sp",
+      "name": "Archive4",
+      "value": "#f9d1fa"
     }
   ],
   "fileColors": [
@@ -101,6 +121,10 @@
     {
       "path": "01_Current_Semester/Second_Semester.md",
       "color": "nhvyYxPlc5fS_jFOwzp5h"
+    },
+    {
+      "path": "02_Archive/Semester_1",
+      "color": "_UmBRc64HKTblfYmzMLVw"
     }
   ]
 }
