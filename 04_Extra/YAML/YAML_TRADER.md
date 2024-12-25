@@ -59,3 +59,16 @@ Currencies:
   - GP coin
 Quests:
 ---
+```dataview
+table file.link as "Title", 
+      Item_name as "Item Name", 
+      Description as "Description", 
+      Category
+from #Quest 
+where exists(Item_name)
+sort file.name asc
+
+```
+
+
+
