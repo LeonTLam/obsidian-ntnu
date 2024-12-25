@@ -52,7 +52,7 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where Trader = this.Maps
+where Maps = this.Maps
 sort this.LvlReq asc
 ```
 
