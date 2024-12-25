@@ -30,9 +30,8 @@ Enemies:
 | ![[Labs_Sec_s.png]]     |
 # Extractions
 
-IMAGE of EXTRACTIONS
-
-Conditions to Extractions
+| Tech -> First -> Second |
+| - |
 
 ## POIs
 
