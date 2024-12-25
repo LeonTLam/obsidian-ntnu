@@ -34,8 +34,12 @@ Enemies:
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | ![[Labs_Tech_e.png\|500]]  | North: **Main Elevator<br><br>East: **Sewage Conduit**<br><br>South: **Medical Block Entrance**<br><br>West: **Ventilation Shaft** |
 | ![[Laps_First_e.png\|500]] | North West: **Parking Gate**<br><br>South West: **Transit [[Streets of Tarkov]]**<br><br>East: **Hangar Gate**                     |
-| ![[Labs_Sec_e.png\|500]]   |                                                                                                                                    |
+| ![[Labs_Sec_e.png\|500]]   | South: **Cargo Elevator**                                                                                                          |
 
+| Name           | Availability | Single-use | Requirements |
+| -------------- | ------------ | ---------- | ------------ |
+| Cargo Elevator | ✅            | ✅          |              |
+|                |              |            |              |
 ## POIs
 
 Point of Interest
