@@ -5,18 +5,29 @@ testProp: true
 ## Tags to be used
 
 ### MAPs
-
+Tags:
 * #Map_name
 * #Map 
-### Traders
 
+* Cover (image)
+### Traders
+Tags:
 * #Trader_name
 * #Trader
-* #Cover (image)
+
+* Cover (image)
 
 ### Quests
-
+Tags:
 * #Quest
 * #Map_name(s)
 * #Trader_name 
-* #Status
+
+* Items (list of items required)
+* Status
+
+### Items
+
+Tags:
+* #Quest_Item
+*  #
