@@ -23,8 +23,11 @@ Enemies:
 
 # Spawns
 
-
-
+| Tech -> First -> Second |
+| ----------------------- |
+| ![[Labs_Tech_s.png]]    |
+| ![[Labs_First_s.png]]   |
+| ![[Labs_Sec_s.png]]     |
 # Extractions
 
 IMAGE of EXTRACTIONS
