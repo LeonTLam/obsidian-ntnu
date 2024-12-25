@@ -15,9 +15,11 @@ Enemies:
 
 # Map
 
-| Technical Level | First Level | Second Level |
-| --------------- | ----------- | ------------ |
-|                 |             |              |
+| Technical Level         | First Level              | Second Level           |
+| ----------------------- | ------------------------ | ---------------------- |
+| ![[Labs_Tech.png\|300]] | ![[Labs_First.png\|300]] | ![[Labs_Sec.png\|300]] |
+| ![[Labs_First.png]]     |                          |                        |
+| ![[Labs_Sec.png]]       |                          |                        |
 
 ## Spawns
 
