@@ -12,8 +12,17 @@ Wares:
   - Mods
   - Storage Containers
   - Dollars ($)
-Buys: 
-Services: 
+Buys:
+  - Armored Gear
+  - Weapons
+  - Ammo
+  - Mods
+  - Keycards
+  - Barter Items
+  - Info Items
+  - Special Equipment
+Services:
+  - None
 Currencies:
   - Dollars ($)
 Quests:
