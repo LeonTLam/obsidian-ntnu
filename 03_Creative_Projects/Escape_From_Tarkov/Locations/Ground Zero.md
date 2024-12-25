@@ -16,7 +16,6 @@ Enemies:
   - Scavs
   - Cultists
 ---
-
 # Map
 
 ![[gzero.png]]
@@ -29,8 +28,16 @@ Enemies:
 
 ![[gzero_e.png]]
 
-Conditions to Extractions
+### Extractions
 
+| Name                             | Faction     | Availability | Single-Use | Requirements                                                                  |
+| -------------------------------- | ----------- | ------------ | ---------- | ----------------------------------------------------------------------------- |
+| **Emercom Checkpoint**           | PMC<br>SCAV | ✅            | ❌          | None                                                                          |
+| **Mira Ave**                     | PMC         | ✅            | ❌          | Shoot a green flare into the sky while inside the signal flare area.          |
+| **Nakatani Basement Stairs**     | PMC<br>SCAV | ✅            | ❌          | None                                                                          |
+| **Police Cordon V-Ex**           | PMC         | ✅            | ✅          | Maximum of 4 players; fee amount influenced by Scav karma.                    |
+| **Scav Checkpoint (Co-op)**      | PMC<br>SCAV | ✅            | ❌          | Requires both Scav and PMC cooperation.<br>                                   |
+| Transit to [[Streets of Tarkov]] | PMC<br>SCAV | ✅            | ❌          | Available 1 minute after raid start; located next to the Mira Ave extraction. |
 # POIs
 
 Point of Interest
