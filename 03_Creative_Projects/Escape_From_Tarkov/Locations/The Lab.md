@@ -31,7 +31,8 @@ Enemies:
 # Extractions
 
 | Tech -> First -> Second |
-| - |
+| ----------------------- |
+|                         |
 
 ## POIs
 
