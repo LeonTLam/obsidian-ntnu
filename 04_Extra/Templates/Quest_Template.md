@@ -4,8 +4,8 @@ tags:
 Kappa: true
 Maps: 
 Trader: 
-Status:
-Lvl. Req.:
+Status: 
+LvlReq: 
 Item: 
 Desc: 
 Enemies: 

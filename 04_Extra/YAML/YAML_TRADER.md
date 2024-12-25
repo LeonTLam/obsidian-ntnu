@@ -2,15 +2,15 @@
 tags:
   - Trader
 Trader:
-  - Prapor
-  - Therapist
-  - Fence
-  - Skier
-  - Peacekeeper
-  - Mechanic
-  - Ragman
-  - Jaegar
-  - Ref
+  - "[[Prapor]]"
+  - "[[Therapist]]"
+  - "[[Fence]]"
+  - "[[Skier]]"
+  - "[[Peacekeeper]]"
+  - "[[Mechanic]]"
+  - "[[Ragman]]"
+  - "[[Jaegar]]"
+  - "[[Ref]]"
 Wares:
   - Gear
   - Magazines
@@ -76,12 +76,12 @@ table
     Trader as "Trader", 
     Desc as "Description", 
     Kappa as "Status (Completion)", 
-    "Lvl. Req." as "Level Requirement"
+    LvlReq as "Level Requirement"
 from #Quest
-where exists(Maps) and exists(Trader) and exists(Desc)
 sort file.name asc
-
 ```
+
+
 
 
 
