@@ -36,6 +36,7 @@
     "Buys": "multitext",
     "Services": "multitext",
     "Currencies": "multitext",
-    "Kappa": "checkbox"
+    "Kappa": "checkbox",
+    "Lvl. Req.": "multitext"
   }
 }
