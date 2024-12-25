@@ -35,6 +35,7 @@
     "Wares": "multitext",
     "Buys": "multitext",
     "Services": "multitext",
-    "Currencies": "multitext"
+    "Currencies": "multitext",
+    "Kappa": "checkbox"
   }
 }
