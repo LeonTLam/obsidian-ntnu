@@ -3,8 +3,6 @@ tags:
   - Map
 Maps:
   - "[[The Lab]]"
-Bosses: 
-Quests: 
 Duration:
   - 35 Min
 Players:
@@ -48,9 +46,6 @@ Enemies:
 | **Hangar Gate**                   | ❌                | ❌          | Open gate in B24                       |
 |                                   | **Second Floor** |            |                                        |
 | **Cargo Elevator**                | ✅                | ✅          | Power in basement G1                   |
-## POIs
-
-Point of Interest
 # Quests
 
 ```dataview
@@ -61,9 +56,11 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where Trader = this.Maps
+where Maps = this.Maps
 sort this.LvlReq asc
 ```
 
+## POIs
 
+Point of Interest
 

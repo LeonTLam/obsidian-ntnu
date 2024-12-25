@@ -5,8 +5,6 @@ Maps:
   - "[[Ground Zero]]"
 Bosses:
   - "[[Kollontay]]"
-Quests:
-  - "[[Burning Rubber]]"
 Duration:
   - 35 Min
 Players:
