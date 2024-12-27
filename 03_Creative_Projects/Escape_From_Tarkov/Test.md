@@ -7,11 +7,11 @@ table
     Trader as "Trader", 
     Services as "Services", 
     Currencies as "Currencies", 
-    length(Quests) as "Total Quests",
-    length(filter(Quests, q => link(q).Status = "✅ Completed")) as "Completed"
+    length(Quests) as "Q"
 from "03_Creative_Projects/Escape_From_Tarkov/Traders"
 where Quests
 sort file.name asc
+
 ```
 
 

@@ -61,7 +61,7 @@ inSelect:
   - All
 hideCompleted: false
 ---
-|# Quests
+# Quests
 
 ```meta-bind-embed
 [[META_BUTTONS]]
