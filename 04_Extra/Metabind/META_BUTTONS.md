@@ -1,5 +1,5 @@
 ---
-inSelect: apple
+inSelect: The Lab
 ---
 ```meta-bind-button
 label: Go Back
@@ -16,6 +16,8 @@ actions:
 ```
 
 
-`INPUT[inlineSelect(option(The Lab), option(Peacekeeper), option(Ground Zero)):inSelect]`
+`INPUT[inlineSelect(option(The Lab), option(Peacekeeper), option(Ground Zero), defaultValue()):inSelect]`
 
-`INPUT[number(defaultValue(-1)`
+
+
+`INPUT[inlineSelect(defaultValue("test")):test]`
