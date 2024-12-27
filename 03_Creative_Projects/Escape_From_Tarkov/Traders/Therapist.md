@@ -4,18 +4,18 @@ tags:
 Trader:
   - "[[Therapist]]"
 Wares:
-  - Meds
-  - Provisions
-  - Keys
-  - Storage Containers
-  - Maps
+  - "[[Meds]]"
+  - "[[Provisions]]"
+  - "[[Keys]]"
+  - "[[Storage Containers]]"
+  - "[[Maps]]"
 Buys:
-  - Meds
-  - Provisions
-  - Keys
-  - Barter Items
-  - Storage Containers
-  - Maps
+  - "[[Meds]]"
+  - "[[Provisions]]"
+  - "[[Keys]]"
+  - "[[Barter Items]]"
+  - "[[Storage Containers]]"
+  - "[[Maps]]"
 Services:
   - Insurance
   - After raid healing

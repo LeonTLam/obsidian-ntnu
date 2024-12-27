@@ -4,20 +4,20 @@ tags:
 Trader:
   - "[[Skier]]"
 Wares:
-  - Weapons
-  - Magazines
-  - Ammo
-  - Mods
-  - Storage Containers
-  - Euros (€)
+  - "[[Weapons]]"
+  - "[[Magazines]]"
+  - "[[Ammo]]"
+  - "[[Mods]]"
+  - "[[Storage Containers]]"
+  - "[[Euros (€)]]"
 Buys:
-  - Gear
-  - Weapons
-  - Grenades
-  - Ammo
-  - Mods
-  - Stimulants
-  - Barter Items
+  - "[[Gear]]"
+  - "[[Weapons]]"
+  - "[[Grenades]]"
+  - "[[Ammo]]"
+  - "[[Mods]]"
+  - "[[Stimulants]]"
+  - "[[Barter Items]]"
 Services:
   - Repairs
 Currencies:

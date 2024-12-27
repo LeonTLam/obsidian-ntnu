@@ -12,41 +12,49 @@ Trader:
   - "[[Jaegar]]"
   - "[[Ref]]"
 Wares:
-  - Gear
-  - Magazines
-  - Ammo
-  - Grenades
-  - Mods
-  - Storage Containers
-  - Maps
-  - Keys
+  - "[[Gear]]"
+  - "[[Magazines]]"
+  - "[[Ammo]]"
+  - "[[Grenades]]"
+  - "[[Mods]]"
+  - "[[Storage Containers]]"
+  - "[[Maps]]"
+  - "[[Keys]]"
   - Anything
   - Euros (€)
   - Dollars ($)
-  - Weapons
-  - Keycards
-  - Special Equipment
+  - "[[Weapons]]"
+  - "[[Keycards]]"
+  - "[[Special Equipment]]"
+  - "[[Meds]]"
+  - "[[Provisions]]"
+  - "[[Tactical Clothing]]"
 Buys:
-  - Body Armor
-  - Weapons
-  - Grenades
-  - Ammo
-  - Mods
-  - Meds
-  - Provisions
-  - Mechanical Keys
-  - Barter Items
+  - "[[Body Armor]]"
+  - "[[Weapons]]"
+  - "[[Grenades]]"
+  - "[[Ammo]]"
+  - "[[Mods]]"
+  - "[[Meds]]"
+  - "[[Provisions]]"
+  - "[[Mechanical Keys]]"
+  - "[[Barter Items]]"
   - Everything
-  - Gear
-  - Stimulants
-  - Armored Gear
-  - Keycards
-  - Info Items
-  - Special Equipment
-  - Paracord
-  - Fabric
-  - Backpacks
-  - Tactical Rigs
+  - "[[Gear]]"
+  - "[[Stimulants]]"
+  - "[[Armored Gear]]"
+  - "[[Keycards]]"
+  - "[[Info Items]]"
+  - "[[Special Equipment]]"
+  - "[[Paracord]]"
+  - "[[Fabric]]"
+  - "[[Backpacks]]"
+  - "[[Tactical Rigs]]"
+  - Anything
+  - "[[Keys]]"
+  - Maps
+  - "[[Storage Containers]]"
+
 Services:
   - Insurance
   - Repairs
