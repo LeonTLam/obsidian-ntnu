@@ -52,8 +52,9 @@ Quests:
   - "[[Missing Cargo]]"
   - "[[Flint]]"
 inSearch: ""
-inSelect: All
-hideCompleted: true
+inSelect:
+  - All
+hideCompleted: false
 ---
 # Quests
 
@@ -84,7 +85,6 @@ sort number(LvlReq) asc
 
 # Items for Sale
 
-| Loyalty Level 1 | Loyalty Level 2 ----> | Loyalty Level 3 | Loyalty Level 4 |
-| --------------- | --------------------- | --------------- | --------------- |
-|                 |                       |                 |                 |
-|                 |                       |                 |                 |
+| Loyalty Level 1            | Loyalty Level 2 ---->      | Loyalty Level 3            | Loyalty Level 4            |
+| -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| ![[Skier1Stock.webp\|300]] | ![[Skier2Stock.webp\|300]] | ![[Skier3Stock.webp\|300]] | ![[Skier4Stock.webp\|300]] |

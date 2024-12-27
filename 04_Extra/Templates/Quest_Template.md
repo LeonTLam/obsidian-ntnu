@@ -10,6 +10,7 @@ LvlReq:
 Item: 
 Enemies: 
 Bosses:
+
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitl");
