@@ -1,11 +1,16 @@
-```Dataview
+
+
+
+```dataview
 table 
-    file.link as "Trade Name", 
+    "Cover" as "Cover", 
     Trader as "Trader", 
-    Items as "Items Traded", 
-    Description as "Description"
-from "Traders"
-where contains(tags, "#Trader")
+    Services as "Services", 
+    Currencies as "Currencies"
+from "03_Creative_Projects/Escape_From_Tarkov/Traders"
 sort file.name asc
 ```
+
+
+
 
