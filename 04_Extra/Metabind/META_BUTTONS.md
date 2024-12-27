@@ -16,8 +16,3 @@ actions:
 ```
 
 
-`INPUT[inlineSelect(option(The Lab), option(Peacekeeper), option(Ground Zero), defaultValue()):inSelect]`
-
-
-
-`INPUT[inlineSelect(defaultValue("test")):test]`
