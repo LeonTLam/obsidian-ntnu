@@ -1,40 +1,18 @@
 ```dataviewjs
 // CONFIGURATION
-const sourceFolder = "03_Creative_Projects/Escape_From_Tarkov/Quests"; // Folder where quests are located
-const statusField = "Status"; // YAML field to check
+const sourceFolder = "03_Creative_Projects/Escape_From_Tarkov/Quests"; // Adjust folder path
+const yamlField = "Status"; // YAML field to group by
 
-// Retrieve pages and group by status
-const questData = dv.pages(`"${sourceFolder}"`)
-    .groupBy(p => p.file.frontmatter[statusField] || "No Status");
+// Retrieve all pages and group by status
+const all = dv.pages(`"${sourceFolder}"`)
+    .groupBy(p => p.file.frontmatter[yamlField]) // Group by Status (e.g., "✅ Completed")
+    .values // Convert Dataview groups to an array
+    .map(p => `${p.key || "No Status"} ${"█".repeat(p.rows.length)} ${p.rows.length}`) // Map to bar chart format
+    .reverse(); // Reverse to show completed first (optional)
 
-// Debugging Logs
-console.log("Quest Data (Raw):", questData);
-
-// Process grouped data
-const questCounts = questData.map(p => `${p.key},${p.rows.length}`);
-console.log("Quest Counts (Processed):", questCounts);
-
-// Extract Completed Quests
-const completed = parseInt(questCounts.find(d => d.startsWith("✅ Completed"))?.split(",")[1] || 0);
-const total = dv.pages(`"${sourceFolder}"`).length;
-const remaining = total - completed;
-
-// Debug Completed/Remaining Quests
-console.log("Completed Quests:", completed);
-console.log("Remaining Quests:", remaining);
-
-// Build TinyChart
-dv.header(3, `Quests Progress`);
-dv.span([
-    "~~~tinychart",
-    "type: pie",
-    "data:",
-    "  labels: [Completed, Remaining]",
-    `  datasets: [{ data: [${completed}, ${remaining}], backgroundColor: ['#4caf50', '#f44336'] }]`,
-    "options:",
-    "  responsive: true",
-    "~~~"
-].join("\n"));
+// Display results
+dv.header(3, `Quest Completion in "${sourceFolder}"`);
+dv.list(all);
 
 ```
 
