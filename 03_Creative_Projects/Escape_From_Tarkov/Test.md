@@ -7,11 +7,11 @@ const yamlField = "Status"; // YAML field to group by
 const all = dv.pages(`"${sourceFolder}"`)
     .groupBy(p => p.file.frontmatter[yamlField]) // Group by Status (e.g., "✅ Completed")
     .values // Convert Dataview groups to an array
-    .map(p => `${p.key || "No Status"} ${"█".repeat(p.rows.length)} ${p.rows.length}`) // Map to bar chart format
+    .map(p => `${p.key || "No Status"} ${"▬".repeat(p.rows.length)} ${p.rows.length}`) // Map to bar chart format
     .reverse(); // Reverse to show completed first (optional)
 
 // Display results
-dv.header(3, `Quest Completion in "${sourceFolder}"`);
+dv.header(3, `Quest Progress for KAPPA`);
 dv.list(all);
 
 ```
