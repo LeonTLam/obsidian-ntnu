@@ -10,6 +10,13 @@ const all = dv.pages(`"${sourceFolder}"`)
     .map(p => `${p.key || "No Status"} ${"▬".repeat(p.rows.length)} ${p.rows.length}`) // Map to bar chart format
     .reverse(); // Reverse to show completed first (optional)
 
+// Calculate Total Quests
+const total = dv.pages(`"${sourceFolder}"`).length || 0;
+const totalBar = `⭐ Total Quests ${"▬".repeat(total)} ${total}`;
+
+// Append Total Quests to the results
+all.push(totalBar);
+
 // Display results
 dv.header(3, `Quest Progress for KAPPA`);
 dv.list(all);
