@@ -27,7 +27,7 @@ Currencies:
   - Dollars ($)
 Quests:
   - "[[TerraGroup Employee]]"
-inSelect: Ground
+inSelect: The Lab
 ---
 # Quests
 
@@ -47,25 +47,9 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where Trader = this.Trader
+where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Trader = this.Trader)
 sort this.LvlReq asc
 ```
-
-
-`INPUT[inlineSelect(option(Not Started), option(Peace), option(Ground)):inSelect]`
-
-```dataview
-table 
-    Maps as "Map", 
-    Trader as "Trader", 
-    Desc as "Description", 
-    Status as "Status (Completion)", 
-    LvlReq as "Level Requirement"
-from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where contains(Trader.file.name, this.inSelect) or contains(Maps.file.name, this.inSelect)
-sort this.LvlReq asc
-```
-
 # Items for Sale
 
 | Loyalty Level 1                  | Loyalty Level 2 ---->            | Loyalty Level 3                  | Loyalty Level 4                  |
