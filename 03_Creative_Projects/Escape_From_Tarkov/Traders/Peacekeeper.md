@@ -27,7 +27,7 @@ Currencies:
   - Dollars ($)
 Quests:
   - "[[TerraGroup Employee]]"
-inSelect: 🛑 Not Started
+inSelect: "[[Peace"
 ---
 # Quests
 
@@ -48,7 +48,7 @@ sort this.LvlReq asc
 ```
 
 
-`INPUT[inlineSelect(option(🛑 Not Started), option([[Peacekeeper]]), option(Ground Zero)):inSelect]`
+`INPUT[inlineSelect(option(Not Started), option([[Peace), option(Ground)):inSelect]`
 
 ```dataview
 table 
@@ -58,7 +58,7 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where contains(Trader, this.inSelect) or contains(Maps, this.inSelect) or contains(Status, this.inSelect)
+where contains(lower(Trader), lower(this.inSelect)) or contains(Maps, this.inSelect)
 sort this.LvlReq asc
 ```
 
