@@ -27,7 +27,7 @@ Currencies:
   - Dollars ($)
 Quests:
   - "[[TerraGroup Employee]]"
-inSelect: Peacekeeper
+inSelect: 🛑 Not Started
 ---
 # Quests
 
@@ -48,7 +48,7 @@ sort this.LvlReq asc
 ```
 
 
-`INPUT[inlineSelect(option(🛑 Not Started), option(Peacekeeper), option(Ground Zero)):inSelect]`
+`INPUT[inlineSelect(option(🛑 Not Started), option([[Peacekeeper]]), option(Ground Zero)):inSelect]`
 
 ```dataview
 table 
