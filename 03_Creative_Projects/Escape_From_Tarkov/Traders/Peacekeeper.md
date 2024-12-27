@@ -36,7 +36,9 @@ inSelect: Ground
 ```
 `BUTTON[return]` 
 
-**Filter by 
+**Filter by Map**
+
+`INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect]`
 ```dataview
 table 
     Maps as "Map", 
