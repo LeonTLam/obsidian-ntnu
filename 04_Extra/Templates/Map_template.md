@@ -1,14 +1,14 @@
 ---
 tags:
   - Map
-Maps:
-  - "[[The Lab]]"
+Maps: []
 Bosses: 
 Quests: 
 Duration: 
 Players: 
 Enemies: 
-inSelect: All
+inSelect:
+  - All
 inSearch: ""
 hideCompleted: false
 ---

@@ -13,6 +13,9 @@ Players:
 Enemies:
   - Scavs
   - Cultists
+inSearch: ""
+inSelect: All
+hideCompleted: false
 ---
 # Map
 
@@ -36,15 +39,22 @@ Enemies:
 | **Police Cordon V-Ex**           | PMC         | ✅            | ✅          | Maximum of 4 players; fee amount influenced by Scav karma.                    |
 | **Scav Checkpoint (Co-op)**      | PMC<br>SCAV | ✅            | ❌          | Requires both Scav and PMC cooperation.<br>                                   |
 | Transit to [[Streets of Tarkov]] | PMC<br>SCAV | ✅            | ❌          | Available 1 minute after raid start; located next to the Mira Ave extraction. |
-# POIs
 
-Point of Interest
 # Quests
 
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
 `BUTTON[return]` 
+
+**Search by Name**
+`INPUT[text:inSearch]`
+
+**Filter by Trader**
+`INPUT[inlineSelect(option(Prapor), option(Therapist), option(Fence), option(Skier), option(Peacekeeper), option(Mechanic), option(Ragman), option(Jaegar), option(All)):inSelect]`
+
+**Hide Completed Quests**
+`INPUT[toggle:hideCompleted]`
 ```dataview
 table 
     Maps as "Map", 
@@ -53,9 +63,11 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where Maps = this.Maps
-sort this.LvlReq asc
+where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Maps = this.Maps) AND ((this.hideCompleted = false) OR (this.hideCompleted = true AND !contains(Status, "Completed"))) and (this.inSearch = "" or contains(lower(file.name), lower(this.inSearch)))
+sort number(LvlReq) asc
 ```
+# POIs
 
+Point of Interest
 
 
