@@ -28,6 +28,7 @@ Currencies:
 Quests:
   - "[[TerraGroup Employee]]"
 inSelect: The Lab
+hideCompleted: true
 ---
 # Quests
 
@@ -37,8 +38,10 @@ inSelect: The Lab
 `BUTTON[return]` 
 
 **Filter by Map**
-
 `INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect]`
+
+**Hide Completed Quests**
+`INPUT[toggle:hideCompleted]`
 ```dataview
 table 
     Maps as "Map", 

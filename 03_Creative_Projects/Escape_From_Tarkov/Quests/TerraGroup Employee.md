@@ -7,7 +7,7 @@ Maps:
 Trader:
   - "[[Peacekeeper]]"
 Status:
-  - 🛑 Not Started
+  - ✅ Completed
 LvlReq:
   - "23"
 Item:
