@@ -1,3 +1,6 @@
+---
+inSelect: apple
+---
 ```meta-bind-button
 label: Go Back
 icon: ""
@@ -13,3 +16,6 @@ actions:
 ```
 
 
+`INPUT[inlineSelect(option(The Lab), option(Peacekeeper), option(Ground Zero)):inSelect]`
+
+`INPUT[number(defaultValue(-1)`
