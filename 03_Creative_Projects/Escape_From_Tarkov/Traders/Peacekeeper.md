@@ -27,7 +27,7 @@ Currencies:
   - Dollars ($)
 Quests:
   - "[[TerraGroup Employee]]"
-inSelect: "[[Peace"
+inSelect: Ground
 ---
 # Quests
 
@@ -35,6 +35,8 @@ inSelect: "[[Peace"
 [[META_BUTTONS]]
 ```
 `BUTTON[return]` 
+
+**Filter by 
 ```dataview
 table 
     Maps as "Map", 
@@ -48,7 +50,7 @@ sort this.LvlReq asc
 ```
 
 
-`INPUT[inlineSelect(option(Not Started), option([[Peace), option(Ground)):inSelect]`
+`INPUT[inlineSelect(option(Not Started), option(Peace), option(Ground)):inSelect]`
 
 ```dataview
 table 
@@ -58,7 +60,7 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where contains(lower(Trader), lower(this.inSelect)) or contains(Maps, this.inSelect)
+where contains(Trader.file.name, this.inSelect) or contains(Maps.file.name, this.inSelect)
 sort this.LvlReq asc
 ```
 
