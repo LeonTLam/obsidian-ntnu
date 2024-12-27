@@ -2,55 +2,30 @@
 tags:
   - Trader
 Trader:
-  - "[[Skier]]"
+  - "[[Prapor]]"
 Wares:
   - Weapons
+  - Gear
   - Magazines
   - Ammo
+  - Grenades
   - Mods
-  - Storage Containers
-  - Euros (€)
 Buys:
-  - Gear
+  - Body Armor
   - Weapons
   - Grenades
   - Ammo
   - Mods
-  - Stimulants
+  - Meds
+  - Provisions
+  - Mechanical Keys
   - Barter Items
 Services:
+  - Insurance
   - Repairs
 Currencies:
   - Roubles (₽)
-  - Dollars ($)
-  - Euros (€)
-Quests:
-  - "[[Burning Rubber]]"
-  - "[[Supplier]]"
-  - "[[The Extortionist]]"
-  - "[[Golden Swag]]"
-  - "[[Stirrup]]"
-  - "[[What’s on the Flash Drive?]]"
-  - "[[Friend From the West - Part 1]]"
-  - "[[Friend From the West - Part 2]]"
-  - "[[Chemical - Part 1]]"
-  - "[[Chemical - Part 2]]"
-  - "[[Chemical - Part 3]]"
-  - "[[Chemical - Part 4 (choice)]]"
-  - "[[Exit Here]]"
-  - "[[The Walls Have Eyes]]"
-  - "[[Kind of Sabotage (choice)]]"
-  - "[[Safe Corridor]]"
-  - "[[Setup]]"
-  - "[[Long Road]]"
-  - "[[Rigged Game]]"
-  - "[[Vitamins - Part 1]]"
-  - "[[Vitamins - Part 2]]"
-  - "[[Informed Means Armed]]"
-  - "[[Lend-Lease - Part 1]]"
-  - "[[Chumming]]"
-  - "[[Missing Cargo]]"
-  - "[[Flint]]"
+Quests: 
 inSearch: ""
 inSelect:
   - All
@@ -84,6 +59,6 @@ sort number(LvlReq) asc
 
 # Items for Sale
 
-| Loyalty Level 1            | Loyalty Level 2 ---->      | Loyalty Level 3            | Loyalty Level 4            |
-| -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-| ![[Skier1Stock.webp\|300]] | ![[Skier2Stock.webp\|300]] | ![[Skier3Stock.webp\|300]] | ![[Skier4Stock.webp\|300]] |
+| Loyalty Level 1 | Loyalty Level 2 ----> | Loyalty Level 3 | Loyalty Level 4 |
+| --------------- | --------------------- | --------------- | --------------- |
+| ![[a\|300]]     | ![[a\|300]]           | ![[a\|300]]     | ![[a\|300]]     |
