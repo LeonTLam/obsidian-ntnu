@@ -23,7 +23,6 @@ const parentFolder = "03_Creative_Projects/Escape_From_Tarkov/Traders/";
 // Output the selected course or use it in your script
 await tp.file.move(parentFolder + title)
 _%>
-
 # Quests
 
 ```dataview
@@ -37,3 +36,9 @@ from "03_Creative_Projects/Escape_From_Tarkov/Quests"
 where Trader = this.Trader
 sort this.LvlReq asc
 ```
+
+# Items for Sale
+
+| Loyalty Level 1                  | Loyalty Level 2 ---->            | Loyalty Level 3                  | Loyalty Level 4                  |
+| -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+|  |  |  |  |

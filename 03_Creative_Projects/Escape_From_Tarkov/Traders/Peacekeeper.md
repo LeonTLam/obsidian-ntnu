@@ -28,6 +28,7 @@ Currencies:
 Quests:
   - "[[TerraGroup Employee]]"
 ---
+
 # Quests
 
 ```dataview
@@ -40,9 +41,9 @@ from "03_Creative_Projects/Escape_From_Tarkov/Quests"
 where Trader = this.Trader
 sort this.LvlReq asc
 ```
-
+<% tp.file.cursor() %>
 # Items for Sale
 
-| Loyalty Level 1                  | Loyalty Level 2 ---->             | Loyalty Level 3                   | Loyalty Level 4                   |
-| -------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
-| ![[Peacekeeper1Stock.webp\|300]] | ![[Peacekeeper2Stock.webp\|300]]] | ![[Peacekeeper3Stock.webp\|300]]] | ![[Peacekeeper4Stock.webp\|300]]] |
+| Loyalty Level 1                  | Loyalty Level 2 ---->            | Loyalty Level 3                  | Loyalty Level 4                  |
+| -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| ![[Peacekeeper1Stock.webp\|300]] | ![[Peacekeeper2Stock.webp\|300]] | ![[Peacekeeper3Stock.webp\|300]] | ![[Peacekeeper4Stock.webp\|300]] |

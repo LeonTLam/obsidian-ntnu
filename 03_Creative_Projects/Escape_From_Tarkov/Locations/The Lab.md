@@ -10,7 +10,6 @@ Players:
 Enemies:
   - Scav Raiders
 ---
-
 # Map
 
 | Cellar -> First Floor -> Second Floor |
