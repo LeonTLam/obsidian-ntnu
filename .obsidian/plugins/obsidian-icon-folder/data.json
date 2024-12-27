@@ -93,5 +93,8 @@
     "iconName": "LiBoxes",
     "iconColor": "#009402"
   },
-  "04_Extra/Metabind": "LiBug"
+  "04_Extra/Metabind": {
+    "iconName": "LiBug",
+    "iconColor": "#949e00"
+  }
 }
