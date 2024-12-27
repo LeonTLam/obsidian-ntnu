@@ -20,7 +20,7 @@ const totalBar = `⭐ Total Quests ${"▬".repeat(total)} ${total}`;
 all.push(totalBar);
 
 // Display results
-dv.header(3, `# Quest Progress for KAPPA`);
+dv.header(3, `Quest Progress for KAPPA`);
 dv.list(all);
 
 ```
