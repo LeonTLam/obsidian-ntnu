@@ -33,7 +33,7 @@ _%>
 ```
 `BUTTON[return]` 
 
-Desc:: - First Task
-Desc:: - Second Task
+Desc::First Task
+Desc::Second Task
 ## Location
 
