@@ -1,8 +1,3 @@
-```meta-bind
-bind: QuestsCompletedCounter
-eval: length(filter(from("Quests"), q => q.file.frontmatter.Status = "✅ Completed"))
-```
-
 
 ```dataview
 table 
