@@ -4,20 +4,20 @@ tags:
 Trader:
   - "[[Mechanic]]"
 Wares:
-  - Weapons
-  - Magazines
-  - Ammo
-  - Mods
-  - Keycards
-  - Special Equipment
-  - Storage Containers
+  - "[[Weapons]]"
+  - "[[Magazines]]"
+  - "[[Ammo]]"
+  - "[[Mods]]"
+  - "[[Keycards]]"
+  - "[[Special Equipment]]"
+  - "[[Storage Containers]]"
 Buys:
-  - Weapons
-  - Ammo
-  - Mods
-  - Keycards
-  - Barter Items
-  - Special Equipment
+  - "[[Weapons]]"
+  - "[[Ammo]]"
+  - "[[Mods]]"
+  - "[[Keycards]]"
+  - "[[Barter Items]]"
+  - "[[Special Equipment]]"
 Services:
   - Repairs
 Currencies:

@@ -4,22 +4,22 @@ tags:
 Trader:
   - "[[Prapor]]"
 Wares:
-  - Weapons
-  - Gear
-  - Magazines
-  - Ammo
-  - Grenades
-  - Mods
+  - "[[Weapons]]"
+  - "[[Gear]]"
+  - "[[Magazines]]"
+  - "[[Ammo]]"
+  - "[[Grenades]]"
+  - "[[Mods]]"
 Buys:
-  - Body Armor
-  - Weapons
-  - Grenades
-  - Ammo
-  - Mods
-  - Meds
-  - Provisions
-  - Mechanical Keys
-  - Barter Items
+  - "[[Body Armor]]"
+  - "[[Weapons]]"
+  - "[[Grenades]]"
+  - "[[Ammo]]"
+  - "[[Mods]]"
+  - "[[Meds]]"
+  - "[[Provisions]]"
+  - "[[Mechanical Keys]]"
+  - "[[Barter Items]]"
 Services:
   - Insurance
   - Repairs

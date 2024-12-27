@@ -8,14 +8,14 @@ Wares:
   - "[[Provisions]]"
   - "[[Keys]]"
   - "[[Storage Containers]]"
-  - "[[Maps]]"
+  - Maps
 Buys:
   - "[[Meds]]"
   - "[[Provisions]]"
   - "[[Keys]]"
   - "[[Barter Items]]"
   - "[[Storage Containers]]"
-  - "[[Maps]]"
+  - Maps
 Services:
   - Insurance
   - After raid healing

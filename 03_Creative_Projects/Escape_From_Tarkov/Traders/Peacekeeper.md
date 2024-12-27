@@ -4,23 +4,23 @@ tags:
 Trader:
   - "[[Peacekeeper]]"
 Wares:
-  - Weapons
-  - Gear
-  - Magazines
-  - Ammo
-  - Grenades
-  - Mods
-  - Storage Containers
+  - "[[Weapons]]"
+  - "[[Gear]]"
+  - "[[Magazines]]"
+  - "[[Ammo]]"
+  - "[[Grenades]]"
+  - "[[Mods]]"
+  - "[[Storage Containers]]"
   - Dollars ($)
 Buys:
-  - Armored Gear
-  - Weapons
-  - Ammo
-  - Mods
-  - Keycards
-  - Barter Items
-  - Info Items
-  - Special Equipment
+  - "[[Armored Gear]]"
+  - "[[Weapons]]"
+  - "[[Ammo]]"
+  - "[[Mods]]"
+  - "[[Keycards]]"
+  - "[[Barter Items]]"
+  - "[[Info Items]]"
+  - "[[Special Equipment]]"
 Services:
   - None
 Currencies:

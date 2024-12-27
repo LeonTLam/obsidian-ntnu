@@ -9,7 +9,7 @@ Wares:
   - "[[Ammo]]"
   - "[[Mods]]"
   - "[[Storage Containers]]"
-  - "[[Euros (€)]]"
+  - Euros (€)
 Buys:
   - "[[Gear]]"
   - "[[Weapons]]"

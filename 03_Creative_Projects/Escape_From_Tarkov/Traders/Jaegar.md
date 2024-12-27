@@ -2,48 +2,28 @@
 tags:
   - Trader
 Trader:
-  - "[[Ragman]]"
+  - "[[Jaegar]]"
 Wares:
-  - "[[Tactical Clothing]]"
+  - "[[Weapons]]"
+  - "[[Magazines]]"
+  - "[[Ammo]]"
+  - "[[Mods]]"
   - "[[Gear]]"
-Buys:
-  - "[[Gear]]"
-  - "[[Backpacks]]"
+  - "[[Special Equipment]]"
   - "[[Storage Containers]]"
-  - "[[Fabric]]"
-  - "[[Paracord]]"
-Services:
-  - Tactical clothing
-Currencies:
-  - Roubles (₽)
+Buys:
+  - "[[Tactical Rigs]]"
+  - "[[Backpacks]]"
+  - "[[Weapons]]"
+  - "[[Mods]]"
+  - "[[Meds]]"
+  - "[[Provisions]]"
+  - "[[Barter Items]]"
+  - "[[Storage Containers]]"
+  - "[[Secure Containers]]"
+Services: 
+Currencies: 
 Quests: 
-  - "[[A Fuel Matter]]"
-  - "[[Big Sale]]"
-  - "[[Database - Part 1]]"
-  - "[[Database - Part 2]]"
-  - "[[Dressed to Kill]]"
-  - "[[Gratitude]]"
-  - "[[Inventory Check]]"
-  - "[[Make ULTRA Great Again]]"
-  - "[[Only Business]]"
-  - "[[The Blood of War - Part 1]]"
-  - "[[Minibus]]"
-  - "[[Charisma Brings Success]]"
-  - "[[Sew it Good - Part 1]]"
-  - "[[Sew it Good - Part 2]]"
-  - "[[Sew it Good - Part 3]]"
-  - "[[Sew it Good - Part 4]]"
-  - "[[The Blood of War - Part 2]]"
-  - "[[No Fuss Needed]]"
-  - "[[The Key to Success]]"
-  - "[[Living High is Not a Crime - Part 1]]"
-  - "[[Hot Delivery]]"
-  - "[[Scavenger]]"
-  - "[[Living High is Not a Crime - Part 2]]"
-  - "[[Sales Night]]"
-  - "[[The Blood of War - Part 3]]"
-  - "[[Supervisor]]"
-
 inSearch: ""
 inSelect:
   - All
