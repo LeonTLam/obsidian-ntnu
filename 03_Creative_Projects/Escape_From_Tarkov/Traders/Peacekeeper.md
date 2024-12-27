@@ -28,12 +28,25 @@ Currencies:
 Quests:
   - "[[TerraGroup Employee]]"
 ---
-```button
-name Go Back
-type run-js
-action app.workspace.history.back();
+```meta-bind-embed
+[[META_BUTTONS]]
 ```
+`BUTTON[return]`
 
+# Quests
+
+<% tp.file.cursor() %>
+```dataview
+table 
+    Maps as "Map", 
+    Trader as "Trader", 
+    Desc as "Description", 
+    Status as "Status (Completion)", 
+    LvlReq as "Level Requirement"
+from "03_Creative_Projects/Escape_From_Tarkov/Quests"
+where Trader = this.Trader
+sort this.LvlReq asc
+```
 # Items for Sale
 
 | Loyalty Level 1                  | Loyalty Level 2 ---->            | Loyalty Level 3                  | Loyalty Level 4                  |

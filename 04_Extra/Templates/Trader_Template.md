@@ -23,6 +23,7 @@ const parentFolder = "03_Creative_Projects/Escape_From_Tarkov/Traders/";
 // Output the selected course or use it in your script
 await tp.file.move(parentFolder + title)
 _%>
+`BUTTON[return]`
 # Quests
 
 ```dataview
