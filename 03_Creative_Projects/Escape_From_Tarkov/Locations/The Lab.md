@@ -9,6 +9,9 @@ Players:
   - 8-10
 Enemies:
   - Scav Raiders
+hideCompleted: false
+inSelect: All
+inSearch: ""
 ---
 # Map
 
@@ -51,6 +54,15 @@ Enemies:
 [[META_BUTTONS]]
 ```
 `BUTTON[return]` 
+
+**Search by Name**
+`INPUT[text:inSearch]`
+
+**Filter by Trader**
+`INPUT[inlineSelect(option(Prapor), option(Therapist), option(Fence), option(Skier), option(Peacekeeper), option(Mechanic), option(Ragman), option(Jaegar), option(All)):inSelect]`
+
+**Hide Completed Quests**
+`INPUT[toggle:hideCompleted]`
 ```dataview
 table 
     Maps as "Map", 
@@ -59,8 +71,8 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where Maps = this.Maps
-sort this.LvlReq asc
+where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Maps = this.Maps) AND ((this.hideCompleted = false) OR (this.hideCompleted = true AND !contains(Status, "Completed"))) and (this.inSearch = "" or contains(lower(file.name), lower(this.inSearch)))
+sort number(LvlReq) asc
 ```
 
 ## POIs

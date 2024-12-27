@@ -1,12 +1,16 @@
 ---
 tags:
   - Map
-Maps: 
+Maps:
+  - "[[The Lab]]"
 Bosses: 
 Quests: 
 Duration: 
 Players: 
-Enemies:
+Enemies: 
+inSelect: All
+inSearch: ""
+hideCompleted: false
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitl");
@@ -51,7 +55,7 @@ Point of Interest
 `INPUT[text:inSearch]`
 
 **Filter by Trader**
-`INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect]`
+`INPUT[inlineSelect(option(Prapor), option(Therapist), option(Fence), option(Skier), option(Peacekeeper), option(Mechanic), option(Ragman), option(Jaegar), option(All)):inSelect]`
 
 **Hide Completed Quests**
 `INPUT[toggle:hideCompleted]`
@@ -63,6 +67,6 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Trader = this.Trader) AND ((this.hideCompleted = false) OR (this.hideCompleted = true AND !contains(Status, "Completed"))) and (this.inSearch = "" or contains(lower(file.name), lower(this.inSearch)))
+where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Maps = this.Maps) AND ((this.hideCompleted = false) OR (this.hideCompleted = true AND !contains(Status, "Completed"))) and (this.inSearch = "" or contains(lower(file.name), lower(this.inSearch)))
 sort number(LvlReq) asc
 ```
