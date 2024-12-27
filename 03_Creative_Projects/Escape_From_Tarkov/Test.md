@@ -7,13 +7,11 @@ table
     Trader as "Trader", 
     Services as "Services", 
     Currencies as "Currencies", 
-    length(filter(Quests, q => q.Trader = this.Trader and q.Status = "- ✅ Completed")) 
-    as "Completed Quests", 
-    length(filter(Quests, q => q.Trader = this.Trader)) as "Total Quests", 
-    (length(filter(Quests, q => q.Trader = this.Trader and q.Status = "Completed")) + "/" + length(filter(Quests, q => q.Trader = this.Trader))) as "Quest Progress",
+    length(Quests) as "Total Quests",
+    length(filter(Quests, q => link(q).Status = "✅ Completed")) as "Completed"
 from "03_Creative_Projects/Escape_From_Tarkov/Traders"
+where Quests
 sort file.name asc
-
 ```
 
 
