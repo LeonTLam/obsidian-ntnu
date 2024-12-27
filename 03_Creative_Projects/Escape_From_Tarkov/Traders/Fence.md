@@ -17,7 +17,7 @@ inSearch: ""
 inSelect:
   - All
 hideCompleted: false
-cover: "../Resources/Images/Fence_Portrait.webp"
+Cover: "![[Fence_Portrait.webp]]"
 ---
 # Quests
 
