@@ -1,7 +1,7 @@
 ---
 inSelect: Ground Zero
 ---
-
+`INPUT[inlineSelect(option(The Lab), option(Peacekeeper), option(Ground Zero)):inSelect]`
 
 ```dataview
 table 
@@ -11,6 +11,6 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where inSelect != null AND (contains(inSelect, this.
+where  = this.Trader
 sort this.LvlReq asc
 ```
