@@ -1,6 +1,6 @@
 ```dataviewjs
 // CONFIGURATION
-const sourceFolder = "Quests"; // Folder where quests are located
+const sourceFolder = "03_Creative_Projects/Escape_From_Tarkov/Quests"; // Folder where quests are located
 const statusField = "Status"; // YAML field to check
 
 // Retrieve pages and group by status
@@ -24,7 +24,7 @@ console.log("Completed Quests:", completed);
 console.log("Remaining Quests:", remaining);
 
 // Build TinyChart
-dv.header(3, `Quests Progress in "${sourceFolder}"`);
+dv.header(3, `Quests Progress`);
 dv.span([
     "~~~tinychart",
     "type: pie",
