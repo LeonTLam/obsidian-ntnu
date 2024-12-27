@@ -11,12 +11,13 @@ Services:
   - None
 Currencies:
   - Roubles (₽)
-Quests: 
+Quests:
   - "[[Collector]]"
 inSearch: ""
 inSelect:
   - All
 hideCompleted: false
+cover: "../Resources/Images/Fence_Portrait.webp"
 ---
 # Quests
 

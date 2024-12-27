@@ -39,6 +39,7 @@
     "Kappa": "checkbox",
     "Lvl. Req.": "multitext",
     "Item": "multitext",
-    "inSelect": "multitext"
+    "inSelect": "multitext",
+    "Cover": "text"
   }
 }
