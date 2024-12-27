@@ -4,7 +4,7 @@ style: 'default'
 id: 'return'
 action: 
   type: 'command'
-  command: app.workspace.history.back()
+  command: app.go-back
 ```
 
 
