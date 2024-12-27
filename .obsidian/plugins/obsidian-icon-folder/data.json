@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBug",
+      "⏏",
+      "▶",
       "LiBoxes",
-      "LiAlbum",
-      "LiStore",
-      "LiListTodo",
-      "LiMapPin"
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -92,5 +92,6 @@
   "03_Creative_Projects/Escape_From_Tarkov/Items": {
     "iconName": "LiBoxes",
     "iconColor": "#009402"
-  }
+  },
+  "04_Extra/Metabind": "LiBug"
 }
