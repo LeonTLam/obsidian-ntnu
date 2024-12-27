@@ -84,6 +84,7 @@ sort number(LvlReq) asc
 
 # Items for Sale
 
-| Loyalty Level 1                  | Loyalty Level 2 ---->            | Loyalty Level 3                  | Loyalty Level 4                  |
-| -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
-|  |  |  |  |
+| Loyalty Level 1 | Loyalty Level 2 ----> | Loyalty Level 3 | Loyalty Level 4 |
+| --------------- | --------------------- | --------------- | --------------- |
+|                 |                       |                 |                 |
+|                 |                       |                 |                 |
