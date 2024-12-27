@@ -1,5 +1,4 @@
-
-This document serves as a comprehensive guide for **Escape from Tarkov**, specifically tailored to help you unlock the coveted **Secure Container Kappa**. Inside, you'll find essential details about the game's maps, key traders, and crucial items required to complete the challenging quests leading to Kappa. Use this guide to streamline your journey and maximize your efficiency in achieving this ultimate milestone.
+This document serves as a comprehensive guide for **Escape from Tarkov**, specifically tailored to help you unlock the coveted **Secure Container [[Kappa]]**. Inside, you'll find essential details about the game's [[Goal to KAPPA#Maps|maps]], key [[Goal to KAPPA#Traders|traders]], and crucial items required to complete the challenging [[Goal to KAPPA#Quests|quests]] leading to Kappa. Use this guide to streamline your journey and maximize your efficiency in achieving this ultimate milestone.
 ```dataviewjs
 // CONFIGURATION
 const sourceFolder = "03_Creative_Projects/Escape_From_Tarkov/Quests"; // Adjust folder path
