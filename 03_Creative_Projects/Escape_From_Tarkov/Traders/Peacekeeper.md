@@ -50,7 +50,7 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Trader = this.Trader) AND (this.hideCompleted = false AND Status != "✅ Completed")
+where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Trader = this.Trader) AND ((this.hideCompleted = false) OR (this.hideCompleted = true AND !contains(Status, "Completed")))
 sort number(LvlReq) asc
 ```
 # Items for Sale
