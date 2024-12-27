@@ -27,7 +27,7 @@ Currencies:
   - Dollars ($)
 Quests:
   - "[[TerraGroup Employee]]"
-inSelect: 🛑 Not Started
+inSelect: Peacekeeper
 ---
 # Quests
 
@@ -58,7 +58,7 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where contains(this.inSelect, "Not Started")
+where contains(Trader, this.inSelect) or contains(Maps, this.inSelect) or contains(Status, this.inSelect)
 sort this.LvlReq asc
 ```
 
