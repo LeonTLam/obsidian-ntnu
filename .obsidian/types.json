@@ -38,6 +38,7 @@
     "Currencies": "multitext",
     "Kappa": "checkbox",
     "Lvl. Req.": "multitext",
-    "Item": "multitext"
+    "Item": "multitext",
+    "inSelect": "multitext"
   }
 }
