@@ -2,66 +2,23 @@
 tags:
   - Trader
 Trader:
-  - "[[Therapist]]"
+  - "[[Ragman]]"
 Wares:
-  - Meds
-  - Provisions
-  - Keys
-  - Storage Containers
-  - Maps
+  - Tactical Clothing
+  - Gear
 Buys:
-  - Meds
-  - Provisions
-  - Keys
-  - Barter Items
+  - Gear
+  - Backpacks
   - Storage Containers
-  - Maps
-Services:
-  - Insurance
-  - After raid healing
-Currencies:
-  - Roubles (₽)
-  - Euros (€)
+Services: 
+Currencies: 
 Quests: 
-  - "[[First in Line]]"
-  - "[[Shortage]]"
-  - "[[Sanitary Standards - Part 1]]"
-  - "[[Operation Aquarius - Part 1]]"
-  - "[[Operation Aquarius - Part 2]]"
-  - "[[Painkiller]]"
-  - "[[Sanitary Standards - Part 2]]"
-  - "[[Car Repair]]"
-  - "[[General Wares]]"
-  - "[[Pharmacist]]"
-  - "[[Postman Pat - Part 2]]"
-  - "[[Out of Curiosity (choice)]]"
-  - "[[All is Revealed]]"
-  - "[[Supply Plans (choice)]]"
-  - "[[A Healthy Alternative (choice)]]"
-  - "[[Disease History]]"
-  - "[[Seaside Vacation]]"
-  - "[[Health Care Privacy - Part 1]]"
-  - "[[Health Care Privacy - Part 2]]"
-  - "[[Health Care Privacy - Part 3]]"
-  - "[[Health Care Privacy - Part 4]]"
-  - "[[Health Care Privacy - Part 5]]"
-  - "[[Health Care Privacy - Part 6]]"
-  - "[[Colleagues - Part 1]]"
-  - "[[Colleagues - Part 2]]"
-  - "[[Colleagues - Part 3 (choice)]]"
-  - "[[Drug Trafficking]]"
-  - "[[Lost Contact]]"
-  - "[[Athlete]]"
-  - "[[Decontamination Service]]"
-  - "[[Private Clinic]]"
-  - "[[Crisis]]"
-
 inSearch: ""
 inSelect:
   - All
 hideCompleted: false
 ---
-|# Quests
+# Quests
 
 ```meta-bind-embed
 [[META_BUTTONS]]
