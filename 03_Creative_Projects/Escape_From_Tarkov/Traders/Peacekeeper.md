@@ -27,8 +27,8 @@ Currencies:
   - Dollars ($)
 Quests:
   - "[[TerraGroup Employee]]"
-inSelect: The Lab
-hideCompleted: true
+inSelect: All
+hideCompleted: false
 ---
 # Quests
 
@@ -50,7 +50,7 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Trader = this.Trader)
+where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Trader = this.Trader) AND (this.hideCompleted = false AND Status != "✅ Completed")
 sort this.LvlReq asc
 ```
 # Items for Sale
