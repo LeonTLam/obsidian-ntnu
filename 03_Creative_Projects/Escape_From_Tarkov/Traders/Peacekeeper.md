@@ -27,7 +27,7 @@ Currencies:
   - Dollars ($)
 Quests:
   - "[[TerraGroup Employee]]"
-inSelect: Ground Zero
+inSelect: "- 🛑 Not Started"
 ---
 # Quests
 
@@ -48,7 +48,7 @@ sort this.LvlReq asc
 ```
 
 
-`INPUT[inlineSelect(option(The Lab), option(Peacekeeper), option(Ground Zero)):inSelect]`
+`INPUT[inlineSelect(option(- 🛑 Not Started), option(Peacekeeper), option(Ground Zero)):inSelect]`
 
 ```dataview
 table 
@@ -58,9 +58,10 @@ table
     Status as "Status (Completion)", 
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
-where inSelect != null AND (contains())
+where Status = this.inSelect
 sort this.LvlReq asc
 ```
+
 # Items for Sale
 
 | Loyalty Level 1                  | Loyalty Level 2 ---->            | Loyalty Level 3                  | Loyalty Level 4                  |
