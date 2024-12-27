@@ -41,6 +41,10 @@ Enemies:
 Point of Interest
 # Quests
 
+```meta-bind-embed
+[[META_BUTTONS]]
+```
+`BUTTON[return]` 
 ```dataview
 table 
     Maps as "Map", 

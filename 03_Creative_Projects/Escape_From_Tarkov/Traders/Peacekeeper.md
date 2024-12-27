@@ -28,14 +28,12 @@ Currencies:
 Quests:
   - "[[TerraGroup Employee]]"
 ---
+# Quests
+
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
-`BUTTON[return]`
-
-# Quests
-
-<% tp.file.cursor() %>
+`BUTTON[return]` 
 ```dataview
 table 
     Maps as "Map", 

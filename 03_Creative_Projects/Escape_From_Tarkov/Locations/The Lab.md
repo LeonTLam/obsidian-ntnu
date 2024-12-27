@@ -47,6 +47,10 @@ Enemies:
 | **Cargo Elevator**                | ✅                | ✅          | Power in basement G1                   |
 # Quests
 
+```meta-bind-embed
+[[META_BUTTONS]]
+```
+`BUTTON[return]` 
 ```dataview
 table 
     Maps as "Map", 

@@ -13,6 +13,11 @@ LvlReq:
 ---
 # Quest
 
+```meta-bind-embed
+[[META_BUTTONS]]
+```
+`BUTTON[return]` 
+
 Desc::Use paid vehicle extraction on [[Ground Zero]]
 ## Location
 
