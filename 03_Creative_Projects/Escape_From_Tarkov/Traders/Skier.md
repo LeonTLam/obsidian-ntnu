@@ -25,6 +25,35 @@ Currencies:
   - Dollars ($)
   - Euros (€)
 Quests:
+  - "[[Burning Rubber]]"
+  - "[[Supplier]]"
+  - "[[The Extortionist]]"
+  - "[[Golden Swag]]"
+  - "[[Stirrup]]"
+  - "[[What’s on the Flash Drive?]]"
+  - "[[Friend From the West - Part 1]]"
+  - "[[Friend From the West - Part 2]]"
+  - "[[Chemical - Part 1]]"
+  - "[[Chemical - Part 2]]"
+  - "[[Chemical - Part 3]]"
+  - "[[Chemical - Part 4 (choice)]]"
+  - "[[Exit Here]]"
+  - "[[The Walls Have Eyes]]"
+  - "[[Kind of Sabotage (choice)]]"
+  - "[[Safe Corridor]]"
+  - "[[Setup]]"
+  - "[[Long Road]]"
+  - "[[Rigged Game]]"
+  - "[[Vitamins - Part 1]]"
+  - "[[Vitamins - Part 2]]"
+  - "[[Informed Means Armed]]"
+  - "[[Lend-Lease - Part 1]]"
+  - "[[Chumming]]"
+  - "[[Missing Cargo]]"
+  - "[[Flint]]"
+inSearch: ""
+inSelect: All
+hideCompleted: true
 ---
 # Quests
 
