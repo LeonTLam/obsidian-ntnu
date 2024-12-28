@@ -23,6 +23,18 @@ dv.header(3, `Quest Progress for KAPPA`);
 dv.list(all);
 
 ```
+# Maps
+
+```dataview
+table 
+    Cover as "Cover", 
+    Services as "Services", 
+    Currencies as "Currencies", 
+	length(Quests) as "Total Quests"
+from "03_Creative_Projects/Escape_From_Tarkov/Traders"
+where Quests
+sort file.name asc
+```
 # Traders
 ```dataview
 table 
@@ -34,7 +46,6 @@ from "03_Creative_Projects/Escape_From_Tarkov/Traders"
 where Quests
 sort file.name asc
 ```
-
 
 
 
