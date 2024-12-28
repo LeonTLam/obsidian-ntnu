@@ -35,17 +35,10 @@ dv.list(all);
 ```
 `BUTTON[return]` 
 
-**Search by Name**
-`INPUT[text:inSearch]`
+| **Search by Name**     | **Filter by Map**                                                                                                                                                                                                                                            | **Filter by Trader**                                                                                                                                                                                                                                          | **Hide Completed Quests**     |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| `INPUT[text:inSearch]` | `INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect]` | `INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect2]` | `INPUT[toggle:hideCompleted]` |
 
-**Filter by Map**
-`INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect]`
-
-**Filter by Trader**
-`INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect2]`
-
-**Hide Completed Quests**
-`INPUT[toggle:hideCompleted]`
 ```dataview
 table 
     Maps as "Map", 
