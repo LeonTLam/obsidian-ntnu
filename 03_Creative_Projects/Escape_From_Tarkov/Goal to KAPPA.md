@@ -29,7 +29,7 @@ dv.list(all);
 table 
     Duration, 
     Players, 
-    length(filter(from("03_Creative_Projects/Escape_From_Tarkov/Quests"), q => contains(q.Maps, this.Maps))) as "Total Quests"
+    length(filter(from("03_Creative_Projects/Escape_From_Tarkov/Quests"), q => contains(q.Maps.file.name, this.Maps))) as "Total Quests"
 from "03_Creative_Projects/Escape_From_Tarkov/Maps"
 where Maps
 sort file.name asc
