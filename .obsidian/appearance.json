@@ -2,7 +2,8 @@
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "center_latex"
+    "center_latex",
+    "input_field"
   ],
   "accentColor": ""
 }
