@@ -7,7 +7,7 @@ Maps:
 Trader:
   - "[[Skier]]"
 Status:
-  - 🛑 Not Started
+  - ✅ Completed
 LvlReq:
   - "1"
 ---
