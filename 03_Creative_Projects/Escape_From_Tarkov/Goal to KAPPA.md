@@ -27,12 +27,11 @@ dv.list(all);
 
 ```dataview
 table 
-    Cover as "Cover", 
-    Services as "Services", 
-    Currencies as "Currencies", 
-	length(Quests) as "Total Quests"
-from "03_Creative_Projects/Escape_From_Tarkov/Traders"
-where Quests
+    Duration, 
+    Players, 
+    length(filter(from("03_Creative_Projects/Escape_From_Tarkov/Quests"), q => contains(q.Maps, this.Maps))) as "Total Quests"
+from "03_Creative_Projects/Escape_From_Tarkov/Maps"
+where Maps
 sort file.name asc
 ```
 # Traders
