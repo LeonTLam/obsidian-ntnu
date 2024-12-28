@@ -60,6 +60,7 @@ inSearch: ""
 inSelect:
   - All
 hideCompleted: false
+Cover: "![[Therapist_Portrait.webp]]"
 ---
 # Quests
 

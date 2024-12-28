@@ -55,6 +55,7 @@ inSearch: ""
 inSelect:
   - All
 hideCompleted: false
+Cover: "![[Skier_Portrait.webp]]"
 ---
 # Quests
 

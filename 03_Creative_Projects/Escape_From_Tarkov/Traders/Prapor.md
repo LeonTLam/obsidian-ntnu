@@ -30,6 +30,7 @@ inSearch: ""
 inSelect:
   - All
 hideCompleted: false
+Cover: "![[Prapor_Portrait.webp]]"
 ---
 # Quests
 

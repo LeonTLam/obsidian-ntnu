@@ -33,7 +33,6 @@ table
 from "03_Creative_Projects/Escape_From_Tarkov/Traders"
 where Quests
 sort file.name asc
-
 ```
 
 

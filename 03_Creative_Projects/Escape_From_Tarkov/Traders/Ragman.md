@@ -48,6 +48,7 @@ inSearch: ""
 inSelect:
   - All
 hideCompleted: false
+Cover: "![[Ragman_Portrait.webp]]"
 ---
 # Quests
 

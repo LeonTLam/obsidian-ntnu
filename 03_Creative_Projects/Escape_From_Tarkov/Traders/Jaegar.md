@@ -25,7 +25,7 @@ Services:
   - None
 Currencies:
   - Roubles (₽)
-Quests: 
+Quests:
   - "[[Acquaintance]]"
   - "[[Claustrophobia]]"
   - "[[Every Hunter Knows This]]"
@@ -75,6 +75,7 @@ inSearch: ""
 inSelect:
   - All
 hideCompleted: false
+Cover: "![[Jaeger_Portrait.webp]]"
 ---
 # Quests
 

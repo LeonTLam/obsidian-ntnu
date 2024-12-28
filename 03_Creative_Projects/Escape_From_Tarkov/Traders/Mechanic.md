@@ -23,7 +23,7 @@ Services:
 Currencies:
   - Euros (€)
   - Roubles (₽)
-Quests: 
+Quests:
   - "[[Saving the Mole]]"
   - "[[Gunsmith - Part 1]]"
   - "[[Introduction]]"
@@ -72,11 +72,11 @@ Quests:
   - "[[Gunsmith - Part 20]]"
   - "[[Gunsmith - Part 21]]"
   - "[[Gunsmith - Part 22]]"
-
 inSearch: ""
 inSelect:
   - All
 hideCompleted: false
+Cover: "![[Mechanic_Portrait.webp]]"
 ---
 # Quests
 

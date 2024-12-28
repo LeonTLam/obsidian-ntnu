@@ -65,6 +65,7 @@ Quests:
 inSelect: All
 hideCompleted: false
 inSearch: ""
+Cover: "![[Peacekeeper_Portrait.webp]]"
 ---
 # Quests
 

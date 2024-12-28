@@ -24,6 +24,7 @@ inSearch: ""
 inSelect:
   - All
 hideCompleted: false
+Cover: "![[Ref_Portrait.webp]]"
 ---
 
 ```meta-bind-embed
