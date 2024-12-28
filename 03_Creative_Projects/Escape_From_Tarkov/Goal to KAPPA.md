@@ -25,23 +25,13 @@ dv.list(all);
 ```
 # Maps
 ```dataview
-table 
-    Duration as "Duration",
-    Players as "PMCs",
-    length(filter(from("03_Creative_Projects/Escape_From_Tarkov/Quests"), q => contains(q.Maps, this.Maps))) as "Total Quests"
-from "03_Creative_Projects/Escape_From_Tarkov/Locations"
-where Maps
-sort file.name asc
+
 ```
 
 ```dataview
-table 
-    Duration as "Duration",
-    Players as "PMCs",
-    length(filter(from("03_Creative_Projects/Escape_From_Tarkov/Quests"), q => contains(q.Maps, this.file.name))) as "Total Quests"
+list 
 from "03_Creative_Projects/Escape_From_Tarkov/Locations"
-where Maps
-sort file.name asc
+where tags = "Map"
 ```
 # Traders
 ```dataview
