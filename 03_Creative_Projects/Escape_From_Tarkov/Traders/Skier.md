@@ -80,6 +80,8 @@ table
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
 where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND (Trader = this.Trader) AND ((this.hideCompleted = false) OR (this.hideCompleted = true AND !contains(Status, "Completed"))) and (this.inSearch = "" or contains(lower(file.name), lower(this.inSearch)))
+FLATTEN row["Trader"] as Trader
+FLATTEN row
 sort number(LvlReq) asc
 ```
 

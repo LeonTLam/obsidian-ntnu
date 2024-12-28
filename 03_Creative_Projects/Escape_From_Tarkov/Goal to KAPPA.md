@@ -23,26 +23,53 @@ dv.header(3, `Quest Progress for KAPPA`);
 dv.list(all);
 
 ```
+# Quests
+
+```meta-bind-embed
+[[META_BUTTONS]]
+```
+`BUTTON[return]` 
+
+**Search by Name**
+`INPUT[text:inSearch]`
+
+**Filter by Map**
+`INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect]`
+
+**Hide Completed Quests**
+`INPUT[toggle:hideCompleted]`
+```dataview
+table 
+    Maps as "Map", 
+    Trader as "Trader", 
+    Status as "Status (Completion)", 
+    LvlReq as "Level Requirement"
+from "03_Creative_Projects/Escape_From_Tarkov/Quests"
+where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND ((this.hideCompleted = false) OR (this.hideCompleted = true AND !contains(Status, "Completed"))) and (this.inSearch = "" or contains(lower(file.name), lower(this.inSearch)))
+sort number(LvlReq) asc
+```
+
 # Maps
 ```dataview
 table WITHOUT ID
-	Maps as "Location",
+	Map as "Locations",
     Duration as "Duration", 
     Players as "PMCs"
 from "03_Creative_Projects/Escape_From_Tarkov/Locations"
-
+FLATTEN row["Maps"] as Map
 sort file.name asc
 ```
-
 # Traders
 ```dataview
-table 
+table WITHOUT ID
+	Trader as "Traders",
     Cover as "Cover", 
     Services as "Services", 
     Currencies as "Currencies", 
 	length(Quests) as "Total Quests"
 from "03_Creative_Projects/Escape_From_Tarkov/Traders"
 where Quests
+FLATTEN row["Trader"] as Trader
 sort file.name asc
 ```
 
