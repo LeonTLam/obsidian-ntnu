@@ -27,7 +27,6 @@ dv.list(all);
 ```dataview
 table 
     Cover as "Cover", 
-    Trader as "Trader", 
     Services as "Services", 
     Currencies as "Currencies", 
 	length(Quests) as "Total Quests"
