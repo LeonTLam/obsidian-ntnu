@@ -25,13 +25,18 @@ dv.list(all);
 ```
 # Maps
 ```dataview
+table 
+    Duration as "Duration", 
+    Players as "PMCs"
+from "03_Creative_Projects/Escape_From_Tarkov/Locations"
 
+sort file.name asc
 ```
 
 ```dataview
 list 
 from "03_Creative_Projects/Escape_From_Tarkov/Locations"
-where tags = "Map"
+where contains(tags, "Map") AND contains(Maps.file.name, "The Lab")
 ```
 # Traders
 ```dataview
