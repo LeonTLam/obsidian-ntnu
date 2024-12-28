@@ -1,3 +1,8 @@
+---
+inSelect: All
+inSearch: ""
+hideCompleted: false
+---
 This document serves as a comprehensive guide for **Escape from Tarkov**, specifically tailored to help you unlock the coveted **Secure Container [[Kappa]]**. Inside, you'll find essential details about the game's [[Goal to KAPPA#Maps|maps]], key [[Goal to KAPPA#Traders|traders]], and crucial items required to complete the challenging [[Goal to KAPPA#Quests|quests]] leading to Kappa. Use this guide to streamline your journey and maximize your efficiency in achieving this ultimate milestone.
 ```dataviewjs
 // CONFIGURATION
@@ -36,6 +41,9 @@ dv.list(all);
 **Filter by Map**
 `INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect]`
 
+**Filter by Trader**
+`INPUT[inlineSelect(option(The Lab), option(Ground Zero), option(Streets of Tarkov), option(Interchange), option(Customs), option(Factory), option(Woods), option(Lighthouse), option(Reserve), option(Shoreline), option(Anywhere), option(All)):inSelect2]`
+
 **Hide Completed Quests**
 `INPUT[toggle:hideCompleted]`
 ```dataview
@@ -46,6 +54,10 @@ table
     LvlReq as "Level Requirement"
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
 where (this.inSelect = "" or this.inSelect = "All") OR contains(Maps.file.name, this.inSelect) AND ((this.hideCompleted = false) OR (this.hideCompleted = true AND !contains(Status, "Completed"))) and (this.inSearch = "" or contains(lower(file.name), lower(this.inSearch)))
+FLATTEN row["Trader"] as Trader
+FLATTEN row["Maps"] as Maps
+FLATTEN row["Status"] as Status
+FLATTEN row["LvlReq"] as LvlReq
 sort number(LvlReq) asc
 ```
 
