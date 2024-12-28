@@ -25,7 +25,8 @@ dv.list(all);
 ```
 # Maps
 ```dataview
-table 
+table WITHOUT ID
+	Maps as "Location",
     Duration as "Duration", 
     Players as "PMCs"
 from "03_Creative_Projects/Escape_From_Tarkov/Locations"
@@ -33,11 +34,6 @@ from "03_Creative_Projects/Escape_From_Tarkov/Locations"
 sort file.name asc
 ```
 
-```dataview
-list 
-from "03_Creative_Projects/Escape_From_Tarkov/Locations"
-where contains(tags, "Map") AND contains(Maps.file.name, "The Lab")
-```
 # Traders
 ```dataview
 table 
