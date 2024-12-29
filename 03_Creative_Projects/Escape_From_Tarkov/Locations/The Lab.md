@@ -49,12 +49,9 @@ inSearch: ""
 |                                   | **Second Floor** |            |                                        |
 | **Cargo Elevator**                | ✅                | ✅          | Power in basement G1                   |
 # Quests
-
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
-`BUTTON[return]` 
-
 **Search by Name**
 `INPUT[text:inSearch]`
 

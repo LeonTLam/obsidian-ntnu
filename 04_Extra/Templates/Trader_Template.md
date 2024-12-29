@@ -29,12 +29,9 @@ await tp.file.move(parentFolder + title)
 _%>
 
 # Quests
-
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
-`BUTTON[return]` 
-
 **Search by Name**
 `INPUT[text:inSearch]`
 

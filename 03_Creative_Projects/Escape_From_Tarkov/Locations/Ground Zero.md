@@ -41,12 +41,9 @@ hideCompleted: false
 | Transit to [[Streets of Tarkov]] | PMC<br>SCAV | ✅            | ❌          | Available 1 minute after raid start; located next to the Mira Ave extraction. |
 
 # Quests
-
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
-`BUTTON[return]` 
-
 **Search by Name**
 `INPUT[text:inSearch]`
 

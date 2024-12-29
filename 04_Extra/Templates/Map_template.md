@@ -45,12 +45,9 @@ Conditions to Extractions
 
 Point of Interest
 # Quests
-
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
-`BUTTON[return]` 
-
 **Search by Name**
 `INPUT[text:inSearch]`
 

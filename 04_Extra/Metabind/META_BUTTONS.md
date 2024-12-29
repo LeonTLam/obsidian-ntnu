@@ -1,7 +1,29 @@
+```meta-bind-button
+label: Go Back
+icon: ""
+hidden: true
+class: ""
+tooltip: ""
+id: return
+style: default
+actions:
+  - type: command
+    command: app:go-back
+```
 
+```meta-bind-button
+label: Main Page
+icon: ""
+hidden: True
+class: ""
+tooltip: ""
+id: "main"
+style: primary
+actions:
+  - type: open
+    link: "[[Goal to KAPPA]]"
+    newTab: false
+```
 
-
-
-
-| ```meta-bind-button<br>label: Main Page<br>icon: ""<br>hidden: false<br>class: ""<br>tooltip: ""<br>id: ""<br>style: primary<br>actions:<br>  - type: open<br>    link: "[[Goal to KAPPA]]"<br>    newTab: false<br>``` | ```meta-bind-button<br>label: Go Back<br>icon: ""<br>hidden: false<br>class: ""<br>tooltip: ""<br>id: return<br>style: default<br>actions:<br>  - type: command<br>    command: app:go-back<br>``` |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `BUTTON[main]` | `BUTTON[return]` |
+| -------------- | ---------------- |

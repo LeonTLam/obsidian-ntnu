@@ -63,12 +63,9 @@ hideCompleted: false
 Cover: "![[Therapist_Portrait.webp]]"
 ---
 # Quests
-
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
-`BUTTON[return]` 
-
 **Search by Name**
 `INPUT[text:inSearch]`
 

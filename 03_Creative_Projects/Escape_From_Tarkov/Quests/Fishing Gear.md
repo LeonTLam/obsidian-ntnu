@@ -13,12 +13,9 @@ LvlReq:
 Item:
 ---
 # Quest
-
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
-`BUTTON[return]` 
-
 Desc:: - First Task
 Desc:: - Second Task
 ## Location
