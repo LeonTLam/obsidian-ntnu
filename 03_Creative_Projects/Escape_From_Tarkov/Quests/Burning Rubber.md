@@ -6,8 +6,7 @@ Maps:
   - "[[Ground Zero]]"
 Trader:
   - "[[Skier]]"
-Status:
-  - 🛑 Not Started
+Status: ➡️ In Progress
 LvlReq:
   - "1"
 ---
@@ -15,7 +14,9 @@ LvlReq:
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
-
+```meta-bind-embed
+[[META_QUEST]]
+```
 Desc::Use paid vehicle extraction on [[Ground Zero]]
 ## Location
 
