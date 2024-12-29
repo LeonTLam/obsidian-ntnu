@@ -17,6 +17,9 @@ Item:
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
+```meta-bind-embed
+[[META_QUEST]]
+```
 Desc::Find Sanitar's workplace in [[The Lab]]
 Desc::Obtain information about Sanitar's work (Blue flash drive)
 Desc::Hand over Flash drive marked with blue tape to [[Peacekeeper]]
