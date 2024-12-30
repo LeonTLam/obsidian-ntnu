@@ -6,8 +6,7 @@ Maps:
   - "[[The Lab]]"
 Trader:
   - "[[Peacekeeper]]"
-Status:
-  - 🛑 Not Started
+Status: 🛑 Not Started
 LvlReq:
   - "23"
 Item:

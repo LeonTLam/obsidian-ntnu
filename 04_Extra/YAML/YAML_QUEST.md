@@ -4,10 +4,6 @@ tags:
 Kappa: true
 Maps: 
 Trader: 
-Status:
-  - 🛑 Not Started
-  - ➡️ In Progress
-  - ✅ Completed
 LvlReq:
   - "1"
   - "2"

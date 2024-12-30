@@ -1,5 +1,5 @@
 ---
-Status: ➡️ In Progress
+Status: []
 ---
 ```meta-bind-button
 label: 🛑 Not Started

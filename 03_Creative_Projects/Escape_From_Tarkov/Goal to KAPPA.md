@@ -30,7 +30,6 @@ dv.list(all);
 
 ```
 # Quests
-
 ```meta-bind-embed
 [[META_BUTTONS]]
 ```
@@ -48,9 +47,7 @@ table
 
     Status as "Status (Completion)",
 
-    LvlReq as "Level Requirement",
-
-	meta() as Test
+    LvlReq as "Level Requirement"
 
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
 

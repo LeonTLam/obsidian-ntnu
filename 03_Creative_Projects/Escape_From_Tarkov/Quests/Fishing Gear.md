@@ -6,11 +6,10 @@ Maps:
   - "[[Shoreline]]"
 Trader:
   - "[[Peacekeeper]]"
-Status:
-  - 🛑 Not Started
+Status: 🛑 Not Started
 LvlReq:
   - "10"
-Item:
+Item: 
 ---
 # Quest
 ```meta-bind-embed

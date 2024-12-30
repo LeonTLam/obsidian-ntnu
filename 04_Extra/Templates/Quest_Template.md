@@ -4,8 +4,7 @@ tags:
 Kappa: true
 Maps: 
 Trader: 
-Status:
-  - 🛑 Not Started
+Status: 🛑 Not Started
 LvlReq: 
 Item: 
 Enemies: 
