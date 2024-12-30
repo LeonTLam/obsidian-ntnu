@@ -24,5 +24,10 @@ Item:
 * Find Sanitar's workplace in [[The Lab]]
 * Obtain information about Sanitar's work (Blue flash drive)
 * Hand over Flash drive marked with blue tape to [[Peacekeeper]]
+
+## Guide
+
+`= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
+
 ## Location
 

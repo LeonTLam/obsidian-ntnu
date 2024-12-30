@@ -24,5 +24,4 @@ Bosses:
 * Task2
 ## Location
 
-[Test](https://escapefromtarkov.fandom.com/wiki/Test)
 
