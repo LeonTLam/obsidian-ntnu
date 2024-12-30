@@ -21,11 +21,10 @@ hideCompleted: false
 ---
 # Map
 
-Image of Map
-
+![[Shoreline3d.webp]]
 ## Spawns
 
-IMAGE of SPAWNS
+![[Pasted image 20241230143840.png]]
 
 ## Extractions
 
