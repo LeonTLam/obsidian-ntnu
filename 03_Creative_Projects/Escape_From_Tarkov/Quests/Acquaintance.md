@@ -6,13 +6,12 @@ Maps:
   - Anywhere
 Trader:
   - "[[Jaegar]]"
-Status:
-  - 🛑 Not Started
+Status: 🛑 Not Started
 LvlReq:
   - "2"
 Item: 
 Enemies: 
-Bosses:
+Bosses: 
 ---
 # Quest
 ```meta-bind-embed
@@ -23,11 +22,18 @@ Bosses:
 ```
 ## Task
 
-Find 3 Iskra ration packs in raid
-Find 2 Packs of instant noodles in raid
-Find 2 Cans of beef stew (Large) in raid
-Hand over the 3 found in raid Iskra ration packs
-Hand over the 2 found in raid Packs of instant noodles
-Hand over the 2 found in raid Cans of beef stew (Large)
+- Find 3 [[Iskra ration packs]] in raid
+- Find 2 [[Packs of instant noodles]] in raid
+- Find 2 [[Cans of beef stew (Large)]] in raid
+- Hand over the 3 found in raid [[Iskra ration packs]]
+- Hand over the 2 found in raid [[Packs of instant noodles]]
+- Hand over the 2 found in raid [[Cans of beef stew (Large)]]
 ## Location
+
+[Guide]](https://escapefromtarkov.fandom.com/wiki/<% tp.file.title %>)
+
+
+
+
+
 
