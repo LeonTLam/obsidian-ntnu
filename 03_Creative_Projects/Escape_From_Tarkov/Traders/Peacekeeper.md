@@ -26,7 +26,7 @@ Services:
 Currencies:
   - Dollars ($)
 Quests:
-  - "[[Fishing Gear]]"
+  - "[[Fishing_Gear]]"
   - "[[Scrap Metal]]"
   - "[[Tigr Safari]]"
   - "[[Eagle Eye]]"
@@ -56,12 +56,11 @@ Quests:
   - "[[Wet Job - Part 6]]"
   - "[[Overpopulation]]"
   - "[[Samples]]"
-  - "[[TerraGroup Employee]]"
+  - "[[TerraGroup_Employee]]"
   - "[[Lend-Lease - Part 2]]"
   - "[[One Less Loose End (choice)]]"
   - "[[Peacekeeping Mission]]"
   - "[[The Guide]]"
-
 inSelect: All
 hideCompleted: false
 inSearch: ""

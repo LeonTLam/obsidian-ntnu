@@ -25,7 +25,7 @@ Currencies:
   - Dollars ($)
   - Euros (€)
 Quests:
-  - "[[Burning Rubber]]"
+  - "[[Burning_Rubber]]"
   - "[[Supplier]]"
   - "[[The Extortionist]]"
   - "[[Golden Swag]]"
