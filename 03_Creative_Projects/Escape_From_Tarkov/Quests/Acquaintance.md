@@ -30,7 +30,7 @@ Bosses:
 - Hand over the 2 found in raid [[Cans of beef stew (Large)]]
 ## Location
 
-[Guide]](https://escapefromtarkov.fandom.com/wiki/<% tp.file.title %>)
+
 
 
 

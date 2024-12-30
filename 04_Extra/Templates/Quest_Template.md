@@ -37,5 +37,9 @@ _%>
 
 * Task1
 * Task2
+
+## Guide
+
+[Guide](https://escapefromtarkov.fandom.com/wiki/<% tp.file.title %>)
 ## Location
 
