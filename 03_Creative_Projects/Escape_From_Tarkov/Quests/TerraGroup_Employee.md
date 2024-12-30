@@ -26,9 +26,6 @@ Item:
 * Hand over Flash drive marked with blue tape to [[Peacekeeper]]
 
 ## Guide
-
 `= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
-
-`= "[" + this.file.name.replace(" ", "_") + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name.replace(" ", "_"))`
 ## Location
 

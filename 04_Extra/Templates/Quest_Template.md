@@ -39,7 +39,6 @@ _%>
 * Task2
 
 ## Guide
-
-[Guide](https://escapefromtarkov.fandom.com/wiki/<% tp.file.title %>)
+`= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
 ## Location
 

@@ -28,6 +28,9 @@ Bosses:
 - Hand over the 3 found in raid [[Iskra ration packs]]
 - Hand over the 2 found in raid [[Packs of instant noodles]]
 - Hand over the 2 found in raid [[Cans of beef stew (Large)]]
+
+## Guide
+`= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
 ## Location
 
 

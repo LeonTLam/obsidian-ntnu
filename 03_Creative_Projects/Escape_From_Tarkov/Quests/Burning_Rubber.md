@@ -20,6 +20,9 @@ LvlReq:
 ## Task
 
 * Use paid vehicle extraction on [[Ground Zero]]
+
+## Guide
+`= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
 ## Location
 
 **[[Ground Zero#Extractions|Police Cordon V-Ex]]**
