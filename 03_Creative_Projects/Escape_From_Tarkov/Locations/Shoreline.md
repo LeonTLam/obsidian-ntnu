@@ -3,11 +3,17 @@ tags:
   - Map
 Maps:
   - "[[Shoreline]]"
-Bosses: 
-Quests: 
-Duration: 
-Players: 
-Enemies: 
+Bosses:
+  - "[[Sanitar]]"
+  - "[[Big Pipe]]"
+  - "[[Bird Eye]]"
+Duration:
+  - 45 Min
+Players:
+  - 10-14
+Enemies:
+  - Cultists
+  - Scavs
 inSelect:
   - All
 inSearch: ""

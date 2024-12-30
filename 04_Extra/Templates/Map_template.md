@@ -1,9 +1,8 @@
 ---
 tags:
   - Map
-Maps: []
+Maps: 
 Bosses: 
-Quests: 
 Duration: 
 Players: 
 Enemies: 
