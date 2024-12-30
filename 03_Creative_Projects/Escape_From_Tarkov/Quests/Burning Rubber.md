@@ -17,7 +17,9 @@ LvlReq:
 ```meta-bind-embed
 [[META_QUEST]]
 ```
-Desc::Use paid vehicle extraction on [[Ground Zero]]
+## Task
+
+* Use paid vehicle extraction on [[Ground Zero]]
 ## Location
 
 **[[Ground Zero#Extractions|Police Cordon V-Ex]]**

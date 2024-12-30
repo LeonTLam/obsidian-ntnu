@@ -33,7 +33,9 @@ _%>
 ```meta-bind-embed
 [[META_QUEST]]
 ```
-Desc::First Task
-Desc::Second Task
+## Task
+
+* Task1
+* Task2
 ## Location
 

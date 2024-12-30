@@ -18,7 +18,8 @@ Item:
 ```meta-bind-embed
 [[META_QUEST]]
 ```
-Desc:: - First Task
-Desc:: - Second Task
+## Task
+
+
 ## Location
 
