@@ -30,7 +30,22 @@ hideCompleted: false
 
 ![[ShorelineExtract.png]]
 
-Conditions to Extractions
+| Extraction/Transit Name   | Faction     | Always Available | Single-Use | Requirements                                         | Notes                                       |
+| ------------------------- | ----------- | ---------------- | ---------- | ---------------------------------------------------- | ------------------------------------------- |
+| Admin Basement            | Scav        | ✅                | ❌          | None                                                 |                                             |
+| Climber's Trail           | PMC         | ✅                | ❌          | Red Rebel ice pick, Paracord, No armor vest equipped |                                             |
+| East Wing Gym Entrance    | Scav        | ✅                | ❌          | None                                                 |                                             |
+| Lighthouse                | Scav        | ✅                | ❌          | None                                                 |                                             |
+| Old Bunker                | Scav        | ✅                | ❌          | None                                                 |                                             |
+| Path to Lighthouse        | PMC         | ✅                | ❌          | None                                                 |                                             |
+| Pier Boat                 | PMC         | ✅                | ❌          | Green flare = Open                                   |                                             |
+| Railway Bridge            | PMC         | ✅                | ❌          | None                                                 |                                             |
+| Road to Customs           | SCAV<br>PMC | ✅                | ❌          | None                                                 |                                             |
+| Road to North V-Ex        | PMC         | ✅                | ✅          | Payment per player                                   | Max 5 players; fee influenced by Scav karma |
+| Ruined Road               | Scav        | ✅                | ❌          | None                                                 |                                             |
+| Smuggler's Path (Co-op)   | SCAV<br>PMC | ✅                | ❌          | Scav and PMC present                                 |                                             |
+| Tunnel                    | PMC         | ✅                | ❌          | None                                                 |                                             |
+| Transit to [[Lighthouse]] | SCAV<br>PMC | ✅                | ❌          | Accessible 1 minute after raid start                 | In front of Path to Lighthouse extraction   |
 
 ## POIs
 
