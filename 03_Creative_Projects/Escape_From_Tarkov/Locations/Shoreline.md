@@ -24,11 +24,11 @@ hideCompleted: false
 ![[Shoreline3d.webp]]
 ## Spawns
 
-![[Pasted image 20241230143840.png]]
+![[ShorelineSpawns.png]]
 
 ## Extractions
 
-IMAGE of EXTRACTIONS
+![[ShorelineExtract.png]]
 
 Conditions to Extractions
 
