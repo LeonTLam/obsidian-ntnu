@@ -5,12 +5,12 @@ Kappa: true
 Maps:
   - "[[Ground Zero]]"
 Trader:
-  - "[[Prapor]]"
+  - "[[Mechanic]]"
 Status: 🛑 Not Started
 LvlReq:
   - "1"
 Item:
-  - "[[Wine bottle]]"
+  - "[[Hard drive]]"
 Enemies: 
 Bosses:
 ---
@@ -23,12 +23,14 @@ Bosses:
 ```
 ## Task
 
-- Locate the liquor store on [[Ground Zero]]
-- Locate and obtain the [[wine bottle]] in the store
-- Hand over the [[wine bottle]]
+- Locate the USEC PMC group at the parking lot of the TerraGroup complex on [[Ground Zero]]
+- Locate the lab scientist on [[Ground Zero]]
+- Access the scientist's office
+- Locate and obtain the [[Hard Drive|scientist's hard drive]]
+- Hand over the [[hard drive]]
 
 ## Guide
 `= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
 ## Location
 
-![[Quest_Luxurious_Life_Map.webp]]
+![[Quest_Saving_the_Mole_Map.webp]]

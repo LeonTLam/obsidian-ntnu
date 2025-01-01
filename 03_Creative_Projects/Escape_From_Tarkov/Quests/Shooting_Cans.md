@@ -9,9 +9,10 @@ Trader:
 Status: 🛑 Not Started
 LvlReq:
   - "1"
-Item:
-  - "[[Wine bottle]]"
-Enemies: 
+Item: 
+Enemies:
+  - PMCs
+  - Scavs
 Bosses:
 ---
 # Quest
@@ -23,12 +24,11 @@ Bosses:
 ```
 ## Task
 
-- Locate the liquor store on [[Ground Zero]]
-- Locate and obtain the [[wine bottle]] in the store
-- Hand over the [[wine bottle]]
+- Locate the Utyos machine gun on [[Ground Zero]]
+- Locate the AGS grenade launcher on Ground Zero
+- Eliminate any 5 targets on Ground Zero
 
 ## Guide
 `= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
 ## Location
 
-![[Quest_Luxurious_Life_Map.webp]]
