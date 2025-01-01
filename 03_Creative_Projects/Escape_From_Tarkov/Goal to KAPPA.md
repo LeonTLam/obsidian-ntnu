@@ -46,7 +46,7 @@ table
 
     Status as "Status (Completion)",
 
-    LvlReq as "Level Requirement"
+    LvlReq as "Level Req."
 
 from "03_Creative_Projects/Escape_From_Tarkov/Quests"
 

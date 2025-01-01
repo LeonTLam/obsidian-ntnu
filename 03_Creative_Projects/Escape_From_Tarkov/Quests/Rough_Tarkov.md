@@ -29,3 +29,8 @@ Bosses:
 `= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
 ## Location
 
+**Heavily mined** area on [[Woods]]
+![[Quest_Rough_Tarkov_Woods_Map.webp]]
+
+**Claymore mine** on [[Ground Zero]]
+![[Quest_Rough_Tarkov_Ground_Zero_Map.webp]]
