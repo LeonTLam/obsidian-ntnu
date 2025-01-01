@@ -34,7 +34,7 @@ Quests:
   - "[[Shortage]]"
   - "[[Acquaintance]]"
   - "[[Background Check]]"
-  - "[[Claustrophobia]]"
+  - "[[03_Creative_Projects/Escape_From_Tarkov/Quests/Claustrophobia]]"
   - "[[Every Hunter Knows This]]"
   - "[[Gunsmith - Part 1]]"
   - "[[Introduction]]"
