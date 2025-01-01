@@ -3,16 +3,15 @@ tags:
   - Quest
 Kappa: true
 Maps:
+  - "[[Woods]]"
   - "[[Ground Zero]]"
 Trader:
-  - "[[Prapor]]"
+  - "[[Jaegar]]"
 Status: 🛑 Not Started
 LvlReq:
-  - "1"
+  - "2"
 Item: 
-Enemies:
-  - PMCs
-  - Scavs
+Enemies: 
 Bosses:
 ---
 # Quest
@@ -24,13 +23,9 @@ Bosses:
 ```
 ## Task
 
-- Locate the Utyos machine gun on [[Ground Zero]]
-- Locate the AGS grenade launcher on Ground Zero
-- Eliminate any 5 targets on Ground Zero
-
+- Locate the **heavily mined** area on [[Woods]]
+- Locate the **Claymore mine** on [[Ground Zero]]
 ## Guide
 `= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
 ## Location
 
-**Third Floor**
-![[Quest_Shooting_Cans_Map.webp]]

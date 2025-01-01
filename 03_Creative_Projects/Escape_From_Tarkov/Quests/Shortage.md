@@ -3,16 +3,15 @@ tags:
   - Quest
 Kappa: true
 Maps:
-  - "[[Ground Zero]]"
+  - Anywhere
 Trader:
-  - "[[Prapor]]"
+  - "[[Therapist]]"
 Status: 🛑 Not Started
 LvlReq:
   - "1"
-Item: 
-Enemies:
-  - PMCs
-  - Scavs
+Item:
+  - "[[Salewa First Aid Kit]]"
+Enemies: 
 Bosses:
 ---
 # Quest
@@ -24,13 +23,10 @@ Bosses:
 ```
 ## Task
 
-- Locate the Utyos machine gun on [[Ground Zero]]
-- Locate the AGS grenade launcher on Ground Zero
-- Eliminate any 5 targets on Ground Zero
+- Find 3 [[Salewa first aid kit]] ==in raid==
+- Hand over the 3 first aid kits
 
 ## Guide
 `= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
 ## Location
 
-**Third Floor**
-![[Quest_Shooting_Cans_Map.webp]]
