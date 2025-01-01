@@ -3,16 +3,15 @@ tags:
   - Quest
 Kappa: true
 Maps:
-  - Anywhere
+  - "[[Ground Zero]]"
 Trader:
-  - "[[Prapor]]"
+  - "[[Therapist]]"
 Status: 🛑 Not Started
 LvlReq:
   - "1"
 Item:
-  - "[[MP-133]]"
-Enemies:
-  - Scavs
+  - "[[Medicine Items]]"
+Enemies: 
 Bosses:
 ---
 # Quest
@@ -24,10 +23,11 @@ Bosses:
 ```
 ## Task
 
-* Eliminate 5 **Scavs** all over the Tarkov territory
-* Obtain and hand over 2 [[MP-133]] 12ga shotguns
+Locate the Emercom station on [[Ground Zero]]
+Hand over any 3 found in raid [[medicine items]]
 
 ## Guide
 `= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
 ## Location
 
+![[Quest_First_in_Line.png]]

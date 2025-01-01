@@ -3,16 +3,14 @@ tags:
   - Quest
 Kappa: true
 Maps:
-  - Anywhere
+  - "[[Ground Zero]]"
 Trader:
   - "[[Prapor]]"
 Status: 🛑 Not Started
 LvlReq:
   - "1"
-Item:
-  - "[[MP-133]]"
-Enemies:
-  - Scavs
+Item: 
+Enemies: 
 Bosses:
 ---
 # Quest
@@ -24,8 +22,8 @@ Bosses:
 ```
 ## Task
 
-* Eliminate 5 **Scavs** all over the Tarkov territory
-* Obtain and hand over 2 [[MP-133]] 12ga shotguns
+* Task1
+* Task2
 
 ## Guide
 `= "[" + this.file.name + "](https://escapefromtarkov.fandom.com/wiki/" + this.file.name + ")"`
