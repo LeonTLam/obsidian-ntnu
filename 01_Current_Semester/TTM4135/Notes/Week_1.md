@@ -8,6 +8,7 @@
 
 ## Key Points
 
+### Materials and Exam prep
 Materials for **lectures**, **exercises** and **assessments** on BB
 	PDF of schedule (incoming)
 
@@ -26,10 +27,31 @@ Useful resources online, will be mentioned on Blackboard
 			* Etter fredag og du har en uke til å gjennomføre, quiz om det som ble dekket ila. uken under forelesning (individuell)
 		* Practical cryptoanalysis exercise (10%)
 			* Kommer om noen uker, frist en eller to uker
-	* Lab and report (20%)
+	* Lab milestones and report (20%)
 		* Tre uker med arbeid, skrive rapport
+		* Gjøre som mange "milestones" som du klarer
+	* Written exam (60%)
+
+
+
+### Lecture times
+
+Mandag 12:15 - 14:00
+Fredag 8:15 - 10:00
+
+Fredag 10:15 - 11:00 blir brukt til andre ting, ikke en forelesning
+
+Følg med på BB, timer og tider kan endres (se SCHEDULE)
+
+LAB
+* Tre uker fra og med etter forelesningene er gjennomført
+* Kanskje en uke pause etter forelesninger, så LAB (se SCHEDULE)
+
 ## Notes
-- Additional notes or reminders.
+- Forelesninger blir ikke lastet opp
+- Fleste topics of formater er uendret
+- Små endringer i forelesning materiale
+- 
 
 ---
 
