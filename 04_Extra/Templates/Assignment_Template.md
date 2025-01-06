@@ -24,7 +24,7 @@ let course = selectedCourse;
 await tp.file.move("/01_Current_Semester/" + course + "/Assignments/" + title)
 
 _%>
-# Assignments for [[<% course %>]]
+# Assignments for <% "[[" +course+ "]]" %>
 
 ### Details:
 - **Due Date:** YYYY-MM-DD

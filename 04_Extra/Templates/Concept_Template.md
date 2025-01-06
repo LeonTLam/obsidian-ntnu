@@ -24,7 +24,7 @@ let course = selectedCourse;
 await tp.file.move("/01_Current_Semester/" + course + "/Concepts/" + title)
 
 _%>
-
+# Concept for <% "[[" +course+ "]]" %>
 ## Definition:
 - Brief definition or description.
 
