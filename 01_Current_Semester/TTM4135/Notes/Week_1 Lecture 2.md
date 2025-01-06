@@ -15,6 +15,7 @@
 
 ### Factorisation
 ### Greatest Common Divisor (GCD)
+### Euclidean Algorithm
 
 
 ---
