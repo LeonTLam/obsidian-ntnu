@@ -32,8 +32,6 @@ Useful resources online, will be mentioned on Blackboard
 		* Gjøre som mange "milestones" som du klarer
 	* Written exam (60%)
 
-
-
 ### Lecture times
 
 Mandag 12:15 - 14:00
@@ -47,8 +45,11 @@ LAB
 * Tre uker fra og med etter forelesningene er gjennomført
 * Kanskje en uke pause etter forelesninger, så LAB (se SCHEDULE)
 
+### Who Needs Cryptography and Network Security
+
+Se PDF av forelesning på BlackBoard
 ## Notes
-- Forelesninger blir ikke lastet opp
+- Recordings av forelesning blir ikke lastet opp
 - Fleste topics of formater er uendret
 - Små endringer i forelesning materiale
 - 
