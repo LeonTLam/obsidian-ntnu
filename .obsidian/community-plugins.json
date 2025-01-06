@@ -4,9 +4,7 @@
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
-  "obsidian-file-color",
-  "obsidian-tasks-plugin",
   "dataview",
-  "obsidian-meta-bind-plugin",
-  "tinychart"
+  "obsidian-tasks-plugin",
+  "obsidian-meta-bind-plugin"
 ]

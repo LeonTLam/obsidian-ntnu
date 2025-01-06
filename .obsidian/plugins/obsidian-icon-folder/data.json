@@ -6,11 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBug",
-      "⏏",
-      "▶",
-      "LiBoxes",
-      "LiAlbum"
+      "⚠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,68 +29,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "04_Extra": {
-    "iconName": "LiStar",
-    "iconColor": "#eeff00"
-  },
-  "04_Extra/Templates": {
-    "iconName": "LiLayoutTemplate",
-    "iconColor": "#f7cf02"
-  },
-  "04_Extra/Excalidraw": "🖌",
-  "02_Archive": {
-    "iconName": "LiArchive",
-    "iconColor": "#fb1fff"
-  },
-  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Baseband Signal.md": "⚠",
-  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Carrier Wave.md": "⚠",
-  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Medium Access Control (MAC).md": "⚠",
-  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Fiber Optics.md": "⚠",
-  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Modulation.md": "⚠",
-  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Multiplexing.md": "⚠",
-  "02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/The Nyquist Theory.md": "⚠",
-  "03_Creative_Projects": {
-    "iconName": "LiPaintbrush",
-    "iconColor": "#3cbe74"
-  },
-  "01_Current_Semester": {
-    "iconName": "LiSchool",
-    "iconColor": "#00e1ff"
-  },
-  "README.md": "🗒",
-  "01_Current_Semester/Second_Semester.md": "📚",
-  "04_Extra/YAML": "🧰",
-  "03_Creative_Projects/Revy_Nettside": {
-    "iconName": "LiNewspaper",
-    "iconColor": "#3ac576"
-  },
-  "03_Creative_Projects/Escape_From_Tarkov": {
-    "iconName": "LiShieldAlert",
-    "iconColor": "#32a966"
-  },
-  "03_Creative_Projects/Escape_From_Tarkov/Locations": {
-    "iconName": "LiMapPin",
-    "iconColor": "#0cad01"
-  },
-  "03_Creative_Projects/Escape_From_Tarkov/Quests": {
-    "iconName": "LiListTodo",
-    "iconColor": "#00bd26"
-  },
-  "03_Creative_Projects/Escape_From_Tarkov/Traders": {
-    "iconName": "LiStore",
-    "iconColor": "#009419"
-  },
-  "03_Creative_Projects/Escape_From_Tarkov/Resources": {
-    "iconName": "LiAlbum",
-    "iconColor": "#039d01"
-  },
-  "03_Creative_Projects/Escape_From_Tarkov/Items": {
-    "iconName": "LiBoxes",
-    "iconColor": "#009402"
-  },
-  "04_Extra/Metabind": {
-    "iconName": "LiBug",
-    "iconColor": "#949e00"
   }
 }
