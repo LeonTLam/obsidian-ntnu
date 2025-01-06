@@ -2,7 +2,7 @@
 const hasTitle = !tp.file.title.startsWith("Untitl");
 let title;
 if (!hasTitle) {
-	title = await tp.system.prompt("Give the concept a Title");
+	title = await tp.system.prompt("Give the Exam a Title");
 	await tp.file.rename(title);
 } else {
 	title = tp.file.title;
@@ -29,7 +29,7 @@ _%>
 #### **Exam Details**
 
 - **Title**: [Enter Exam Title]
-- **Course**: **<% course %>**
+- **Course**: **<% "[[" + course + "]]" %>**
 - **Due Date**: [Enter Due Date]
 - **Description**: [Provide a brief description of the exam, including its purpose, format, and any important details.]
 
@@ -37,7 +37,7 @@ _%>
 
 #### **Progress**
 
-- [ ] Review notes from lectures 🔽 
+- [ ] Review notes from lectures 🔽
 - [ ] Practice past exams 🔼 
 - [ ] Create a summary of key topics 🔼 
 
