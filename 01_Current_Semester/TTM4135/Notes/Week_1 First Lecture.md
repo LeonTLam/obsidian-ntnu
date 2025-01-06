@@ -52,6 +52,11 @@ Se PDF av forelesning på BlackBoard
 ### Role of Cryptography and Information Security
 
 Se PDF av forelesning på BlackBoard
+
+### Course Outline
+
+Se PDF av forelesning på BB
+###
 ## Notes
 - Recordings av forelesning blir ikke lastet opp
 - Fleste topics of formater er uendret
