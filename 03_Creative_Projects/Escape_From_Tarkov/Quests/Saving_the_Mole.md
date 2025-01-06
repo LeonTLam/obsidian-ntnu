@@ -6,13 +6,13 @@ Maps:
   - "[[Ground Zero]]"
 Trader:
   - "[[Mechanic]]"
-Status: 🛑 Not Started
+Status: ✅ Completed
 LvlReq:
   - "1"
 Item:
   - "[[Hard drive]]"
 Enemies: 
-Bosses:
+Bosses: 
 ---
 # Quest
 ```meta-bind-embed

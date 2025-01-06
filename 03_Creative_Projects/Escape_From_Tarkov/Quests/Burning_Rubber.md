@@ -6,7 +6,7 @@ Maps:
   - "[[Ground Zero]]"
 Trader:
   - "[[Skier]]"
-Status: 🛑 Not Started
+Status: ✅ Completed
 LvlReq:
   - "1"
 ---

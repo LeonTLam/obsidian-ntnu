@@ -6,13 +6,13 @@ Maps:
   - "[[Ground Zero]]"
 Trader:
   - "[[Therapist]]"
-Status: 🛑 Not Started
+Status: ✅ Completed
 LvlReq:
   - "1"
 Item:
   - "[[Medicine Items]]"
 Enemies: 
-Bosses:
+Bosses: 
 ---
 # Quest
 ```meta-bind-embed
