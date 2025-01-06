@@ -2,7 +2,7 @@
 const hasTitle = !tp.file.title.startsWith("Untitl");
 let title;
 if (!hasTitle) {
-	title = await tp.system.prompt("Give the concept a Title");
+	title = await tp.system.prompt("Give the Daily Note a Title");
 	await tp.file.rename(title);
 } else {
 	title = tp.file.title;
@@ -24,7 +24,7 @@ let course = selectedCourse;
 await tp.file.move("/01_Current_Semester/" + course + "/Notes/" + title)
 
 _%>
-# <% tp.date.now("DD-MMM-YYYY") %> Daily Note
+# <% tp.date.now("DD-MMM-YYYY") %> Daily Note for <% "[[" +course+ "]]" %>
 
 ## Topics Covered
 - Topic 1

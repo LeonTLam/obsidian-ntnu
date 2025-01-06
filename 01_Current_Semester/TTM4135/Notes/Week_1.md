@@ -48,6 +48,10 @@ LAB
 ### Who Needs Cryptography and Network Security
 
 Se PDF av forelesning på BlackBoard
+
+### Role of Cryptography and Information Security
+
+Se PDF av forelesning på BlackBoard
 ## Notes
 - Recordings av forelesning blir ikke lastet opp
 - Fleste topics of formater er uendret
