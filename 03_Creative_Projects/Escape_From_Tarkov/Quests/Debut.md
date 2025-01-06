@@ -6,14 +6,14 @@ Maps:
   - Anywhere
 Trader:
   - "[[Prapor]]"
-Status: 🛑 Not Started
+Status: ➡️ In Progress
 LvlReq:
   - "1"
 Item:
   - "[[MP-133]]"
 Enemies:
   - Scavs
-Bosses:
+Bosses: 
 ---
 # Quest
 ```meta-bind-embed

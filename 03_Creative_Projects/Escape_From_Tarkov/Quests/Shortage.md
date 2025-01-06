@@ -6,13 +6,13 @@ Maps:
   - Anywhere
 Trader:
   - "[[Therapist]]"
-Status: 🛑 Not Started
+Status: ➡️ In Progress
 LvlReq:
   - "1"
 Item:
   - "[[Salewa First Aid Kit]]"
 Enemies: 
-Bosses:
+Bosses: 
 ---
 # Quest
 ```meta-bind-embed

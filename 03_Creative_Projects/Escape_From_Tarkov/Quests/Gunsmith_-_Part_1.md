@@ -6,12 +6,12 @@ Maps:
   - Anywhere
 Trader:
   - "[[Mechanic]]"
-Status: 🛑 Not Started
+Status: ➡️ In Progress
 LvlReq:
   - "2"
 Item: 
 Enemies: 
-Bosses:
+Bosses: 
 ---
 # Quest
 ```meta-bind-embed

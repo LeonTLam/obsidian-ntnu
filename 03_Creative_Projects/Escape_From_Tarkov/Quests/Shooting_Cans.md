@@ -6,14 +6,14 @@ Maps:
   - "[[Ground Zero]]"
 Trader:
   - "[[Prapor]]"
-Status: 🛑 Not Started
+Status: ✅ Completed
 LvlReq:
   - "1"
 Item: 
 Enemies:
   - PMCs
   - Scavs
-Bosses:
+Bosses: 
 ---
 # Quest
 ```meta-bind-embed
