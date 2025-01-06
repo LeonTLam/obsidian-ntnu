@@ -2,8 +2,8 @@
 
 ### Courses:
 
-- [Course 1 Name]
-- [Course 2 Name]
+- [[TTM4135|TTM4135 Anvendt Kryptografi ...]]
+- [[TTM4115|TTM4115 Programvaresikkerhet og Personvern]]
 - [Course 3 Name]
 - [Course 4 Name]
 
