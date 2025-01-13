@@ -24,7 +24,10 @@ Both studied together in practice
 
 ## Confidentiality and Authentication
 
-
+* Cryptography - *secret writing*, transformation of data depending on secret called **key**
+	* Can be used to provide *confidentiality* and to provide *authentication (or integrity)*
+	* When used for conf., a key is required to read.
+	* When used for auth., a key required to write
 
 ---
 ## Notes
