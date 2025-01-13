@@ -6,7 +6,14 @@
 
 ---
 ## Key Points
-- Summary of key discussions.
+- Introduction
+	- Basic definitions
+	- Cryptanalysis
+	- Statistics of Natural Language
+- Transposition Ciphers
+- Simple Substitution Ciphers
+	- Caesar Cipher
+	- Random Simple Substitution Cipher
 
 ---
 ## Notes

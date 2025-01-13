@@ -20,11 +20,13 @@ const selectedCourse = await tp.system.suggester(courses, courses);
 // Save the selected course to a variable or use it
 let course = selectedCourse;
 
+const subCourse = course.substring(0,7);
+
 // Output the selected course or use it in your script
 await tp.file.move("/01_Current_Semester/" + course + "/Notes/" + title)
 
 _%>
-# <% tp.date.now("DD-MMM-YYYY") %> Daily Note for <% "[[" + course + "]]" %>
+# <% tp.date.now("DD-MMM-YYYY") %> Daily Note for <% "[[" + subCourse + "]]" %>
 
 ## Topics Covered
 - Topic 1

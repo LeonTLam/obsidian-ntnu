@@ -20,6 +20,8 @@ const selectedCourse = await tp.system.suggester(courses, courses);
 // Save the selected course to a variable or use it
 let course = selectedCourse;
 
+const subCourse = course.substring(0,7);
+
 // Output the selected course or use it in your script
 await tp.file.move("/01_Current_Semester/" + course + "/Exams/" + title)
 
@@ -29,7 +31,7 @@ _%>
 #### **Exam Details**
 
 - **Title**: [Enter Exam Title]
-- **Course**: **<% "[[" + course + "]]" %>**
+- **Course**: **<% "[[" + subCourse + "]]" %>**
 - **Due Date**: [Enter Due Date]
 - **Description**: [Provide a brief description of the exam, including its purpose, format, and any important details.]
 
