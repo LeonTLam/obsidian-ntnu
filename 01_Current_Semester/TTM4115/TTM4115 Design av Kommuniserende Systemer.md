@@ -1,5 +1,5 @@
 # General Information
-- **Course Code**: `TTM4135`
+- **Course Code**: `TTM4115`
 - **Institution**: `NTNU`
 - **Program**: `Digital Infrastructure and Cybersecurity`
 - **Credits**: `7.5 ECTS`

@@ -27,7 +27,7 @@ _%>
 
 # General Information
 - **Course Code**: `<% course %>`
-- **Institution**: `NTNUI`
+- **Institution**: `NTNU`
 - **Program**: `Digital Infrastructure and Cybersecurity`
 - **Credits**: `7.5 ECTS`
 - **Semester**: `Spring 2024`

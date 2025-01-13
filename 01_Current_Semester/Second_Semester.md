@@ -3,9 +3,9 @@
 ### Courses:
 
 - [[TTM4135 Anvendt Kryptografi og Nettverksikkerhet|TTM4135 Anvendt Kryptografi ...]]
-- [[TTM4115|TTM4115 Design av Kommuniserende systemer]]
-- [[TDT4237|TDT4237 Programvaresikkerhet og Personvern]]
-- [[PED3801|PED3801 Eksperter i team - VR/AR og AI for læring]]
+- [[TTM4115 Design av Kommuniserende Systemer|TTM4115 Design av Kommuniserende systemer]]
+- [[TDT4237 Programvaresikkerhet og Personvern|TDT4237 Programvaresikkerhet og Personvern]]
+- [[PED3801 Eksperter i Team|PED3801 Eksperter i team - VR/AR og AI for læring]]
 
 
 ### Deadlines:
