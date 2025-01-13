@@ -1,4 +1,4 @@
-# 06-Jan-2025 Daily Note for [[TTM4135]]
+# 06-Jan-2025 Daily Note for [[TTM4135 Anvendt Kryptografi og Nettverksikkerhet]]
 
 ## Topics Covered
 - Motivation
