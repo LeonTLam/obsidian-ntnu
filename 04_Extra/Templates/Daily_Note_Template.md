@@ -24,7 +24,7 @@ let course = selectedCourse;
 await tp.file.move("/01_Current_Semester/" + course + "/Notes/" + title)
 
 _%>
-# <% tp.date.now("DD-MMM-YYYY") %> Daily Note for <% "[[" +course+ "]]" %>
+# <% tp.date.now("DD-MMM-YYYY") %> Daily Note for <% "[[" + course + "]]" %>
 
 ## Topics Covered
 - Topic 1
