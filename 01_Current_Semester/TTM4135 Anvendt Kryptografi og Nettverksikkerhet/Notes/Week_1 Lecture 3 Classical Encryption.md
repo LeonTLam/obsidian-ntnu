@@ -44,7 +44,9 @@ A cryptosystem consists of:
 	* Encryption and decryption keys known only to sender and receiver
 	* Requires secure channel for transmission of the cryptographic key
 * Asymmetric Key Cipher (public key cipher)
-	* Each participant
+	* Each participant has a public key and a private key
+	* May allow for both encryption and creation of digital signatures
+	* Public key ciphers will be studied later
 
 ---
 ## Notes
