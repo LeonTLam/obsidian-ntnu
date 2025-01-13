@@ -1,11 +1,6 @@
 # 13-Jan-2025 Daily Note for [[TTM4135 Week_1 Lecture 3 Classical Encryption]]
 
 ## Topics Covered
-- Topic 1
-- Topic 2
-
----
-## Key Points
 - Introduction
 	- Basic definitions
 	- Cryptanalysis
@@ -14,6 +9,22 @@
 - Simple Substitution Ciphers
 	- Caesar Cipher
 	- Random Simple Substitution Cipher
+- Polyalphabetic Substitution
+	- Vignenère Cipher
+	- Other Polyalphabetic Ciphers
+
+---
+## Key Points
+
+# Introduction
+
+* Cryptography - *the study of designing cryptosystems*
+* Cryptanalysis - *the study of breaking cryptosystems*
+Both studied together in practice
+
+## Confidentiality and Authentication
+
+
 
 ---
 ## Notes

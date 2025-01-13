@@ -6,6 +6,7 @@
 * Connection between crypto and general information sec
 * What is in this course
 
+---
 ## Key Points
 
 ### Materials and Exam prep
@@ -56,7 +57,8 @@ Se PDF av forelesning på BlackBoard
 ### Course Outline
 
 Se PDF av forelesning på BB
-###
+
+---
 ## Notes
 - Recordings av forelesning blir ikke lastet opp
 - Fleste topics of formater er uendret
