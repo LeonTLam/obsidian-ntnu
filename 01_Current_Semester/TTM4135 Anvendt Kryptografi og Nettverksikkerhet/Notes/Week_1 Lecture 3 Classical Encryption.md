@@ -29,6 +29,23 @@ Both studied together in practice
 	* When used for conf., a key is required to read.
 	* When used for auth., a key required to write
 
+## Cryptosystems
+
+A cryptosystem consists of:
+* Set of plaintexts (original message)
+* Set of ciphertexts (encrypted message)
+* Set of keys 
+* function to transform plaintext into ciphertext 
+* Inverse to transform ciphertext to plaintext (decryption)
+
+## Symmetric and asymmetric cryptography 
+
+* Symmetric Key Cipher (secret key cipher)
+	* Encryption and decryption keys known only to sender and receiver
+	* Requires secure channel for transmission of the cryptographic key
+* Asymmetric Key Cipher (public key cipher)
+	* Each participant
+
 ---
 ## Notes
 - Additional notes or reminders.
