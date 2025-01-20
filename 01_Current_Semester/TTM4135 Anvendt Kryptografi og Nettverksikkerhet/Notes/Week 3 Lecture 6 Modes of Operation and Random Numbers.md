@@ -27,12 +27,27 @@ Typically achieved using *initialisation vector, UV*, which propagates through t
 
 Another way to vary, include variable state
 
-## Efficieny
+## Efficiency
 
 Important features of different modes, does not impact security:
 	Some modes allow parallel processing
 		Sometimes multiple plaintext blocks can be encrypted in parallel
-		
+		Sometimes multiple ciphertext blocks can be decrypted in parallel
+
+## Padding
+
+Some modes, ECB and CBC require the plaintext to consist of one or more complete blocks.
+
+NIST special Publication suggest:
+	1. append a single '1' bit to the data string
+	2. pad the resulting string by as few '0' bits, possibly none, as are necessary to complete the final block
+
+Padding bits can be removed unambiguously, if receiver knows that this padding method is used.
+	1. Remove all trailing '0' bits after the last '1' bit
+	2. remove single '1' bit.
+Alternative, Cipher Stealing
+
+
 
 ---
 ## Notes
