@@ -28,7 +28,7 @@ await tp.file.move("/01_Current_Semester/" + course + "/Assignments/" + title)
 _%>
 ---
 dueDate: 
-course: <% "[[" +subCourse+ "]]" %>
+course: "<% "[[" +subCourse+ "]]" %>"
 tags:
   - Assignment
 ---

@@ -1,6 +1,6 @@
 ---
-dueDate: 
-course: [[TDT4237]]
+dueDate: 2025-10-17
+course: "[[TDT4237]]"
 tags:
   - Assignment
 ---

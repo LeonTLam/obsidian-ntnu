@@ -41,6 +41,7 @@
     "Item": "multitext",
     "inSelect": "multitext",
     "Cover": "text",
-    "dueDate": "date"
+    "dueDate": "date",
+    "course": "text"
   }
 }
