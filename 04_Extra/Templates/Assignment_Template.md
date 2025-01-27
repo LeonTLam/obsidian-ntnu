@@ -1,4 +1,5 @@
 <%*
+// Give file title
 const hasTitle = !tp.file.title.startsWith("Untitl");
 let title;
 if (!hasTitle) {
@@ -7,6 +8,10 @@ if (!hasTitle) {
 } else {
 	title = tp.file.title;
 }
+
+// Give assignment a due date
+const moment = app.plugins.plugins["templater-obsidian"].moment; 
+const selectedDate = await tp.system.prompt("Select a date (YYYY-MM-DD):"); const formattedDate = selectedDate ? moment(selectedDate, "YYYY-MM-DD").format("YYYY-MM-DD") : moment().format("YYYY-MM-DD");
 
 // Define the parent folder containing courses
 const parentFolder = "01_Current_Semester";
@@ -27,10 +32,11 @@ await tp.file.move("/01_Current_Semester/" + course + "/Assignments/" + title)
 
 _%>
 ---
-dueDate: 
+dueDate:  <% formattedDate %>
 course: "<% "[[" +subCourse+ "]]" %>"
 tags:
   - Assignment
+isComplete: false
 ---
 
 # Assignments for <% "[[" +subCourse+ "]]" %>

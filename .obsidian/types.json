@@ -42,6 +42,7 @@
     "inSelect": "multitext",
     "Cover": "text",
     "dueDate": "date",
-    "course": "text"
+    "course": "text",
+    "isComplete": "checkbox"
   }
 }
