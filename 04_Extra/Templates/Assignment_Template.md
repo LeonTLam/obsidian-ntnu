@@ -40,14 +40,14 @@ tags:
   - Assignment
 assignmentName: "<% title %>"
 ---
+
+# Assignments for <% "[[" +subCourse+ "]]" %>
 ```meta-bind-embed
 [[META_WORKTYPE]]
 ```
 ```meta-bind-embed
 [[META_QUEST]]
 ```
-# <% tp.file.curo%>Assignments for <% "[[" +subCourse+ "]]" %>
-
 ### Details:
 - **Description:**
   - Brief description of the assignment.
