@@ -35,7 +35,7 @@ _%>
 dueDate: <% selectedDate %>
 course: "<% "[[" +subCourse+ "]]" %>"
 isGroupWork: false
-isComplete: false
+status: 
 tags:
   - Assignment
 assignmentName: "<% title %>"

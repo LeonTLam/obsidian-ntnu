@@ -14,11 +14,11 @@
 ### Assignments
 
 ```dataview
-table course as "Course", 
+table WITHOUT ID
       assignmentName as "Assignment Name", 
-      (if(isGroupWork, "Group", "Individual")) as "Type", 
+      isGroupWork as "Group Work", 
       dueDate as "Due Date", 
-      isComplete as "Completed"
+      isComplete as "Complete"
 from "01_Current_Semester"
 where contains(tags, "Assignment")
 sort dueDate asc
