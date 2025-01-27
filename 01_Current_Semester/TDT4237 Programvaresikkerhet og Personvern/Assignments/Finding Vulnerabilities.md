@@ -18,7 +18,11 @@ assignmentName: "[[Finding Vulnerabilities]]"
 ### Details:
 - **Description:**
   - **Exercise 1**
-  - 
+  - Counts for 30 points out of 70
 
+* Tasks
+	1. Identifying vulnerabilities using OWASP WSTG guidelines. 
+	2. Locating the vulnerable code (white-box testing). 
+	3. Demonstrating exploits (black-box testing).
 ### Notes:
 - Any specific notes about the assignment.

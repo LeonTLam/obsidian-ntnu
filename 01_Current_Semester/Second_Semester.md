@@ -22,7 +22,8 @@ table WITHOUT ID
       Status as "Progression"
 from "01_Current_Semester"
 where contains(tags, "Assignment")
-sort dueDate asc
+sort case( 
+	  if(status = "In Progress", 1, if(status = "Not Started", 2, if(completed, 3, 4)))) asc, due_date asc
 
 ```
 
