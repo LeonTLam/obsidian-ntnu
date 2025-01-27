@@ -46,7 +46,7 @@ assignmentName: "<% title %>"
 ```meta-bind-embed
 [[META_QUEST]]
 ```
-# Assignments for <% "[[" +subCourse+ "]]" %>
+# <% tp.file.curo%>Assignments for <% "[[" +subCourse+ "]]" %>
 
 ### Details:
 - **Description:**

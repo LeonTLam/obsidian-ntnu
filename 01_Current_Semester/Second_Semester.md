@@ -15,10 +15,11 @@
 
 ```dataview
 table WITHOUT ID
+	  course as "Course",
       assignmentName as "Assignment Name", 
       isGroupWork as "Group Work", 
       dueDate as "Due Date", 
-      isComplete as "Complete"
+      Status as "Progression"
 from "01_Current_Semester"
 where contains(tags, "Assignment")
 sort dueDate asc
