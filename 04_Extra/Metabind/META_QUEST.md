@@ -1,5 +1,5 @@
 ---
-Status: []
+Status:
 ---
 ```meta-bind-button
 label: 🛑 Not Started
