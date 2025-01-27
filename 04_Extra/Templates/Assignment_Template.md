@@ -38,7 +38,7 @@ isGroupWork: 👨‍👩‍👧‍👦 Group👨‍🦯‍➡️Individual
 Status: 🛑 Not Started
 tags:
   - Assignment
-assignmentName: "<% title %>"
+assignmentName: "[[<% title %>]]"
 ---
 
 # Assignments for <% "[[" +subCourse+ "]]" %>

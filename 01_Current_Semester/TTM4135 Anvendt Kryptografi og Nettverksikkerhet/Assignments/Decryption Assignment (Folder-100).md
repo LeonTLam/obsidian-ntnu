@@ -1,11 +1,11 @@
 ---
 dueDate: 2025-02-03
 course: "[[TTM4135]]"
-isGroupWork: 👨‍👩‍👧‍👦 Group👨‍🦯‍➡️Individual
+isGroupWork: 👨‍🦯‍➡️Individual Work
 Status: 🛑 Not Started
 tags:
   - Assignment
-assignmentName: "Decryption Assignment (Folder-100)"
+assignmentName: "[[Decryption Assignment (Folder-100)]]"
 ---
 
 # Assignments for [[TTM4135]]
@@ -17,7 +17,10 @@ assignmentName: "Decryption Assignment (Folder-100)"
 ```
 ### Details:
 - **Description:**
-  - Brief description of the assignment.
+  - Caesar ciphertext
+  - substitution cipher
+  - Vigenère ciphertext
+  - Hill ciphertext
 
 ### Notes:
 - Any specific notes about the assignment.
