@@ -1,3 +1,6 @@
+---
+Status: 👨‍🦯‍➡️Individual Work
+---
 <%*
 // Give file title
 const hasTitle = !tp.file.title.startsWith("Untitl");
@@ -40,6 +43,9 @@ tags:
   - Assignment
 assignmentName: "<% title %>"
 ---
+```meta-bind-embed
+[[META_WORKTYPE]]
+```
 ```meta-bind-embed
 [[META_QUEST]]
 ```
