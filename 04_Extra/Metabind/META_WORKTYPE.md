@@ -8,7 +8,7 @@ id: "workIndividual"
 style: default
 actions:
   - type: updateMetadata
-    bindTarget: Status
+    bindTarget: isGroupWork
     evaluate: false
     value: 👨‍🦯‍➡️Individual Work
 ```
@@ -22,7 +22,7 @@ id: "workGroup"
 style: default
 actions:
   - type: updateMetadata
-    bindTarget: Status
+    bindTarget: isGroupWork
     evaluate: false
     value: 👨‍👩‍👧‍👦Group Work
 

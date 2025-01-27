@@ -1,6 +1,3 @@
----
-Status: 👨‍🦯‍➡️Individual Work
----
 <%*
 // Give file title
 const hasTitle = !tp.file.title.startsWith("Untitl");
