@@ -13,6 +13,18 @@
 
 ### Assignments
 
+```dataview
+table course as "Course", 
+      assignmentName as "Assignment Name", 
+      (if(isGroupWork, "Group", "Individual")) as "Type", 
+      dueDate as "Due Date", 
+      isComplete as "Completed"
+from "01_Current_Semester"
+where contains(tags, "Assignment")
+sort dueDate asc
+
+```
+
 ### Exams
 
 ---
