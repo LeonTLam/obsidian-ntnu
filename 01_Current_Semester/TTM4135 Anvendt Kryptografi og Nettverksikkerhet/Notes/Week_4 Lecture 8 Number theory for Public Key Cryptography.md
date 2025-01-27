@@ -2,7 +2,7 @@
 
 ## Topics Covered
 - Chinese Remainder Theorem
-- Topic 2
+- Euler Function
 
 ---
 ## Key Points
@@ -31,6 +31,14 @@ y_1 == 5 (mod 6)
 y_2 
 ```
 
+# Euler Function
+
+```Definition
+For a positive integer n, the Euler Function $\phi$ denites tge bynber if positive integers less than n and relatively prime to n
+```
+
+$\phi(10) = 4$, there are four co-primes of 10.
+$Z^*_{10} = {1,3,7,9}$ 
 
 ---
 ## Notes
