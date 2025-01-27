@@ -40,6 +40,7 @@
     "Lvl. Req.": "multitext",
     "Item": "multitext",
     "inSelect": "multitext",
-    "Cover": "text"
+    "Cover": "text",
+    "dueDate": "date"
   }
 }

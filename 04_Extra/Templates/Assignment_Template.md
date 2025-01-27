@@ -26,6 +26,13 @@ const subCourse = course.substring(0,7);
 await tp.file.move("/01_Current_Semester/" + course + "/Assignments/" + title)
 
 _%>
+---
+dueDate: 
+course: <% "[[" +subCourse+ "]]" %>
+tags:
+  - Assignment
+---
+
 # Assignments for <% "[[" +subCourse+ "]]" %>
 
 ### Details:

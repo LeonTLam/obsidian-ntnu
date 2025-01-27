@@ -1,11 +1,11 @@
 ---
 dueDate: 
-course: <% "[[" +subCourse+ "]]" %>
+course: [[TDT4237]]
 tags:
   - Assignment
 ---
 
-# Assignments for Course_1
+# Assignments for [[TDT4237]]
 
 ### Details:
 - **Due Date:** YYYY-MM-DD
