@@ -34,22 +34,18 @@ _%>
 ---
 dueDate: <% selectedDate %>
 course: "<% "[[" +subCourse+ "]]" %>"
+isGroupWork: false
+isComplete: false
 tags:
   - Assignment
-isComplete: false
+assignmentName: "<% title %>"
 ---
 
 # Assignments for <% "[[" +subCourse+ "]]" %>
 
 ### Details:
-- **Due Date:** YYYY-MM-DD
 - **Description:**
   - Brief description of the assignment.
-
-### Progress:
-- [ ] Understand the requirements.
-- [ ] Research topics.
-- [ ] Write and submit.
 
 ### Notes:
 - Any specific notes about the assignment.

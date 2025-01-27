@@ -1,30 +1,21 @@
-## Semester: 🌸 Spring
+# Semester: 🌸 Spring
 
-### Courses:
+---
+## Courses:
 
 - [[TTM4135|TTM4135 Anvendt Kryptografi ...]]
 - [[TTM4115|TTM4115 Design av Kommuniserende systemer]]
-- [[TDT4237|TDT4237]]
+- [[TDT4237|TDT4237 Programvaresikkerhet og Personvern]]
 - [[PED3801|PED3801 Eksperter i team - VR/AR og AI for læring]]
 
+---
+## Deadlines:
 
-### Deadlines:
-#### TTM4135
-- [ ] [[TestAssignment|Assignment 1]] 🔼 📅 2024-12-24
-- [ ] Exam 1 📅 2024-12-24 ⏫ 
+### Assignments
 
-#### TTM4115
-- [ ] Assignment 1 📅 2024-12-24 🔼 
-- [ ] Exam 1 📅 2024-12-24 ⏫ 
+### Exams
 
-#### PED3801
-- [ ] Assignment 1 📅 2024-12-24 🔼 
-- [ ] Exam 1 📅 2024-12-24 ⏫ 
-
-#### TDT4237
-- [ ] Assignment 1 📅 2024-12-24 🔼 
-- [ ] Exam 1 📅 2024-12-24 ⏫ 
-
+---
 ### Notes:
 - Key goals for the semester.
 - General reminders.
