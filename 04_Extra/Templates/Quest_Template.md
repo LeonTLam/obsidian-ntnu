@@ -8,8 +8,7 @@ Status: 🛑 Not Started
 LvlReq: 
 Item: 
 Enemies: 
-Bosses:
-
+Bosses: 
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitl");

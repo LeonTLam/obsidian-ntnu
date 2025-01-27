@@ -34,13 +34,15 @@ _%>
 ---
 dueDate: <% selectedDate %>
 course: "<% "[[" +subCourse+ "]]" %>"
-isGroupWork: false
-status: 
+isGroupWork: 👨‍👩‍👧‍👦 Group👨‍🦯‍➡️Individual
+Status: 🛑 Not Started
 tags:
   - Assignment
 assignmentName: "<% title %>"
 ---
-
+```meta-bind-embed
+[[META_QUEST]]
+```
 # Assignments for <% "[[" +subCourse+ "]]" %>
 
 ### Details:

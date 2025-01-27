@@ -43,6 +43,7 @@
     "Cover": "text",
     "dueDate": "date",
     "course": "text",
-    "isComplete": "checkbox"
+    "isComplete": "checkbox",
+    "isGroupWork": "text"
   }
 }
