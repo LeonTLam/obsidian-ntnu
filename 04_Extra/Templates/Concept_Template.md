@@ -22,7 +22,9 @@ let course = selectedCourse;
 
 // Fetch the list of notes from selected course
 
-const courses = app.vault.getAbstractFileByPath("/01_Current_Semester/" + course).children.map(folder => folder.name);
+const notes = app.vault.getAbstractFileByPath("/01_Current_Semester/" + course + "/Notes/").children.map(folder => folder.name);
+
+const selectedNote = await tp.system.suggester(notes, notes);
 
 const subCourse = course.substring(0,7);
 
@@ -30,7 +32,12 @@ const subCourse = course.substring(0,7);
 await tp.file.move("/01_Current_Semester/" + course + "/Concepts/" + title)
 
 _%>
-# Concept for <% "[[" + subCourse + "]]" %>
+---
+tags:
+  - Concept
+course: "<% "[[" +subCourse+ "]]" %>"
+---
+# Concept for <% "[[" + selectedNote + "]]" %>
 ## Definition:
 - Brief definition or description.
 
