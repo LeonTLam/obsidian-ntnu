@@ -22,7 +22,7 @@ let course = selectedCourse;
 
 // Fetch the list of notes from selected course
 
-const notes = app.vault.getAbstractFileByPath("/01_Current_Semester/" + course + "/Notes/").children.map(folder => folder.name);
+const notes = app.vault.getAbstractFileByPath("01_Current_Semester/" + course + ).children.map(folder => folder.name);
 
 const selectedNote = await tp.system.suggester(notes, notes);
 
