@@ -19,4 +19,4 @@ To decrypt a cipher-text using Caesar Cipher, we simply shift each letter back b
 * Small number of keys implies that an attacker can easily brute-force all possible keys.
 * Not suitable for long text encryption.
 * Not suitable for secure communication, easily broken.
-* Does not provide [[Confidentiality]], [[integrity]], and [[authenticity]] in a message.
+* Does not provide [[Confidentiality]], [[Integrity]], and [[authenticity]] in a message.
