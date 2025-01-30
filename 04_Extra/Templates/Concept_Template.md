@@ -20,6 +20,10 @@ const selectedCourse = await tp.system.suggester(courses, courses);
 // Save the selected course to a variable or use it
 let course = selectedCourse;
 
+// Fetch the list of notes from selected course
+
+const courses = app.vault.getAbstractFileByPath("/01_Current_Semester/" + course).children.map(folder => folder.name);
+
 const subCourse = course.substring(0,7);
 
 // Output the selected course or use it in your script
