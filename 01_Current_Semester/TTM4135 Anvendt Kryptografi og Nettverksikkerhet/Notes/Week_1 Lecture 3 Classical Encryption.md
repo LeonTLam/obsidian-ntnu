@@ -1,4 +1,4 @@
-# 13-Jan-2025 Daily Note for [[TTM4135 Week_1 Lecture 3 Classical Encryption]]
+# 13-Jan-2025 Daily Note for [[TTM4135]]
 
 ## Topics Covered
 - Introduction
