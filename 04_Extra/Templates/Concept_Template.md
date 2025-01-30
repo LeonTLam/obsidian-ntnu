@@ -23,17 +23,13 @@ let course = selectedCourse;
 // Fetch the list of notes from selected course
 const notesFolder = `${parentFolder}/${selectedCourse}/Notes`;
 // Get all files in the notes folder
-const noteFiles = await tp.file.find_tfiles(`"${notesFolder}"`);
-
-if (noteFiles.length === 0) {
-    new Notice(`No files found in ${notesFolder}`);
-    return;
-}
+const notesFolder = app.vault.getAbstractFileByPath(`${parentFolder}/${selectedCourse}/Notes`).children.map(folder => folder.name);
 
 // Show a suggester to select a note
 let selectedNote = await tp.system.suggester(
     async (file) => file.basename, // Display the file name without extension
     noteFiles // List of files
+    );
 const subCourse = course.substring(0,7);
 
 // Output the selected course or use it in your script
