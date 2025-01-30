@@ -2,7 +2,7 @@
 dueDate: 2025-01-29
 course: "[[PED3801]]"
 isGroupWork: 👨‍👩‍👧‍👦Group Work
-Status: ➡️ In Progress
+Status: ✅ Completed
 tags:
   - Assignment
 assignmentName: "[[Prosjektskisse]]"
