@@ -20,3 +20,5 @@ To decrypt a cipher-text using Caesar Cipher, we simply shift each letter back b
 * Not suitable for long text encryption.
 * Not suitable for secure communication, easily broken.
 * Does not provide [[Confidentiality]], [[Integrity]], and [[authenticity]] in a message.
+
+## Breaking a Caesar Cipher
