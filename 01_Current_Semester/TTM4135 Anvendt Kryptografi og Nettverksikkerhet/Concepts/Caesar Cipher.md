@@ -22,3 +22,14 @@ To decrypt a cipher-text using Caesar Cipher, we simply shift each letter back b
 * Does not provide [[Confidentiality]], [[Integrity]], and [[authenticity]] in a message.
 
 ## Breaking a Caesar Cipher
+### Encryption
+$C = (P+k)\mod 26$
+Where $C$ is the ciphertext, $P$ is the plaintext, and $k$ is the key (shift value)
+### Decryption
+$P = (C-k) \mod26$
+
+### Key Methods
+
+Since there are only 25 possible keys (shifts), you can try all and look for meaningful plaintext.
+
+Comparing the frequency of letters in the ciphertext, to the known frequency of letters in the language ("E" being the most common letter in English)
