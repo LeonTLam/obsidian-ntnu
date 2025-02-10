@@ -14,15 +14,6 @@
 ---
 ## Key Points
 
-# Diffie-Hellman Key Exchange
-
-* Two users share secret using only public communication.
-* Public knowledge: Generator g of a multiplicative group G of order t.
-* Both users each select random values 'a' and 'b' where 0<a, b<t.
-* Alice sends $g^a$ to Bob (over insecure channel)
-* Bob sends $g^b$ to Alice
-* Both users compute secret key $Z = g^{ab}$
-* Originally group G used was $Z^*_p$ for large p
 
 
 ---
