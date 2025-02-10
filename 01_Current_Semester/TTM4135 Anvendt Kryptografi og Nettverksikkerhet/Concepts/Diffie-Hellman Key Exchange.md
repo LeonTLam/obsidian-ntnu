@@ -20,3 +20,8 @@ Public knowledge is $p = 181, g =2$
 
 * Alice sends $g^50\mod181 = 116$ to Bob
 * Bob sends $g^33 \mod 181 = 30$ to Alice
+
+* Alice computes $Z = 30^50 \mod 181$
+* Bob computes $Z=116^33 mod 181$
+
+* Common secret is $Z=49$
