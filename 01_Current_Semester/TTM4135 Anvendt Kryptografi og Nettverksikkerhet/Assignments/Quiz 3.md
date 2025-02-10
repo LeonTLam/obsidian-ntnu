@@ -2,7 +2,7 @@
 dueDate: 2025-01-31
 course: "[[TTM4135]]"
 isGroupWork: 👨‍🦯‍➡️Individual Work
-Status: ➡️ In Progress
+Status: ✅ Completed
 tags:
   - Assignment
 assignmentName: "[[Quiz 3]]"

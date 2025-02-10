@@ -2,7 +2,7 @@
 dueDate: 2025-02-03
 course: "[[TTM4135]]"
 isGroupWork: 👨‍🦯‍➡️Individual Work
-Status: 🛑 Not Started
+Status: ✅ Completed
 tags:
   - Assignment
 assignmentName: "[[Decryption Assignment (Folder-100)]]"
