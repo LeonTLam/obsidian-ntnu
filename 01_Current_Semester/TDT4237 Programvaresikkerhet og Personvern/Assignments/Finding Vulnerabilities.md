@@ -2,7 +2,7 @@
 dueDate: 2025-02-26
 course: "[[TDT4237]]"
 isGroupWork: 👨‍👩‍👧‍👦Group Work
-Status: 🛑 Not Started
+Status: ➡️ In Progress
 tags:
   - Assignment
 assignmentName: "[[Finding Vulnerabilities]]"
