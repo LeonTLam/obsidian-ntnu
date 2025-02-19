@@ -16,4 +16,4 @@ Provide few high-quality input-output examples to introduce an understanding of 
 
 ## Chain-of-Though (CoT) Prompting
 
-Coherent and step-by-step reason processes. Demonstrates the effectiveness in more structured and thoughtful responses from LLMs.
+Coherent and step-by-step reason processes. Demonstrates the effectiveness in more structured and thoughtful responses from LLMs. CoT prompting allows users to guide LLMs through a logical reasoning chain, allowing you to reflect and gain a deeper understanding of the given prompt.
