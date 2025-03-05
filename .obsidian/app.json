@@ -8,5 +8,6 @@
     "/.*\\.(excalidraw|EXCALIDRAW)/",
     "/.*\\.(png|PNG)/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true
 }
