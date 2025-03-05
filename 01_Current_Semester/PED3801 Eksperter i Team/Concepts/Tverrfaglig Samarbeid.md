@@ -18,5 +18,7 @@ Kombinere ulike innsikter for å skape bedre løsninger enn hva én enkelt kunne
 
 # Forutsetninger
 * **Åpenhet og nysgjerrighet**, se verdien i andres bidrag.
-* **Felles forståelse**, definere felles problem og måte å kommuniserer på
+* **Felles forståelse**, definere felles problem og måte å kommunisere på
+* **Respekt og likeverdighet**, ta imot alle perspektiver.
+* **Formidle kunnskap**, dele fagkompetanse på forståelig måte.
 
