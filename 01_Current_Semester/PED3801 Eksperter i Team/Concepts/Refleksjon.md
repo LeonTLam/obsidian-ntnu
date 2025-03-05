@@ -19,3 +19,14 @@ tags:
 # Forbedring i kommunikasjon og beslutning
 * Snakke åpent om utfordringer og finne løsninger sammen.
 * Bedre til å gi og motta konstruktiv tilbakemelding.
+* Skape felles forståelse og styrke beslutningstaking og effektivitet.
+
+# Håndtere konflikter
+* Identifisere **hvorfor konflikter oppstår**, finne måter å håndtere de på.
+* Innsikt i andres perspektiver å bygge mer inkluderende teamkultur.
+
+# Hvordan reflektere effektivt i EiT?
+- **Skrive personlige refleksjoner:** Notere tanker om eget og andres bidrag i teamet jevnlig.
+- **Gjennomføre teamrefleksjoner:** Diskutere samarbeidet i teamet basert på personlige refleksjoner.
+- **Bruke fasilitering:** Læringsassistenter kan hjelpe med å stimulere refleksjon og stille gode spørsmål.
+- **Knytte refleksjonene til teori:** Bruke begreper fra gruppeteori for å analysere samarbeidet.
