@@ -6,7 +6,9 @@
     "04_Extra/YAML/",
     "04_Extra/Templates/",
     "/.*\\.(excalidraw|EXCALIDRAW)/",
-    "/.*\\.(png|PNG)/"
+    "/.*\\.(png|PNG)/",
+    "04_Extra/Metabind/",
+    "01_Current_Semester/Second_Semester"
   ],
   "promptDelete": false,
   "spellcheck": true
