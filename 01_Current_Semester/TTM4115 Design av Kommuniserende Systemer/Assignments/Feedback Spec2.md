@@ -1,7 +1,7 @@
 ---
 dueDate: 2025-03-27
 course: "[[TTM4115]]"
-isGroupWork: 👨‍👩‍👧‍👦 Group👨‍🦯‍➡️Individual
+isGroupWork: 👨‍🦯‍➡️Individual Work
 Status: 🛑 Not Started
 tags:
   - Assignment

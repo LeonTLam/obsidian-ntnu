@@ -5,7 +5,7 @@ isGroupWork: 👨‍🦯‍➡️Individual Work
 Status: ✅ Completed
 tags:
   - Assignment
-assignmentName: "[[Decryption Assignment (Folder-100)]]"
+assignmentName: "[[Decryption]]"
 ---
 
 # Assignments for [[TTM4135]]

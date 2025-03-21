@@ -1,8 +1,8 @@
 ---
 dueDate: 2025-04-02
 course: "[[TDT4237]]"
-isGroupWork: 👨‍👩‍👧‍👦 Group👨‍🦯‍➡️Individual
-Status: 🛑 Not Started
+isGroupWork: 👨‍👩‍👧‍👦Group Work
+Status: ➡️ In Progress
 tags:
   - Assignment
 assignmentName: "[[Fixing Vulnerabilities]]"
