@@ -2,7 +2,7 @@
 dueDate: 2025-03-27
 course: "[[TTM4115]]"
 isGroupWork: 👨‍🦯‍➡️Individual Work
-Status: 🛑 Not Started
+Status: ✅ Completed
 tags:
   - Assignment
 assignmentName: "[[Feedback Spec2]]"

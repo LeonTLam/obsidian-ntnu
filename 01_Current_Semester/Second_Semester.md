@@ -28,6 +28,7 @@ sort dueDate asc
 
 ### Exams
 
+TTM4135 Anvendt Kryptografi 
 ---
 ### Notes:
 - Key goals for the semester.
