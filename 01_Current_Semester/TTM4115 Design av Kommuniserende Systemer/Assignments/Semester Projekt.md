@@ -1,23 +1,23 @@
 ---
-dueDate: 2025-04-04
-course: "[[TTM4135]]"
+dueDate: 2025-05-07
+course: "[[TTM4115]]"
 isGroupWork: 👨‍👩‍👧‍👦Group Work
-Status: ✅ Completed
+Status: ➡️ In Progress
 tags:
   - Assignment
-assignmentName: "[[Web Sec Lab]]"
+assignmentName: "[[Semester Projekt]]"
 ---
 
-# Assignments for [[TTM4135]]
+# Assignments for [[TTM4115]]
 ```meta-bind-embed
 [[META_WORKTYPE]]
 ```
 ```meta-bind-embed
 [[META_QUEST]]
 ```
-### To-do:
-- Answer questions
-- Look over report and attachments
+### Details:
+- **Description:**
+  - Brief description of the assignment.
 
 ### Notes:
 - Any specific notes about the assignment.

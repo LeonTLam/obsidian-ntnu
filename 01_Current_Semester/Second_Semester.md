@@ -28,6 +28,9 @@ sort dueDate asc
 
 ### Exams
 
+TTM4135 Anvendt Kryptografi - 30.05.2025 09:00 - Papirbasert
+TDT4237 Programvaresikkerhet - 05.05.2025 15:00 - Digitalt
+
 ---
 ### Notes:
 - Key goals for the semester.
