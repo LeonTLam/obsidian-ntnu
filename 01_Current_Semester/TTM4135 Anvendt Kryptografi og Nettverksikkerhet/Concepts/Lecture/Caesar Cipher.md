@@ -2,7 +2,7 @@
 tags:
   - Concept
 ---
-# Concept for [[Week_1 Lecture 3 Classical Encryption.md]]
+# Concept for [[Week_1 Lecture 3 Classical Encryption]]
 
 *Technique which involves shifting the letters of the alphabet by a fixed number of places.*
 

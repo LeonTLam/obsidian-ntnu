@@ -2,7 +2,7 @@
 tags:
   - Concept
 ---
-# Concept for [[Week_5 Discrete Log Public Key Cryptosystems.md]]
+# Concept for [[Week_5 Discrete Log Public Key Cryptosystems]]
 
 ## Example
 * Two users share secret using only public communication.
