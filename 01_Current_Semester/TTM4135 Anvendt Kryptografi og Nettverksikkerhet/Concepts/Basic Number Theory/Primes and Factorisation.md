@@ -51,5 +51,5 @@ If k3 = 9, then:
 3 * 9 = 27
 
 Therefore, 3∣27, so:  
-If a∣ba \mid ba∣b and a∣ca \mid ca∣c, then a∣(b+c)a \mid (b + c)a∣(b+c)**
+If a∣b and a∣c, then a∣(b+c)
 ```
