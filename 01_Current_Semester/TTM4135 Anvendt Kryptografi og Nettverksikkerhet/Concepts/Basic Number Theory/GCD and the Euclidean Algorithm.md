@@ -7,4 +7,8 @@ tags:
 Value $d$ = $GCD$ of $a$ and $b$, written $gcd(a,b) = d$, IF ALL FOLLOWING HOLD`:
 
 1. $d$ divides $a$ and $b$
+``` Example
+d|a and d|b
 
+a = d*k and b = d*l
+```
