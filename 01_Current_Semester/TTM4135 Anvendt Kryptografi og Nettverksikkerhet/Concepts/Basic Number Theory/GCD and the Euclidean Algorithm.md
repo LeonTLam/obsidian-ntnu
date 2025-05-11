@@ -53,3 +53,4 @@ $$\begin{aligned}
 gcd(867,299)=51
 \end{aligned}$$
 
+### Back Substitution (Extended Euclidean Algorithm)
