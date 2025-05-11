@@ -70,3 +70,9 @@ Where $x$ and $y$ are integers. Useful in number theory and cryptography.
 2. Once hit remainder 0, go one step back
 3. Substitute repeatedly
 	1. Rebuild expressions until you write GCD as combination of the original $a$ and $b$
+
+**Task 1:**
+$gcd(198,126)=198x+126y$
+
+$$\begin{aligned}
+\end{ali}
