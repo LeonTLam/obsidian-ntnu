@@ -12,3 +12,4 @@ d|a and d|b
 
 a = d*k and b = d*l
 ```
+2. if $c$ divides $a$ and $b$ then $c$ divides $d$
