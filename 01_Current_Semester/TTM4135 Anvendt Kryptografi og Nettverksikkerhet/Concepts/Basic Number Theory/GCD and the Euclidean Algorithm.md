@@ -54,3 +54,13 @@ gcd(867,299)=51
 \end{aligned}$$
 
 ### Back Substitution (Extended Euclidean Algorithm)
+
+Method used in the **extended Euclidean algorithm** to express GCD of two integers $a$ and $b$ as linear combination
+
+$$\begin{aligned}
+gcd(a,b) = ax+by
+\end{aligned}$$
+Where $x$ and $y$ are integers. Useful in number theory and cryptography.
+
+#### Step-by-step
+1. Use Euclidean algorithm
