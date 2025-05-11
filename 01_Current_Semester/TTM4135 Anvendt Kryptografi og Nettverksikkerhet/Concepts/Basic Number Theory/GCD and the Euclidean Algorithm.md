@@ -75,4 +75,15 @@ Where $x$ and $y$ are integers. Useful in number theory and cryptography.
 $gcd(198,126)=198x+126y$
 
 $$\begin{aligned}
-\end{ali}
+198=126*1+72\\
+126=72*1+54\\
+72=54*1+18\\
+54=18*3+0\\
+gcd(198,126)=18\\
+\\
+2=18-4*4\\
+2=18-16\\
+2=18*1+8*(-2)\\
+gcd(198,126)=
+
+\end{aligned}$$
