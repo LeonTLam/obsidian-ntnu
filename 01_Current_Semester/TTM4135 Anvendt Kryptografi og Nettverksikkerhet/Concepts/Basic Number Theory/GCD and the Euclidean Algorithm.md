@@ -28,4 +28,7 @@ d må altså være større enn 0, hvis det skal regnes som felles divisor, alt k
 **Task 1:**
 $gcd(198,126)$
 
-$198 = 126*1+72 $
+$$ \begin{aligned}
+198 = 126 * 1 + 72 \\
+72 = 36*2+0
+\end{aligned}$$
