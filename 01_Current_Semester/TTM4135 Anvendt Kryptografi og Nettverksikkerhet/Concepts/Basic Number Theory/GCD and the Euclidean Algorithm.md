@@ -25,6 +25,9 @@ d må altså være større enn 0, hvis det skal regnes som felles divisor, alt k
 
 ## Euclidean Algorithm
 
+Method to compute **greatest common divisor** of two integers $a$ and $b$, where $a > b$
+
+
 **Task 1:**
 $gcd(198,126)$
 
@@ -63,4 +66,7 @@ gcd(a,b) = ax+by
 Where $x$ and $y$ are integers. Useful in number theory and cryptography.
 
 #### Step-by-step
-1. Use Euclidean algorithm
+1. Use Euclidean algorithm to compute the GCD
+2. Once hit remainder 0, go one step back
+3. Substitute repeatedly
+	1. Rebuild expressions until you write GCD as combination of the original $a$ and $b$
