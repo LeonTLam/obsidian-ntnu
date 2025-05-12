@@ -20,4 +20,17 @@ Add any two integers, you get another integer
 $$3+-5 = -2 \in Z\text{ or }-5+3=-2\in Z$$
 **Identity:**
 Identity element is $0$, because
-$$a+0=0+a=$$
+$$a+0=0+a=a\text{ for any } a\in Z$$
+**Inverse:**
+Each integer has an additive inverse:
+$$\text{For }a = 7\text{ inverse is }-7 \text{ ,since } 7+(-7) = 0$$
+**Associativity:**
+Addition of integers is associative
+$$(a+b)+c=a+(b+c)$$
+**Commutativity:**
+Addition is commutative
+$$a+b=b+a$$
+**Conclusion:**
+$(Z, +)$ is an **abelian group**.
+
+# Cyclic groups
