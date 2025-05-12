@@ -1,8 +1,10 @@
 # 08-May-2025 Daily Note for [[TTM4135]]
 
 ## Topics Covered
-- Topic 1
-- Topic 2
+- [[Primes and Factorisation]]
+- [[GCD and the Euclidean Algorithm]]
+- [[Modular arithmetic]]
+- [[Groups]]
 
 ---
 ## Key Points
