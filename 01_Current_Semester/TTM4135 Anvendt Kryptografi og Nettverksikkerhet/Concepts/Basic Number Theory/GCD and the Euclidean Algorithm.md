@@ -24,7 +24,7 @@ d må altså være større enn 0, hvis det skal regnes som felles divisor, alt k
 ```
 
 ## Euclidean Algorithm
-
+sssssssss
 Method to compute **greatest common divisor** of two integers $a$ and $b$, where $a > b$
 
 
