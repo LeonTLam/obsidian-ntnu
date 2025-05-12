@@ -34,3 +34,7 @@ $$a+b=b+a$$
 $(Z, +)$ is an **abelian group**.
 
 # Cyclic groups
+
+## Order of a Group $\left|G\right|$
+* Simply **number of elements** in the group $G$
+
