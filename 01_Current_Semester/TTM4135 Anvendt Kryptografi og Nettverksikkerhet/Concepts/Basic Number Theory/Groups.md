@@ -38,3 +38,4 @@ $(Z, +)$ is an **abelian group**.
 ## Order of a Group $\left|G\right|$
 * Simply **number of elements** in the group $G$
 
+$$Z_6=\{0,1,2,3,4,5\}\rightarrow\left|G\right| = 6$$
