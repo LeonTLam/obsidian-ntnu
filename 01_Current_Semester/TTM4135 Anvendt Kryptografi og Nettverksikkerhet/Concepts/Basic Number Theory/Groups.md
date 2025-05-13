@@ -51,3 +51,17 @@ $$g^k = 1$$
 **Generator**
 * An element $g\in G$ is a **generator** if repeatedly applying it produces all elements of the group
 $$\left|g\right| =\left|G\right|$$
+# $Z^*_p$
+
+A complete set of residues modulo any prime $p$ with the 0 removed forms a group under multiplication denoted $Z^*_p$.
+
+Some useful properties:
+* The order of $Z^*_p$ is $p-1$
+* $Z^*_p$ is cyclic
+* $Z^*_p$ has many generators in general
+
+$Z^*_p$ can be represented as the multiplicative group of integers $\{1,2, ..., p-1\}$
+
+## Finding a generator of $Z^*_p$
+
+![[{EBB355B2-36C8-4845-84A6-233EE3F9028E}.png]]

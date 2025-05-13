@@ -5,6 +5,8 @@
 - [[GCD and the Euclidean Algorithm]]
 - [[Modular arithmetic]]
 - [[Groups]]
+- [[Inverse modulo]]
+- [[Finite Fields]]
 
 ---
 ## Key Points

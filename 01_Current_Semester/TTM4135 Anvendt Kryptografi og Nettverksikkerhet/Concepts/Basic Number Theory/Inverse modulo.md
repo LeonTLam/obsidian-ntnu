@@ -12,7 +12,7 @@ Needed in cryptosystems to find inverses so that we can decrypt, or undo certain
 
 $a$ has an inverse modulo $n$ if and only if $gcd(a,n) = 1\text{ and } 0<a<n$
 
-## Modular inverses using Euclidean algorithm
+# Modular inverses using Euclidean algorithm
 
 We want to solve $x$ given $a$:
 $$ax\equiv 1 (\bmod n)$$
