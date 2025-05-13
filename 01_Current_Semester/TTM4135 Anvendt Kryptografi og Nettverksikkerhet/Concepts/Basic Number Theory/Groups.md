@@ -39,3 +39,6 @@ $(Z, +)$ is an **abelian group**.
 * Simply **number of elements** in the group $G$
 
 $$Z_6=\{0,1,2,3,4,5\}\rightarrow\left|G\right| = 6$$
+**Repeated Application** $g^k$:
+* Applying $g$, $k$ times.
+$$g^3 = g\times g\times g$$
