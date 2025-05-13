@@ -35,6 +35,9 @@ $(Z, +)$ is an **abelian group**.
 
 # Cyclic groups
 
+A group is **cyclic** if it has a **generator**.
+
+The group can be built completely by applying the group operation repeatedly to a single element
 ## Order of a Group $\left|G\right|$
 * Simply **number of elements** in the group $G$
 
@@ -46,3 +49,5 @@ $$g^3 = g\times g\times g$$
 * the **smallest positive integer $k$** such that
 $$g^k = 1$$
 **Generator**
+* An element $g\in G$ is a **generator** if repeatedly applying it produces all elements of the group
+$$\left|g\right| =\left|G\right|$$
