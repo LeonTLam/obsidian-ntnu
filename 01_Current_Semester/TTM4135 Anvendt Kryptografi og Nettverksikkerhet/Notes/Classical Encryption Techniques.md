@@ -6,7 +6,11 @@
 
 ---
 ## Key Points
-- Summary of key discussions.
+- We study historical ciphers in order to:
+	- Establish basic notation and terminology
+	- Introduce basic cryptographic operations still used as building blocks for modern cryptographic algorithms.
+	- Explore typical attacks and adversary capabilities that our cryptosystems should defend against.
+	
 
 ---
 ## Notes
