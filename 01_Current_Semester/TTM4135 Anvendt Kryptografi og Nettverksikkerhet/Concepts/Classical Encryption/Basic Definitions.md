@@ -1,3 +1,9 @@
+---
+tags:
+  - Concept
+---
+# Concept for [[Classical Encryption Techniques.md]]
+
 # Cryptography
 *The study of designing cryptosystems.*
 
@@ -29,15 +35,18 @@ Encryption and decryption keys known only to sender and receiver
 ### Notation
 
 $$\begin{aligned}
-E = \text{Encryption function}\\
-D = \text{Decryption function}\\
-M = \text{Message/Plaintext}\\
-C = \text{Cryptogram/Ciphertext}\
+E &= \text{Encryption function}\\
+D &= \text{Decryption function}\\
+M &= \text{Message/Plaintext}\\
+C &= \text{Cryptogram/Ciphertext}\\
+K &= \text{Shared secret key}\\
+\\
+\text{Encryption}: C&=E(K,M)\\
+\text{Decryption}: M&=D(K,C)
 \end{aligned}$$
 
 ## Asymmetric key cipher (public key cipher)
 Each participant has a public and private key.
 Allows both encryption and creation of digital signatures.
-
 
 

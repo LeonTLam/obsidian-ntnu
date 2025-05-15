@@ -4,21 +4,21 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:01_Current_Semester  ",
       "color": {
         "a": 1,
-        "rgb": 4673279
+        "rgb": 6646523
       }
     },
     {
       "query": "path:02_Archive  ",
       "color": {
         "a": 1,
-        "rgb": 14108671
+        "rgb": 14378751
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.31334829639324085,
-  "close": false
+  "scale": 0.22350365107184314,
+  "close": true
 }
