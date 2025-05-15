@@ -21,4 +21,23 @@ Consists of:
 * function transforming plaintext to ciphertext (encryption)
 * inverse function transforming ciphertext to plaintext (decryption)
 
-#
+# Symmetric and Asymmetric Cryptography
+
+## Symmetric key cipher (secret key cipher)
+Encryption and decryption keys known only to sender and receiver
+**Requires** secure channel for transmission of cryptographic key.
+### Notation
+
+$$\begin{aligned}
+E = \text{Encryption function}\\
+D = \text{Decryption function}\\
+M = \text{Message/Plaintext}\\
+C = \text{Cryptogram/Ciphertext}\
+\end{aligned}$$
+
+## Asymmetric key cipher (public key cipher)
+Each participant has a public and private key.
+Allows both encryption and creation of digital signatures.
+
+
+
