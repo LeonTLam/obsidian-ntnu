@@ -2,7 +2,7 @@
 dueDate: 2025-05-07
 course: "[[TTM4115]]"
 isGroupWork: 👨‍👩‍👧‍👦Group Work
-Status: ➡️ In Progress
+Status: ✅ Completed
 tags:
   - Assignment
 assignmentName: "[[Semester Projekt]]"
