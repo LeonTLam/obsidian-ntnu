@@ -37,3 +37,11 @@ A cryptosystem which can be practically attacked using only ciphertexts is consi
 Modern standard is that a cryptosystem should be secure against chosen plaintext and chosen ciphertext attacks.
 
 History shows that chosen ciphertext attacks can often be practical to set up for an attacker.
+
+# Kerchkhoffs' Principle
+
+*An attacker has complete knowledge of how the cryptosystem works. The decryption key is the only thing unknown to the attacker*.
+
+Reasonable assumption based on history.
+
+Using a secret, non-standard algorithm can cause severe problems. This is an example of security through obscurity.
