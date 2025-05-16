@@ -16,3 +16,10 @@ permutes characters usually in fixed period $d$ and permutation $f$.
 Consider the plaintext as a matrix of rows of length $d$.
 
 Generally transposition ciphers can permute rows or columns and output in row or column order.
+
+#### Simple transposition cipher
+Key pair is $d$ and $f$
+Each block of $d$ char. is re-ordered using the permutation $f$.
+
+There are $d!$ permutations of length $d$.
+$$d!=d\times(d-1)\times(d-2)\times ...\times2\times1$$
