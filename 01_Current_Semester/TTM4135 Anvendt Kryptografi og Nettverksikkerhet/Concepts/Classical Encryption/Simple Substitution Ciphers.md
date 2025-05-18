@@ -51,7 +51,6 @@ $$\text{FJLTXCFWKOVLHKJVKCBCOTEEVLPKCKJVJSTWTJYVKJVOJSTSBPLVITWCWPVDBIT WICKTKQL
 
 #### Frequency analysis of ciphertext
 
-
 | No. | Char. | %    | Freq. |
 | --- | ----- | ---- | ----- |
 | 1   | T     | 15.4 | 110   |
@@ -60,3 +59,5 @@ $$\text{FJLTXCFWKOVLHKJVKCBCOTEEVLPKCKJVJSTWTJYVKJVOJSTSBPLVITWCWPVDBIT WICKTKQL
 | 4   | K     | 6.7  | 48    |
 | 5   | L     | 6.7  | 48    |
 | 6   | V     | 6.3  | 45    |
+Since E ant T are most frequent characters in English, we can assume E -> T and T - J in the substitution table.
+Start by looking for English words like THE or other common trigrams.
