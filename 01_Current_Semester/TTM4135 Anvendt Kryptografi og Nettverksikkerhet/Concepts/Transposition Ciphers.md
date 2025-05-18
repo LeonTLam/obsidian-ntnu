@@ -23,3 +23,9 @@ Each block of $d$ char. is re-ordered using the permutation $f$.
 
 There are $d!$ permutations of length $d$.
 $$d!=d\times(d-1)\times(d-2)\times ...\times2\times1$$
+
+#### Simple substitution ciphers
+each char. in plaintext alphabet is replaced by char. in ciphertext alphabet defined by a substitution table. Also called **monoalphabetic substitution ciphers**.
+
+NOTE
+*transposition ciphers permute plaintext characters, while substitution ciphers permute alphabet characte*
