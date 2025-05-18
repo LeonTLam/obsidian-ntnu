@@ -31,3 +31,14 @@ $$\text{HTVZ∇BM∇∇VJA. . .}$$
 	Not correct, no recognizable words and double white-space.
 
 2. ∇ -> C, j=3
+$$\text{MY∇DEGREE∇OF∇DOCTOR∇OF∇MEDICINE}$$
+
+## Random Simple Substitution Cipher
+
+assigns random character of the alphabet to another character of the alphabet.
+
+Encryption and decryption defined by the substitution table which randomly permutes the alphabet.
+
+If alpha. has 26 char., there are 26! keys which is greater than $10^{26}$. This is too many keys to search even with modern computers.
+
+Caesar cipher is a special case of the random simple substitution cipher.
