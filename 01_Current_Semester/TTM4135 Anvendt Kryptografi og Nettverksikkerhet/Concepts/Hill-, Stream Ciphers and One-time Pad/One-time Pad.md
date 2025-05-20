@@ -34,3 +34,14 @@ Keystream: EZABD
 Ciphertext: LDLMR
 
 Any message could be sent with ciphertext **LDLMR**, depending on the choice of keystream.
+
+## Vernam OTP (Binary)
+
+Binary Sequence:
+* Plaintext: $b_1,...b_r$
+* Keystream random: $k_1,...,k_r$
+* Ciphertext: $c_1,...,c_r$
+$$\begin{aligned}
+\text{Encryption: }c_i\equiv p_i \oplus k_i\\
+\text{Decryption: }p_i\equiv c_i \oplus k_i\\
+\end{aligned}$$
