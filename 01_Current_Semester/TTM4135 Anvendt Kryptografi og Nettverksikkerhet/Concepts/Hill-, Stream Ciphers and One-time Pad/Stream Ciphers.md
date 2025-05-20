@@ -12,4 +12,18 @@ Keystream must have good randomness properties.
 
 ## Synchronous stream ciphers
 
-Simplest k
+Simplest kind of stream cipher, keystream generated independently of plaintext. 
+
+Both sender and receiver need to generate same keystream and synchronize on its usage.
+
+Vigenére cipher can be seen as a (periodic) synchronous stream cipher where each shift is defined by a key letter.
+
+## Binary Synchronous stream cipher
+
+For each time interval $t$, each of following are defined:
+* Binary sequence $s(t)$ called keystream
+* Binary plaintext $p(t)$
+* Binary ciphertext $c(t)$
+$$\begin{aligned}
+\text{Encryption: }c(t)=p(t)\oplus s(t)
+\end{aligned}$$
