@@ -16,3 +16,16 @@ Provides **perfect secrecy** when requirements are met:
 * Key is truly random
 * Used only once
 * Kept secret
+
+## OTP using Roman Alphabet
+
+Plaintext char: $p_1,...,p_r$
+Ciphertext char: $c_1,...,c_r$
+Keystream, true random char: $k_1,...,k_r$
+
+$$\begin{aligned}
+\text{Encryption: }c_i=(p_i+k_i)\bmod26\\
+\text{Decryption: }p_i=(c_i-k_i)\bmod26\\
+\end{aligned}$$
+### Example
+
