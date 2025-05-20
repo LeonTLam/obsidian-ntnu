@@ -45,3 +45,6 @@ $$\begin{aligned}
 \text{Encryption: }c_i\equiv p_i \oplus k_i\\
 \text{Decryption: }p_i\equiv c_i \oplus k_i\\
 \end{aligned}$$
+Length of keystream = length of plaintext
+
+Perfect secrecy, because any ciphertext has equal probability given plaintext.
