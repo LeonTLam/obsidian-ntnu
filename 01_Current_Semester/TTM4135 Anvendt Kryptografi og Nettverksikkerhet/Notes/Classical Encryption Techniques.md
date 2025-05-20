@@ -1,8 +1,11 @@
 # 08-May-2025 Daily Note for [[TTM4135]]
 
 ## Topics Covered
-- Topic 1
-- Topic 2
+- [[Basic Definitions]]
+- [[Cryptanalysis]]
+- [[Statistics of Natural Language]]
+- [[Simple Substitution Ciphers]]
+- [[Transposition Ciphers]]
 
 ---
 ## Key Points

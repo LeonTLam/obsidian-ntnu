@@ -10,7 +10,8 @@
 
 ---
 ## Notes
-- Additional notes or reminders.
+- Hill Cipher - mathematically defined encryption scheme
+- Hill Cipher io
 
 ---
 
