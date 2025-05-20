@@ -29,3 +29,8 @@ $$\begin{aligned}
 \end{aligned}$$
 ### Example
 
+Plaintext:    HELLO
+Keystream: EZABD
+Ciphertext: LDLMR
+
+Any message could be sent with ciphertext **LDLMR**, depending on the choice of keystream.
