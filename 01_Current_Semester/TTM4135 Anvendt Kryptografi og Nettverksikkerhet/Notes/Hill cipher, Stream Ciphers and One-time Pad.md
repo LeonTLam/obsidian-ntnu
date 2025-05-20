@@ -11,7 +11,9 @@
 ---
 ## Notes
 - Hill Cipher - mathematically defined encryption scheme
-- Hill Cipher io
+- Hill Cipher illustrates the weakness of linearity in cipher design
+- Stream ciphers are constructed from (pseudo-)random number generators
+- One Time Pad is a unbreakable stream cipher
 
 ---
 

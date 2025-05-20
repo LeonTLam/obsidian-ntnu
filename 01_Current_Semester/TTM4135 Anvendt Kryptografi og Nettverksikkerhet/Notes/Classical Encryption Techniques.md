@@ -6,7 +6,7 @@
 - [[Statistics of Natural Language]]
 - [[Simple Substitution Ciphers]]
 - [[Transposition Ciphers]]
-
+* [[Polyalphabetic Substitution]]
 ---
 ## Key Points
 - We study historical ciphers in order to:
