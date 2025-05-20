@@ -25,5 +25,7 @@ For each time interval $t$, each of following are defined:
 * Binary plaintext $p(t)$
 * Binary ciphertext $c(t)$
 $$\begin{aligned}
-\text{Encryption: }c(t)=p(t)\oplus s(t)
+\text{Encryption: }c(t)=p(t)\oplus s(t)\\
+\text{Decryption: }p(t)=c(t)\oplus s(t)\\
+\oplus,\text{ XOR-operation}
 \end{aligned}$$
