@@ -61,4 +61,6 @@ Encryption and decryption are identical processes.
 
 **How to generate completely random keys?**
 * True random number generators (TRNGs), radioactive decay, atmospheric noise, etc.
-* Pseudorandom number generators (PRNGs) 
+* Pseudorandom number generators (PRNGs), not sufficient as they are deterministic.
+
+**How to transport random keys between sender and receiver?**
