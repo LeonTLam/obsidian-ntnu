@@ -21,4 +21,4 @@ P&= D(C,K):\text{Decryption Function}
 
 1940s Claude Shannon discussed TWO important encryption techniques:
 * **Confusion**, involves substitution to make relationship between the key and ciphertext as complex as possible.
-* Dif
+* **Diffusion**, involves transformations that dissipate statistical properties of plaintext across the ciphertext.
