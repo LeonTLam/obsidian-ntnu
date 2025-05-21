@@ -31,10 +31,13 @@ Round function $g$ must have an inverse function $g^{-1}$ with $g_{-1}(g(W,K_i),
 Decryption is simply the reverse of encryption.
 
 $$\begin{aligned}
-W_r&=C
+W_r&=C\\
 W_{r-1} &= g^{-1}(W_r,K_r)\\
 W_{r-2} &= g^{-1}(W_{r-1},K_{r-1})\\
 ...\\
 W_0&=g^{-1}(W_{1},K_1)\\
-
+P&=W_0
 \end{aligned}$$
+### Types of Iterated Cipher
+1. **Feistel Ciphers:** e.g. Data Encryption Standard (DES)
+2. **Substitution-Permutation Networks (SPNs):** e.g. Advanced Encryption Standard (AES)
