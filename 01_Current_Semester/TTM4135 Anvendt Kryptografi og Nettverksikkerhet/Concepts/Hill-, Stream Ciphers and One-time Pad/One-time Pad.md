@@ -51,5 +51,14 @@ Encryption and decryption are identical processes.
 
 ## Properties
 
-Perfect secrecy requires as many keys as messages
-OTP is considered the only unbreakable cipher
+* Perfect secrecy requires as many keys as messages
+* OTP is considered the only unbreakable cipher
+* Main problem is management of  completely random keys
+* Generation, transportation, synchronization and destruction is problematic due to key size being large
+* Only practical between known sender and receiver AFTER key has been securely distributed beforehand (pre-assigned communication).
+
+## Key management issues for OTP
+
+**How to generate completely random keys?**
+* True random number generators (TRNGs), radioactive decay, atmospheric noise, etc.
+* Pseudorandom number generators (PRNGs) 
