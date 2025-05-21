@@ -64,3 +64,16 @@ Encryption and decryption are identical processes.
 * Pseudorandom number generators (PRNGs), not sufficient as they are deterministic.
 
 **How to transport random keys between sender and receiver?**
+* In-person handover
+* Physical media
+
+* Over secure channels, but defeats the purpose of OTP's simplicity.
+
+**How to synchronize on usage of keys**
+* Keep a shared key index or counter to track usage of a key
+* Strictly ensure no key reuse
+* Timestamps, message IDs, or sequence numbers
+
+**How to destroy keys after use?**
+* Overwrite memory/storage multiple times
+* Physically destroy media
