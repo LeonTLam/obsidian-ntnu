@@ -46,5 +46,10 @@ $$\begin{aligned}
 \text{Decryption: }p_i\equiv c_i \oplus k_i\\
 \end{aligned}$$
 Length of keystream = length of plaintext
-
 Perfect secrecy, because any ciphertext has equal probability given plaintext.
+Encryption and decryption are identical processes.
+
+## Properties
+
+Perfect secrecy requires as many keys as messages
+OTP is considered the only unbreakable cipher
