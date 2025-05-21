@@ -22,3 +22,8 @@ $$\begin{aligned}
 L_{i-1} &= R_i\oplus f(L_i,K_i)\\
 R_{i-1} &= L_i
 \end{aligned}$$
+3. Finally plaintext is $P = (L_0, R_0)$
+Never have to invert function $f$, can always decrypt for any function $f$.
+Choice of $f$ is critical for security as it is the only non-linear part of the encryption function
+
+$f$ must be non-linear to provide **confusion** ( as per Shannon's principles of designing secure cipher). Without it, it can be easily broken with linear cryptanalysis.
