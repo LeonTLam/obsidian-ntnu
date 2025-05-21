@@ -6,7 +6,9 @@
 
 ---
 ## Key Points
-- Summary of key discussions.
+- Block ciphers are the main bulk encryption algorithms used in commercial applications.
+- Standardised block cipher AES and legacy cipher DES are widely deployed in real applications.
+- NIST’s AES algorithm validation list includes over 13500 validated implementations including examples such as USB drives, door controllers, media server encryption, disk encryption, bluetooth devices, iPhone and hundreds more.
 
 ---
 ## Notes
