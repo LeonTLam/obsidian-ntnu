@@ -15,3 +15,15 @@ tags:
 
 * Infiltration, control hijacking
 	* Gain deep access to a system through exploits 
+
+* Phishing
+	* Fake media portraying as the legitimate counterpart, luring users.
+
+* Data theft, data loss
+	* Breaching a system and gaining access to private/confidential information
+
+* Denial of service (DOS)
+	* Tamper the availability of a system, by flooding server with packets.
+
+* Ransomware
+	* Malicious software that blocks access to a system until a ransom is paid
