@@ -37,7 +37,7 @@ Quests:
   - "[[03_Creative_Projects/Escape_From_Tarkov/Quests/Claustrophobia]]"
   - "[[Every Hunter Knows This]]"
   - "[[Gunsmith - Part 1]]"
-  - "[[Introduction]]"
+  - "[[03_Creative_Projects/Escape_From_Tarkov/Quests/Introduction]]"
   - "[[Rough Tarkov]]"
   - "[[The Huntsman Path - Controller]]"
   - "[[The Huntsman Path - Evil Watchman]]"

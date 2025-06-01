@@ -26,7 +26,7 @@ Currencies:
 Quests:
   - "[[Saving the Mole]]"
   - "[[Gunsmith - Part 1]]"
-  - "[[Introduction]]"
+  - "[[03_Creative_Projects/Escape_From_Tarkov/Quests/Introduction]]"
   - "[[Gunsmith - Part 2]]"
   - "[[Gunsmith - Part 3]]"
   - "[[Gunsmith - Part 4]]"
