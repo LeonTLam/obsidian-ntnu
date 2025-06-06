@@ -45,3 +45,8 @@ Prosjektet skal se på utfordringer og muligheter innen norsk kraftnett ved inte
 2. Use the findings from the qualitative study to build a model/simulator (e.g., in Python) to perform evaluations and propose novel solutions that can enhance the power grid’s robustness
 
 During the autumn semester, the students are expected to conduct an initial literature review of the Norwegian smart grid and evaluate appropriate research methods for the project.
+
+# **46** - Kanskje
+
+#
+
