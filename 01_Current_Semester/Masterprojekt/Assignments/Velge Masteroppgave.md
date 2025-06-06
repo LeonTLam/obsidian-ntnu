@@ -48,5 +48,12 @@ During the autumn semester, the students are expected to conduct an initial lite
 
 # **46** - Kanskje
 
-#
+# **56** - Optimizing Communication Networks for AI-Driven Trajectory Management of Drones
+
+**Khalifa Uni**
+
+Utfordringer i robust kommunikasjon og kobling til droner i urbane bydeler. Løsning til dette problemet vil forbedre tryggheten og effektiviteten i "urban arispace management".
+
+Prosjektet fokuserer på å forbedre "cellular network capabilities", potensielt integrering av 5G teknologi for å sikre stolbar dronekommunikasjon.
+Utvikle og implementere AI og ML teknikker som kan dynamisk sett justere nettverk parametre og dronen 
 
