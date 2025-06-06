@@ -16,10 +16,17 @@ assignmentName: "[[Velge Masteroppgave]]"
 [[META_QUEST]]
 ```
 ## Struktur:
-1. ProsjektID
-2. Overskrift
-3. Oppdragsgiver
-4. Kort beskrivelse
-5. Arbeid
+1. ProsjektID+Overskrift
+2. Oppdragsgiver
+3. Kort beskrivelse
+4. Arbeid
 
-# 
+# **14** - Open source intelligence (Security, Privacy, and Ethical Concerns)
+
+**NTNU**
+
+OSINT verktøy blir brukt av gode og slemme folk. De blir brukt til å bli kjent med informasjon som ellers ikke er tilgjengelig offentlig.
+OSINT verktøy kan derimot og misbrukes for å bryte "privacy violations" og "raise ethical concerns"...
+
+Hovedmål, omfattende overblikk 
+
