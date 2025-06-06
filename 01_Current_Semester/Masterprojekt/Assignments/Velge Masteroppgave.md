@@ -38,4 +38,10 @@ Andre delen av masteroppgaven, 3-4 verktøy blir valgt og det skal bli analysert
 
 Utfordringer i leveransen av strøm. Kommer av digitalisering innen "management" og kontroll av elektriske kraftnett.
 
-Fokus på feil påvirket av digitalisert kraftnett management 
+Fokus på feil påvirket av digitalisert kraftnett management, både de ved uhell (vær, feilkonfigurering og bugs) og de med vilje (cybersabotasje, cyberangrep).
+Prosjektet skal se på utfordringer og muligheter innen norsk kraftnett ved intervjuer av norske eksperter og ved funn som kan tas ibruk for å simulere.
+
+1. Conduct a qualitative study (e.g., interviews with experts) that analyzes challenges and opportunities in the Norwegian power grid 
+2. Use the findings from the qualitative study to build a model/simulator (e.g., in Python) to perform evaluations and propose novel solutions that can enhance the power grid’s robustness
+
+During the autumn semester, the students are expected to conduct an initial literature review of the Norwegian smart grid and evaluate appropriate research methods for the project.
