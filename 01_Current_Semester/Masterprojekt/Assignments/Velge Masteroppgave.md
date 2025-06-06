@@ -32,3 +32,10 @@ Hovedmål, omfattende overblikk over "current landscape" av OSINT verktøy og un
 
 Andre delen av masteroppgaven, 3-4 verktøy blir valgt og det skal bli analysert sikkerhet, privacy og etiske problemer ved detaljerte evalueringer, praktisk "employment", justeringer, eksperimenter og en omfattende rapport over verktøyene.
 
+# **39** - Failures and cyberattacks in the Norwegian power grid: From expert interviews to simulation
+
+**NTNU**
+
+Utfordringer i leveransen av strøm. Kommer av digitalisering innen "management" og kontroll av elektriske kraftnett.
+
+Fokus på feil påvirket av digitalisert kraftnett management 
