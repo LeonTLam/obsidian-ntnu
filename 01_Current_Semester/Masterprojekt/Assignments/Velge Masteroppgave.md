@@ -55,5 +55,6 @@ During the autumn semester, the students are expected to conduct an initial lite
 Utfordringer i robust kommunikasjon og kobling til droner i urbane bydeler. Løsning til dette problemet vil forbedre tryggheten og effektiviteten i "urban arispace management".
 
 Prosjektet fokuserer på å forbedre "cellular network capabilities", potensielt integrering av 5G teknologi for å sikre stolbar dronekommunikasjon.
-Utvikle og implementere AI og ML teknikker som kan dynamisk sett justere nettverk parametre og dronen 
+Utvikle og implementere AI og ML teknikker som kan dynamisk sett justere nettverk parametre og dronens flight path basert på data i sanntid.
+Bruke Raspberry PI for utvikling og testing, (for simulering) i en praktisk sammensetting med "field testing". 
 
