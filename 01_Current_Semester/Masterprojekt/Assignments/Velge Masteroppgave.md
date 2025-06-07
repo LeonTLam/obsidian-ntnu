@@ -80,3 +80,7 @@ NTNU
 
 P4 network switches progging, Linux
 
+# **144** - Måle og analysere RTT Across Multi-Pipeline Architectures in Programmable Switches
+
+1. Studere multi-pipeline arch i P4 switches eller "Barefoot Tofino"
+2. designe og implementere verktøy og målenheter for å samle og analysere RTT data under different pipeline assignments
