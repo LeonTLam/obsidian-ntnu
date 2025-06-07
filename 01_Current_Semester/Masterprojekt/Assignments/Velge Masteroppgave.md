@@ -61,3 +61,10 @@ Bruke Raspberry PI for utvikling og testing, (for simulering) i en praktisk samm
 # **57** - Kanskje
 
 # **61** - Kanskje pluss
+
+# **77** - Kanskje, mye koding
+
+NTNU
+
+Implementere enkrypetingsmetode "FINALLY" i c++ eller RUST
+
