@@ -58,3 +58,4 @@ Prosjektet fokuserer på å forbedre "cellular network capabilities", potensielt
 Utvikle og implementere AI og ML teknikker som kan dynamisk sett justere nettverk parametre og dronens flight path basert på data i sanntid.
 Bruke Raspberry PI for utvikling og testing, (for simulering) i en praktisk sammensetting med "field testing". 
 
+# **57** - Kanskje
