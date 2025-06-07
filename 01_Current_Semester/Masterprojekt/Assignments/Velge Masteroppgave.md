@@ -84,3 +84,8 @@ P4 network switches progging, Linux
 
 1. Studere multi-pipeline arch i P4 switches eller "Barefoot Tofino"
 2. designe og implementere verktøy og målenheter for å samle og analysere RTT data under different pipeline assignments
+
+
+# **211** - Hacking the Swiss Army Knife: AI-Powered Fuzzing of BusyBox
+
+Konfigurere og teste verktøy med LLM integrerings funksjoner
