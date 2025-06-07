@@ -59,3 +59,5 @@ Utvikle og implementere AI og ML teknikker som kan dynamisk sett justere nettver
 Bruke Raspberry PI for utvikling og testing, (for simulering) i en praktisk sammensetting med "field testing". 
 
 # **57** - Kanskje
+
+# **61** - Kanskje pluss
