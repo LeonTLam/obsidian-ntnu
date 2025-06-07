@@ -68,3 +68,15 @@ NTNU
 
 Implementere enkrypetingsmetode "FINALLY" i c++ eller RUST
 
+# **84** - Kanskje kanskje, deploye og måle
+
+NTNU
+
+Linux
+
+# **86** - Emulate RTT med fysisk switches
+
+NTNU
+
+P4 network switches progging, Linux
+
