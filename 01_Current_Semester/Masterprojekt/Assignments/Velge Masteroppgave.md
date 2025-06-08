@@ -96,5 +96,4 @@ CUJO Norway AS
 
 Create an estimator that can predic Quality of Outcome score based on relevant meta data (will gain access)
 
-# **223** - Evaluating Wi-Fi Device Capability Trends and Their Impact on Quality of Outcome (QoO) Prediction
 
