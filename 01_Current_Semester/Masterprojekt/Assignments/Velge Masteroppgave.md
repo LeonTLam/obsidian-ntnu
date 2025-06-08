@@ -89,3 +89,12 @@ P4 network switches progging, Linux
 # **211** - Hacking the Swiss Army Knife: AI-Powered Fuzzing of BusyBox
 
 Konfigurere og teste verktøy med LLM integrerings funksjoner
+
+# **222** - Create AI model to predict mobile radio network performance
+
+CUJO Norway AS
+
+Create an estimator that can predic Quality of Outcome score based on relevant meta data (will gain access)
+
+# **223** - Evaluating Wi-Fi Device Capability Trends and Their Impact on Quality of Outcome (QoO) Prediction
+
