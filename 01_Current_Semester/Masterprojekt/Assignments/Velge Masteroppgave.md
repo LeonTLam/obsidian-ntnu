@@ -2,7 +2,7 @@
 dueDate: 2025-06-10
 course: "[[Masterp]]"
 isGroupWork: 👨‍👩‍👧‍👦Group Work
-Status: ➡️ In Progress
+Status: ✅ Completed
 tags:
   - Assignment
 assignmentName: "[[Velge Masteroppgave]]"
