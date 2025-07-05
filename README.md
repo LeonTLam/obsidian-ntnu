@@ -27,7 +27,6 @@ This document provides an overview of the organization and structure of your Obs
 - **Path:** `02_Archive`
 - **Purpose:**
     - Stores notes and materials from previous semesters.
-    - Provides a historical record of past academic work.
 - **Content:**
     - Semester folders (e.g., `Semester_1`, `Semester_2`).
 
@@ -36,7 +35,6 @@ This document provides an overview of the organization and structure of your Obs
 - **Path:** `03_Creative_Projects`
 - **Purpose:**
     - Houses notes unrelated to academics, focusing on creative and personal interests.
-    - Suitable for games, guides, projects, and idea development.
 - **Content:**
     - **Games:** Notes on strategies, builds, or guides for games.
     - **Guides:** Step-by-step instructions or how-tos.
@@ -75,4 +73,3 @@ This document provides an overview of the organization and structure of your Obs
 
 ---
 
-This structure ensures that your academic and personal notes are organized and accessible. Feel free to adapt it further as needed!
