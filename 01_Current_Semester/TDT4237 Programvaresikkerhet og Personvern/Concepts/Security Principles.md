@@ -2,7 +2,7 @@
 tags:
   - Concept
 ---
-# Concept for [[Introduction.md]]
+# Concept for [[03_Creative_Projects/Escape_From_Tarkov/Quests/Introduction]]
 
 # Why security matter?
 * 81.5% of orgs. suffered from successful cyberattacks.
