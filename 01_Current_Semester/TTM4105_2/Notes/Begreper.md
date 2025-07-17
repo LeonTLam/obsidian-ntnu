@@ -3,10 +3,10 @@
 # Begreper og Definisjoner
 
 
-| Begrep              | Definisjon                            |
-| ------------------- | ------------------------------------- |
-| Spectral efficiency | information rate over given bandwidth |
-|                     |                                       |
-|                     |                                       |
-|                     |                                       |
+| Begrep                 | Definisjon                                                 |
+| ---------------------- | ---------------------------------------------------------- |
+| Spectral efficiency    | information rate over given bandwidth                      |
+| Multi-path propagation | Signal bounces on surfaces, destructive and constructive   |
+| Attenuation            | Loss of signal strength from data travels (cable/wireless) |
+|                        |                                                            |
 
