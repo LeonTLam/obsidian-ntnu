@@ -13,3 +13,7 @@ No breaks or discontinuities in the signal, continuous function of time
 
 # Digital Signal
 Signal intensity maintains a constant level for some period of time and then changes to another constant level
+
+# Periodic Signal
+
+*Analog or digital signal pattern that repeats over time*
