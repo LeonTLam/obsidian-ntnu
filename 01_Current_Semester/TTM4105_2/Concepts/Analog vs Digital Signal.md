@@ -37,3 +37,17 @@ A -\text{amplitude}\\
 \phi -\text{phase shift}
 \end{aligned}$$
 Phase is a measure of the relative position in time within a single period of a signal
+
+# Frequency and Wavelength
+
+Frequency (f) - number of electromagnetic wave cycles that pass a single point per unit time measured in hertz (Hz) - cycles per second
+
+Wavelength ($\lambda$) - distance that the signal travels during 1 complete cycle
+
+Period (T) - time taken for one complete oscillation
+
+![[Pasted image 20250717173001.png]]
+
+# Frequency/Wavelength relationship
+
+Speed of wave (v) is the distance that the wave travels per unit time (speed of a wave is equal to its frequency multiplied by the wavel)
