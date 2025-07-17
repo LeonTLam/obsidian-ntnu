@@ -36,7 +36,7 @@
 
 *An electrical or electromagnetic quantity (current, voltage, radio wave, micro wave, etc.) that carries data or information form one system to another*
 
-More about [[Analog vs Digital Signal|Signals]]
+More about [[02_Archive/Semester_1/TTM4105 Aksess- og transportnett/Lecture_0_Introduction/Concepts/Analog vs Digital Signal|Signals]]
 
 # Radio Frequency
 
