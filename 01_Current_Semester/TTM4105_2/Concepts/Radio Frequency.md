@@ -13,3 +13,11 @@ RF is the oscillation rate of an alternating electric current or voltage or of a
 A function containing no freq. higher that X Hz is completely determined by sampling at at least 2X Hz
 
 Under-sampling leads to aliasing
+
+# Linear Quantization
+
+Output values $f_2$ divided in $2^n$ equal steps
+
+Mapping of $f_1 \rightarrow f_2$ through rounding
+
+Limitations of the input values
