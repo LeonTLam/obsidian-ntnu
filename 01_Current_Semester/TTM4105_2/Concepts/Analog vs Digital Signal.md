@@ -17,3 +17,7 @@ Signal intensity maintains a constant level for some period of time and then cha
 # Periodic Signal
 
 *Analog or digital signal pattern that repeats over time*
+
+$$ \begin{center}
+s(t+T) = s(t)
+\end{center} $$
