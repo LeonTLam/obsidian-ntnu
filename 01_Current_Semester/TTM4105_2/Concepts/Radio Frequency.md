@@ -9,3 +9,7 @@ RF is the oscillation rate of an alternating electric current or voltage or of a
 ![[Pasted image 20250717173623.png]]
 
 # The Nyquist Theory
+
+A function containing no freq. higher that X Hz is completely determined by sampling at at least 2X Hz
+
+Under-sampling leads to aliasing
