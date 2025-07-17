@@ -32,5 +32,8 @@ $$\begin{aligned}
 s = A\sin(2\pi ft+\phi)
 \\
 f -\text{frequency}\\
-
+t -\text{given time}\\
+A -\text{amplitude}\\
+\phi -\text{phase shift}
 \end{aligned}$$
+Phase is a measure of the relative position in time within a single period of a signal
