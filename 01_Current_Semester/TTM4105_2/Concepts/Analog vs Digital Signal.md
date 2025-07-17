@@ -20,5 +20,17 @@ Signal intensity maintains a constant level for some period of time and then cha
 
 $$\begin{aligned}
 s(t+T)=s(t)\\
--\
+-\infty < t < +\infty
+\end{aligned}$$
+where T is the period of the signal
+
+![[Pasted image 20250717171954.png]]
+
+# Sine Wave Parameters
+
+$$\begin{aligned}
+s = A\sin(2\pi ft+\phi)
+\\
+f -\text{frequency}\\
+
 \end{aligned}$$
