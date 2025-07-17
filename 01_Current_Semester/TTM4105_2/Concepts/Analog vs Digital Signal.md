@@ -50,4 +50,6 @@ Period (T) - time taken for one complete oscillation
 
 # Frequency/Wavelength relationship
 
-Speed of wave (v) is the distance that the wave travels per unit time (speed of a wave is equal to its frequency multiplied by the wavel)
+Speed of wave (v) is the distance that the wave travels per unit time (speed of a wave is equal to its frequency multiplied by the wavelength)
+
+$\begin{aligned}v=\frac{\lambda}{T}=\lambda f\end{aligned}$
