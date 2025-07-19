@@ -25,5 +25,18 @@ Why modulation is needed?
 
 $$
 \begin{aligned}
-\end{align$$
+c(t)=A_c \cos(2\pi f_ct+\phi)\\
+A_c = amplitude\\
+f_c = carrier freq\\
+\phi = phase
+\end{aligned}$$
+* enables freq. translation
+* allows multiple signals to coexist in different freq. band (multiplexing).
+* better propagation through air, less attenuation and practical antenna size.
+
+![[Pasted image 20250719101835.png]]
+
+# Analog Modulation
+
+Shifts the analog baseband signal into a passband signal, can be transferred on wireless medium.
 
