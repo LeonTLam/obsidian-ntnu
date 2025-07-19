@@ -40,3 +40,8 @@ f_c = carrier freq\\
 
 Shifts the analog baseband signal into a passband signal, can be transferred on wireless medium.
 
+# Demodulation
+
+Extracting original information-bearing signal from a carrier wave
+
+![[Pasted image 20250719102058.png]]
